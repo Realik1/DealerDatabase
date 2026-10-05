@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SafRegister exported="2026-09-28">
+  <Member id="SAF-62900">
+    <Name>Weston Motor Group Limited</Name>
+    <Town>Crewe</Town>
+    <Postcode>CW2 2TH</Postcode>
+    <Status>Active</Status>
+    <Expiry>2027-01-31</Expiry>
+  </Member>
+  <Member id="SAF-46128">
+    <Name>Catterall Vehicle Sales (UK) Limited</Name>
+    <TradingAs>Catterall Vehicle Sales</TradingAs>
+    <Town>Reading</Town>
+    <Postcode>RG2 1UR</Postcode>
+    <Status>SUSPENDED</Status>
+    <Expiry>22/12/2025</Expiry>
+  </Member>
+  <Member id="SAF-96360">
+    <Name>JYX Vehicle Sales Limited</Name>
+    <Town>Crewe</Town>
+    <Postcode>CW17RL</Postcode>
+    <Status>Active</Status>
+    <Expiry>2026-11-10</Expiry>
+  </Member>
+  <Member id="SAF-34545">
+    <Name>Apex Autocentre</Name>
+    <Town>Chesterfield</Town>
+    <Postcode>S406TZ</Postcode>
+    <Telephone>+44 1632 960529</Telephone>
+    <Website>www.apexautocentrechesterfield.co.uk</Website>
+    <Status>Lapsed</Status>
+    <Expiry>16 Aug 2026</Expiry>
+  </Member>
+  <Member id="SAF-70524">
+    <Name>Carver &amp; Radcliffe Limited</Name>
+    <TradingAs>Carver &amp; Radcliffe</TradingAs>
+    <Town>Cardiff</Town>
+    <Postcode>cf104qd</Postcode>
+    <Telephone>029 2018 0632</Telephone>
+    <Website>www.carverandradcliffe.com</Website>
+    <Status>Lapsed</Status>
+    <Expiry>2026-03-25</Expiry>
+  </Member>
+  <Member id="SAF-84580">
+    <Name>Shuttleworth Cars</Name>
+    <LegalName>Shuttleworth Cars Limited</LegalName>
+    <Town>Leicester</Town>
+    <Postcode>le56yj</Postcode>
+    <Telephone>+441164960505</Telephone>
+    <Status>Active</Status>
+    <Expiry>2027-01-12</Expiry>
+  </Member>
+  <Member id="SAF-15408">
+    <Name>Sterling Car Supermarket</Name>
+    <LegalName>Sterling Car Supermarket Limited</LegalName>
+    <Town>Sheffield</Town>
+    <Postcode>S23DD</Postcode>
+    <Status>Active</Status>
+    <Expiry>5 March 2027</Expiry>
+  </Member>
+  <Member id="SAF-45757">
+    <Name>AK Cars (UK) Ltd</Name>
+    <Town>Bolton</Town>
+    <Postcode>BL1 2RD</Postcode>
+    <Telephone>0044 1632 960026</Telephone>
+    <Status>ACTIVE</Status>
+    <Expiry>5 May 2027</Expiry>
+  </Member>
+  <Member id="SAF-20602">
+    <Name>CU Cars</Name>
+    <Town>Birmingham</Town>
+    <Postcode>B33 2UP</Postcode>
+    <Telephone>0121 496 0774</Telephone>
+    <Status>Lapsed</Status>
+    <Expiry>2026-02-15</Expiry>
+  </Member>
+  <Member id="SAF-71290">
+    <Name>Prestige Automotive Limited</Name>
+    <Town>Leek</Town>
+    <Postcode>ST13 9UU</Postcode>
+    <Telephone>01632 960064</Telephone>
+    <Status>Lapsed</Status>
+    <Expiry>1 February 2026</Expiry>
+  </Member>
+  <Member id="SAF-57008">
+    <Name>Premier Car Centre Limited</Name>
+    <Town>Cardiff</Town>
+    <Postcode>CF11 6XF</Postcode>
+    <Telephone>029 2018 0923</Telephone>
+    <Status>Lapsed</Status>
+    <Expiry>5 August 2025</Expiry>
+  </Member>
+  <Member id="SAF-51056">
+    <Name>Manchester Autocentre</Name>
+    <LegalName>Manchester Autocentre Limited</LegalName>
+    <Town>Manchester</Town>
+    <Postcode>M40 1JJ</Postcode>
+    <Telephone>+441614960401</Telephone>
+    <Status>Lapsed</Status>
+    <Expiry>2026-02-14</Expiry>
+  </Member>
+  <Member id="SAF-26725">
+    <Name>Kershaw Motor Company</Name>
+    <Town>Preston</Town>
+    <Postcode>PR1 4DH</Postcode>
+    <Website>http://www.kershawmotorcompany.uk</Website>
+    <Status>Active</Status>
+    <Expiry>2027-02-19</Expiry>
+  </Member>
+  <Member id="SAF-74923">
+    <Name>Gilmore Cars</Name>
+    <Town>Chesterfield</Town>
+    <Postcode>s41 2rq</Postcode>
+    <Website>www.gilmorecars.co.uk</Website>
+    <Status>Active</Status>
+    <Expiry>2026-12-18</Expiry>
+  </Member>
+  <Member id="SAF-54271">
+    <Name>Whitworth Cars Limited</Name>
+    <Town>Birmingham</Town>
+    <Postcode>B24 1QN</Postcode>
+    <Website>whitworthcars.co.uk</Website>
+    <Status>Lapsed</Status>
+    <Expiry>09/06/2025</Expiry>
+  </Member>
+  <Member id="SAF-45197">
+    <Name>Leicester Autos</Name>
+    <LegalName>Leicester Autos Limited</LegalName>
+    <Town>Leicester</Town>
+    <Postcode>LE199UQ</Postcode>
+    <Status>Active</Status>
+    <Expiry>2027-07-24</Expiry>
+  </Member>
+  <Member id="SAF-87468">
+    <Name>Value Car Centre (UK) Limited</Name>
+    <Town>Preston</Town>
+    <Postcode>PR54EB</Postcode>
+    <Telephone>01632 960011</Telephone>
+    <Status>Active</Status>
+    <Expiry>26 Jul 2027</Expiry>
+  </Member>
+  <Member id="SAF-45441">
+    <Name>CP Cars</Name>
+    <LegalName>CP Cars Limited</LegalName>
+    <Town>Glasgow</Town>
+    <Postcode>G72 8TW</Postcode>
+    <Telephone>01414960089</Telephone>
+    <Website>www.cpcars.co.uk</Website>
+    <Status>Active</Status>
+    <Expiry>10 Jan 2027</Expiry>
+  </Member>
+  <Member id="SAF-71131">
+    <Name>Brookside Motors</Name>
+    <LegalName>Brookside Motor Group Limited</LegalName>
+    <Town>Nottingham</Town>
+    <Postcode>NG7 2LL</Postcode>
+    <Status>Active</Status>
+    <Expiry>21 Dec 2026</Expiry>
+  </Member>
+  <Member id="SAF-68175">
+    <Name>Advance Car Supermarket</Name>
+    <LegalName>Haworth Holdings Limited</LegalName>
+    <Town>Bristol</Town>
+    <Postcode>BS37JN</Postcode>
+    <Status>Active</Status>
+    <Expiry>02/04/2027</Expiry>
+  </Member>
+  <Member id="SAF-31817">
+    <Name>Birtwistle Motor Company Limited</Name>
+    <Town>Newcastle upon Tyne</Town>
+    <Postcode>NE6 1EX</Postcode>
+    <Status>Active</Status>
+    <Expiry>28 Oct 2026</Expiry>
+  </Member>
+  <Member id="SAF-27179">
+    <Name>Bennett &amp; Jarvis</Name>
+    <LegalName>Clayton Holdings Limited</LegalName>
+    <Town>Stoke-on-Trent</Town>
+    <Postcode>ST1 9FJ</Postcode>
+    <Status>Active</Status>
+    <Expiry>7 September 2027</Expiry>
+  </Member>
+  <Member id="SAF-33677">
+    <Name>Eastway Motors</Name>
+    <Town>Reading</Town>
+    <Postcode>rg308ff</Postcode>
+    <Telephone>0118 496 0264</Telephone>
+    <Website>HTTPS://WWW.EASTWAYMOTORS.CO.UK/</Website>
+    <Status>Active</Status>
+    <Expiry>3 June 2027</Expiry>
+  </Member>
+  <Member id="SAF-50621">
+    <Name>Regal Autos Limited</Name>
+    <TradingAs>Regal Autos</TradingAs>
+    <Town>Cardiff</Town>
+    <Postcode>CF24 3AQ</Postcode>
+    <Telephone>+44 29 2018 0112</Telephone>
+    <Website>http://www.regalautos.co.uk</Website>
+    <Status>Active</Status>
+    <Expiry>2026-10-29</Expiry>
+  </Member>
+  <Member id="SAF-92501">
+    <Name>XJI Vehicle Sales Limited</Name>
+    <TradingAs>Ogden Motor Company</TradingAs>
+    <Town>Leek</Town>
+    <Postcode>st13 4rf</Postcode>
+    <Telephone>01632 960631</Telephone>
+    <Website>https://www.ogdenmotorcompany.uk/stock/</Website>
+    <Status>Lapsed</Status>
+    <Expiry>08/09/2025</Expiry>
+  </Member>
+  <Member id="SAF-12635">
+    <Name>Value Motors</Name>
+    <LegalName>Value Motors (UK) Limited</LegalName>
+    <Town>Liverpool</Town>
+    <Postcode>L363NA</Postcode>
+    <Website>https://valuemotors.co.uk/used-cars</Website>
+    <Status>Active</Status>
+    <Expiry>2027-08-01</Expiry>
+  </Member>
+  <Member id="SAF-12213">
+    <Name>Hartley Car Centre Limited</Name>
+    <Town>Cardiff</Town>
+    <Postcode>CF117XJ</Postcode>
+    <Status>Active</Status>
+    <Expiry>27 June 2027</Expiry>
+  </Member>
+  <Member id="SAF-35428">
+    <Name>Carver Car Sales Limited</Name>
+    <TradingAs>Carver Car Sales</TradingAs>
+    <Town>Derby</Town>
+    <Postcode>DE1 7SG</Postcode>
+    <Status>Active</Status>
+    <Expiry>2026-11-26</Expiry>
+  </Member>
+  <Member id="SAF-21901">
+    <Name>Riverside Vehicle Centre</Name>
+    <LegalName>Riverside Vehicle Centre Limited</LegalName>
+    <Town>Nottingham</Town>
+    <Postcode>NG6 2SU</Postcode>
+    <Telephone>0115 496 0093</Telephone>
+    <Status>Active</Status>
+    <Expiry>2027-06-25</Expiry>
+  </Member>
+  <Member id="SAF-43036">
+    <Name>Garside &amp; Sons</Name>
+    <Town>Reading</Town>
+    <Postcode>rg30 4uy</Postcode>
+    <Status>Lapsed</Status>
+    <Expiry>14 August 2026</Expiry>
+  </Member>
+  <Member id="SAF-54219">
+    <Name>Millbrook Autos Ltd</Name>
+    <TradingAs>Millbrook Autos</TradingAs>
+    <Town>London</Town>
+    <Postcode>nw105pa</Postcode>
+    <Website>http://www.millbrookautos.co.uk</Website>
+    <Status>Active</Status>
+    <Expiry>2027-08-08</Expiry>
+  </Member>
+  <Member id="SAF-24799">
+    <Name>Kershaw Cars Limited</Name>
+    <TradingAs>Kershaw Cars</TradingAs>
+    <Town>London</Town>
+    <Postcode>NW10 6RQ</Postcode>
+    <Status>Suspended</Status>
+    <Expiry>2025-06-30</Expiry>
+  </Member>
+  <Member id="SAF-75685">
+    <Name>Leicester Automotive Limited</Name>
+    <TradingAs>Leicester Autocentre</TradingAs>
+    <Town>Leicester</Town>
+    <Postcode>LE3 8TT</Postcode>
+    <Telephone>0044 116 496 0017</Telephone>
+    <Website>https://leicesterautocentre.co.uk/used-cars</Website>
+    <Status>Active</Status>
+    <Expiry>16/05/2027</Expiry>
+  </Member>
+  <Member id="SAF-30358">
+    <Name>Thornley &amp; Pickering Limited</Name>
+    <TradingAs>Thornley &amp; Pickering</TradingAs>
+    <Town>Manchester</Town>
+    <Postcode>M12 5YJ</Postcode>
+    <Telephone>0161 496 0762</Telephone>
+    <Website>thornleyandpickering.com</Website>
+    <Status>Active</Status>
+    <Expiry>2027-02-28</Expiry>
+  </Member>
+  <Member id="SAF-94441">
+    <Name>Crompton Cars</Name>
+    <LegalName>Crompton Cars Limited</LegalName>
+    <Town>London</Town>
+    <Postcode>SE28 5RP</Postcode>
+    <Telephone>020 7946 0011</Telephone>
+    <Website>www.cromptoncarslondon.co.uk</Website>
+    <Status>Active</Status>
+    <Expiry>02/05/2027</Expiry>
+  </Member>
+  <Member id="SAF-64772">
+    <Name>Walmsley Cars Limited</Name>
+    <TradingAs>Walmsley Cars</TradingAs>
+    <Town>Leicester</Town>
+    <Postcode>LE19 1NP</Postcode>
+    <Telephone>0116 496 0426</Telephone>
+    <Status>Suspended</Status>
+    <Expiry>16/01/2026</Expiry>
+  </Member>
+  <Member id="SAF-35042">
+    <Name>LR Cars</Name>
+    <Town>Hanley</Town>
+    <Postcode>ST1 3SH</Postcode>
+    <Telephone>+44 1632 960154</Telephone>
+    <Website>https://www.lrcars.co.uk/</Website>
+    <Status>Lapsed</Status>
+    <Expiry>17 Nov 2025</Expiry>
+  </Member>
+  <Member id="SAF-10111">
+    <Name>Smith Motors</Name>
+    <LegalName>Smith Motors Limited</LegalName>
+    <Town>Leeds</Town>
+    <Postcode>ls114wx</Postcode>
+    <Telephone>0113 496 0031</Telephone>
+    <Website>https://www.smith-motors.co.uk/stock/</Website>
+    <Status>Active</Status>
+    <Expiry>2026-12-16</Expiry>
+  </Member>
+  <Member id="SAF-44299">
+    <Name>Ashgrove Vehicle Sales</Name>
+    <Town>Manchester</Town>
+    <Postcode>M11 8SQ</Postcode>
+    <Website>https://www.ashgrovevehiclesalesmanchester.co.uk/</Website>
+    <Status>Active</Status>
+    <Expiry>12/12/2026</Expiry>
+  </Member>
+  <Member id="SAF-32032">
+    <Name>Rigby Holdings Limited</Name>
+    <Town>Derby</Town>
+    <Postcode>DE21 2XH</Postcode>
+    <Website>http://www.wolstenholmeandsonsderby.co.uk</Website>
+    <Status>Active</Status>
+    <Expiry>26/12/2026</Expiry>
+  </Member>
+  <Member id="SAF-95725">
+    <Name>Cardiff Car Centre</Name>
+    <LegalName>Cardiff Car Centre Limited</LegalName>
+    <Town>Cardiff</Town>
+    <Postcode>CF24 3EE</Postcode>
+    <Status>Lapsed</Status>
+    <Expiry>21 October 2025</Expiry>
+  </Member>
+  <Member id="SAF-68062">
+    <Name>Fairbrother Car Sales</Name>
+    <Town>Liverpool</Town>
+    <Postcode>L20 8YE</Postcode>
+    <Telephone>+441514960184</Telephone>
+    <Status>SUSPENDED</Status>
+    <Expiry>30/06/2025</Expiry>
+  </Member>
+  <Member id="SAF-65670">
+    <Name>JRM Vehicle Sales Ltd</Name>
+    <Town>Chesterfield</Town>
+    <Postcode>s41 4wt</Postcode>
+    <Status>Lapsed</Status>
+    <Expiry>25 March 2026</Expiry>
+  </Member>
+  <Member id="SAF-95000">
+    <Name>Openshaw Motor Company</Name>
+    <LegalName>Dawson Holdings Limited</LegalName>
+    <Town>Wolverhampton</Town>
+    <Postcode>wv143xn</Postcode>
+    <Website>openshawmotorcompany.com</Website>
+    <Status>Suspended</Status>
+    <Expiry>2025-05-31</Expiry>
+  </Member>
+</SafRegister>

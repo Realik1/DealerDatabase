@@ -1,0 +1,13 @@
+{
+  "target": {
+    "name": "PENDLE VEHICLE SALES LIMITED",
+    "vatNumber": "148294150",
+    "address": {
+      "line1": "23 Ring Road",
+      "line2": "BRISTOL",
+      "postcode": "BS5 8DU",
+      "countryCode": "GB"
+    }
+  },
+  "processingDate": "2026-09-28T10:52:10+01:00"
+}

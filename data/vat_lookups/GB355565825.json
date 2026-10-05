@@ -1,0 +1,14 @@
+{
+  "target": {
+    "name": "CARDIFF CAR CENTRE LIMITED",
+    "vatNumber": "355565825",
+    "address": {
+      "line1": "The Old Foundry",
+      "line2": "27-75 Mount Pleasant",
+      "line3": "CARDIFF",
+      "postcode": "CF24 3EE",
+      "countryCode": "GB"
+    }
+  },
+  "processingDate": "2026-09-24T12:35:46+01:00"
+}

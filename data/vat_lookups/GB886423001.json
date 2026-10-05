@@ -1,0 +1,14 @@
+{
+  "target": {
+    "name": "WALMSLEY CARS LIMITED",
+    "vatNumber": "886423001",
+    "address": {
+      "line1": "Phoenix Court",
+      "line2": "Mill Lane",
+      "line3": "LEICESTER",
+      "postcode": "LE19 1NP",
+      "countryCode": "GB"
+    }
+  },
+  "processingDate": "2026-09-21T12:34:01+01:00"
+}

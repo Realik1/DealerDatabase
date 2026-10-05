@@ -1,0 +1,14 @@
+{
+  "target": {
+    "name": "ZSO VEHICLE SALES LIMITED",
+    "vatNumber": "828195306",
+    "address": {
+      "line1": "Northgate Retail Park",
+      "line2": "20-193 Hall Lane",
+      "line3": "NOTTINGHAM",
+      "postcode": "NG7 3NU",
+      "countryCode": "GB"
+    }
+  },
+  "processingDate": "2026-09-20T08:41:55+01:00"
+}

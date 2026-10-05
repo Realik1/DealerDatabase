@@ -1,0 +1,14 @@
+{
+  "target": {
+    "name": "ASHWORTH CAR GROUP LTD",
+    "vatNumber": "620830472",
+    "address": {
+      "line1": "Lowry House",
+      "line2": "17 Marble Street",
+      "line3": "MANCHESTER",
+      "postcode": "M2 3AW",
+      "countryCode": "GB"
+    }
+  },
+  "processingDate": "2026-09-28T17:07:23+01:00"
+}

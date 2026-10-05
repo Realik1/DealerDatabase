@@ -1,0 +1,13 @@
+{
+  "target": {
+    "name": "QD CARS LIMITED",
+    "vatNumber": "557652315",
+    "address": {
+      "line1": "8 Park Lane",
+      "line2": "CREWE",
+      "postcode": "CW1 2WA",
+      "countryCode": "GB"
+    }
+  },
+  "processingDate": "2026-09-26T17:55:22+01:00"
+}

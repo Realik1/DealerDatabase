@@ -1,0 +1,14 @@
+{
+  "target": {
+    "name": "JYX VEHICLE SALES LIMITED",
+    "vatNumber": "677695953",
+    "address": {
+      "line1": "Lowry House",
+      "line2": "17 Marble Street",
+      "line3": "MANCHESTER",
+      "postcode": "M2 3AW",
+      "countryCode": "GB"
+    }
+  },
+  "processingDate": "2026-09-26T08:37:02+01:00"
+}

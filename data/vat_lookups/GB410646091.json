@@ -1,0 +1,14 @@
+{
+  "target": {
+    "name": "REGAL AUTOS LIMITED",
+    "vatNumber": "410646091",
+    "address": {
+      "line1": "Meadow Industrial Estate",
+      "line2": "11 Chapel Street",
+      "line3": "CARDIFF",
+      "postcode": "CF24 3AQ",
+      "countryCode": "GB"
+    }
+  },
+  "processingDate": "2026-09-25T13:39:56+01:00"
+}

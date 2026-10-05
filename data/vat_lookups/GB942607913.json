@@ -1,0 +1,14 @@
+{
+  "target": {
+    "name": "HAWORTH HOLDINGS LIMITED",
+    "vatNumber": "942607913",
+    "address": {
+      "line1": "Unit 1A, Kingsway Trading Estate",
+      "line2": "Wharf Road",
+      "line3": "BRISTOL",
+      "postcode": "BS3 7JN",
+      "countryCode": "GB"
+    }
+  },
+  "processingDate": "2026-09-21T10:00:46+01:00"
+}

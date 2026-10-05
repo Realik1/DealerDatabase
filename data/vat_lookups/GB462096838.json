@@ -1,0 +1,14 @@
+{
+  "target": {
+    "name": "CATTERALL VEHICLE SALES (UK) LIMITED",
+    "vatNumber": "462096838",
+    "address": {
+      "line1": "Unit 12A, Kingsway Trading Estate",
+      "line2": "Parkway",
+      "line3": "READING",
+      "postcode": "RG2 2ZH",
+      "countryCode": "GB"
+    }
+  },
+  "processingDate": "2026-09-28T16:16:47+01:00"
+}

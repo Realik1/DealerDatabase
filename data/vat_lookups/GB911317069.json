@@ -1,0 +1,14 @@
+{
+  "target": {
+    "name": "SHUTTLEWORTH AUTOS LIMITED",
+    "vatNumber": "911317069",
+    "address": {
+      "line1": "Unit 30, The Old Foundry",
+      "line2": "Leek Road",
+      "line3": "HANLEY",
+      "postcode": "ST1 3LJ",
+      "countryCode": "GB"
+    }
+  },
+  "processingDate": "2026-09-24T08:34:31+01:00"
+}

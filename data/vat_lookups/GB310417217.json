@@ -1,0 +1,14 @@
+{
+  "target": {
+    "name": "RIGBY HOLDINGS LIMITED",
+    "vatNumber": "310417217",
+    "address": {
+      "line1": "Unit 25A, Meadow Industrial Estate",
+      "line2": "Mill Lane",
+      "line3": "DERBY",
+      "postcode": "DE21 2XH",
+      "countryCode": "GB"
+    }
+  },
+  "processingDate": "2026-09-26T17:07:22+01:00"
+}

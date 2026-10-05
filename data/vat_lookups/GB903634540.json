@@ -1,0 +1,14 @@
+{
+  "target": {
+    "name": "LEICESTER AUTOMOTIVE LIMITED",
+    "vatNumber": "903634540",
+    "address": {
+      "line1": "Unit 29A, The Old Foundry",
+      "line2": "Church Street",
+      "line3": "LEICESTER",
+      "postcode": "LE3 8TT",
+      "countryCode": "GB"
+    }
+  },
+  "processingDate": "2026-09-26T10:01:43+01:00"
+}

@@ -1,0 +1,1697 @@
+{
+  "Message": "ok",
+  "ResultInfo": {
+    "total_count": 86,
+    "exported": "2026-09-28"
+  },
+  "Data": [
+    {
+      "FRN": "913639",
+      "Organisation Name": "AK Cars (UK) Limited",
+      "Status": "Authorised",
+      "Status Effective Date": "28/01/2024",
+      "Business Type": "Regulated",
+      "Companies House Number": "11151133",
+      "Trading Names": [],
+      "Address": {
+        "Address Line 1": "Unit 26A, Riverside Business Park",
+        "Address Line 2": "Moor Lane",
+        "Town": "Bolton",
+        "Postcode": "BL1 2RD"
+      },
+      "Permissions": [
+        "Credit broking",
+        "Debt counselling"
+      ]
+    },
+    {
+      "FRN": 684171,
+      "Organisation Name": "Garside & Sons Limited",
+      "Status": "No longer authorised",
+      "Status Effective Date": "28/04/2020",
+      "Business Type": "Regulated",
+      "Companies House Number": "10278464",
+      "Trading Names": [
+        "Garside & Sons"
+      ],
+      "Address": {
+        "Address Line 1": "Unit 22A, Kingsway Trading Estate",
+        "Address Line 2": "Station Road",
+        "Town": "Reading",
+        "Postcode": "RG30 4UY"
+      },
+      "Permissions": [
+        "Credit broking"
+      ]
+    },
+    {
+      "FRN": 632272,
+      "Organisation Name": "Stansfield & Sons Limited",
+      "Status": "Authorised",
+      "Status Effective Date": "05/08/2019",
+      "Business Type": "Regulated",
+      "Companies House Number": "10827331",
+      "Trading Names": [],
+      "Address": {
+        "Address Line 1": "Meadow Industrial Estate",
+        "Address Line 2": "Brook Lane",
+        "Town": "Derby",
+        "Postcode": "DE17ZQ"
+      },
+      "Permissions": [
+        "Credit broking"
+      ]
+    },
+    {
+      "FRN": 910922,
+      "Organisation Name": "Crompton Car Sales Ltd",
+      "Status": "Appointed representative",
+      "Status Effective Date": "25/07/2021",
+      "Business Type": "Appointed Representative",
+      "Companies House Number": "2922768",
+      "Trading Names": [
+        "Crompton Car Sales"
+      ],
+      "Address": {
+        "Address Line 1": "Unit 5, Kingsway Trading Estate",
+        "Address Line 2": "Commercial Road",
+        "Town": "Cardiff",
+        "Postcode": "CF106TR"
+      },
+      "Permissions": [],
+      "Principal Firm": {
+        "FRN": 628633,
+        "Name": "Autolink Credit Partners Limited"
+      }
+    },
+    {
+      "FRN": 928359,
+      "Organisation Name": "SY Automotive Limited",
+      "Status": "Authorised",
+      "Status Effective Date": "08/10/2025",
+      "Business Type": "Regulated",
+      "Trading Names": [
+        "SY Cars"
+      ],
+      "Address": {
+        "Address Line 1": "2 Chapel Street",
+        "Address Line 2": "",
+        "Town": "Sheffield",
+        "Postcode": "S356NJ"
+      },
+      "Permissions": [
+        "Credit broking"
+      ]
+    },
+    {
+      "FRN": "605415",
+      "Organisation Name": "IGZ Vehicle Sales Ltd",
+      "Status": "Appointed representative",
+      "Status Effective Date": "03/05/2016",
+      "Business Type": "Appointed Representative",
+      "Companies House Number": "SC117044",
+      "Trading Names": [],
+      "Address": {
+        "Address Line 1": "5 Ford Lane",
+        "Address Line 2": "",
+        "Town": "Glasgow",
+        "Postcode": "g33 1ly"
+      },
+      "Permissions": [],
+      "Principal Firm": {
+        "FRN": 628633,
+        "Name": "Autolink Credit Partners Limited"
+      }
+    },
+    {
+      "FRN": 675005,
+      "Organisation Name": "Catterall Vehicle Sales (UK) Limited",
+      "Status": "Authorised",
+      "Status Effective Date": "09/11/2014",
+      "Business Type": "Regulated",
+      "Companies House Number": "02462924",
+      "Trading Names": [
+        "Catterall Vehicle Sales"
+      ],
+      "Address": {
+        "Address Line 1": "Unit 12, Northgate Retail Park",
+        "Address Line 2": "Bradford Road",
+        "Town": "Reading",
+        "Postcode": "RG2 1UR"
+      },
+      "Permissions": [
+        "Credit broking"
+      ]
+    },
+    {
+      "FRN": 957883,
+      "Organisation Name": "Millbrook Autos Ltd",
+      "Status": "Appointed representative",
+      "Status Effective Date": "10/09/2018",
+      "Business Type": "Appointed Representative",
+      "Companies House Number": "2968221",
+      "Trading Names": [
+        "Millbrook Autos"
+      ],
+      "Address": {
+        "Address Line 1": "26-43 Mount Pleasant",
+        "Address Line 2": "",
+        "Town": "London",
+        "Postcode": "NW105PA"
+      },
+      "Permissions": [],
+      "Principal Firm": {
+        "FRN": 628633,
+        "Name": "Autolink Credit Partners Limited"
+      }
+    },
+    {
+      "FRN": 971613,
+      "Organisation Name": "Thornley & Pickering Limited",
+      "Status": "Authorised",
+      "Status Effective Date": "08/02/2026",
+      "Business Type": "Regulated",
+      "Companies House Number": "12373897",
+      "Trading Names": [
+        "Thornley & Pickering"
+      ],
+      "Address": {
+        "Address Line 1": "Unit 30, Kingsway Trading Estate",
+        "Address Line 2": "Brook Lane",
+        "Town": "Manchester",
+        "Postcode": "M12 5YJ"
+      },
+      "Permissions": [
+        "Credit broking"
+      ]
+    },
+    {
+      "FRN": 903008,
+      "Organisation Name": "Smith Motors Limited",
+      "Status": "Authorised",
+      "Status Effective Date": "10/09/2023",
+      "Business Type": "Regulated",
+      "Companies House Number": "03545926",
+      "Trading Names": [],
+      "Address": {
+        "Address Line 1": "Meadow Industrial Estate",
+        "Address Line 2": "9-187 Bridge Street",
+        "Town": "Leeds",
+        "Postcode": "LS11 4WX"
+      },
+      "Permissions": [
+        "Credit broking",
+        "Debt counselling"
+      ]
+    },
+    {
+      "FRN": 721583,
+      "Organisation Name": "Prestige Automotive Limited",
+      "Status": "Appointed representative",
+      "Status Effective Date": "11/04/2016",
+      "Business Type": "Appointed Representative",
+      "Companies House Number": "02889153",
+      "Trading Names": [],
+      "Address": {
+        "Address Line 1": "Northgate Retail Park",
+        "Address Line 2": "26 Hall Lane",
+        "Town": "Leek",
+        "Postcode": "ST139UU"
+      },
+      "Permissions": [],
+      "Principal Firm": {
+        "FRN": 752458,
+        "Name": "Motor Finance Network Limited"
+      }
+    },
+    {
+      "FRN": 696900,
+      "Organisation Name": "Liverpool Car Centre Limited",
+      "Status": "Authorised",
+      "Status Effective Date": "01/02/2023",
+      "Business Type": "Regulated",
+      "Companies House Number": "02726504",
+      "Trading Names": [
+        "Liverpool Car Centre"
+      ],
+      "Address": {
+        "Address Line 1": "Unit 30A, Meadow Industrial Estate",
+        "Address Line 2": "Victoria Road",
+        "Town": "Liverpool",
+        "Postcode": "l20 4bz"
+      },
+      "Permissions": [
+        "Credit broking"
+      ]
+    },
+    {
+      "FRN": 827481,
+      "Organisation Name": "Lister & Sons Ltd",
+      "Status": "Authorised",
+      "Status Effective Date": "20/09/2020",
+      "Business Type": "Regulated",
+      "Trading Names": [
+        "Lister & Sons"
+      ],
+      "Address": {
+        "Address Line 1": "Kingsway Trading Estate",
+        "Address Line 2": "9 Mill Lane",
+        "Town": "Leek",
+        "Postcode": "ST13 9UX"
+      },
+      "Permissions": [
+        "Credit broking"
+      ]
+    },
+    {
+      "FRN": 615152,
+      "Organisation Name": "Ashworth Car Group Ltd",
+      "Status": "Authorised",
+      "Status Effective Date": "04/08/2024",
+      "Business Type": "Regulated",
+      "Trading Names": [
+        "Ashworth Cars"
+      ],
+      "Address": {
+        "Address Line 1": "Lowry House",
+        "Address Line 2": "17 Marble Street",
+        "Town": "Manchester",
+        "Postcode": "M2 3AW"
+      },
+      "Permissions": [
+        "Credit broking"
+      ]
+    },
+    {
+      "FRN": 736629,
+      "Organisation Name": "Carver & Radcliffe Limited",
+      "Status": "Appointed representative",
+      "Status Effective Date": "20/06/2025",
+      "Business Type": "Appointed Representative",
+      "Companies House Number": "12773753",
+      "Trading Names": [
+        "Carver & Radcliffe"
+      ],
+      "Address": {
+        "Address Line 1": "Meadow Industrial Estate",
+        "Address Line 2": "Chapel Street",
+        "Town": "Cardiff",
+        "Postcode": "CF10 4QD"
+      },
+      "Permissions": [],
+      "Principal Firm": {
+        "FRN": 628633,
+        "Name": "Autolink Credit Partners Limited"
+      }
+    },
+    {
+      "FRN": 825067,
+      "Organisation Name": "Moorcroft Motor Company Ltd",
+      "Status": "Authorised",
+      "Status Effective Date": "09/06/2021",
+      "Business Type": "Regulated",
+      "Trading Names": [
+        "Moorcroft Motor Company"
+      ],
+      "Address": {
+        "Address Line 1": "The Old Foundry",
+        "Address Line 2": "19-85 Marsh Lane",
+        "Town": "Glasgow",
+        "Postcode": "G51 6SZ"
+      },
+      "Permissions": [
+        "Credit broking"
+      ]
+    },
+    {
+      "FRN": 721341,
+      "Organisation Name": "Ingham & Sons (UK) Ltd",
+      "Status": "Authorised",
+      "Status Effective Date": "30/01/2017",
+      "Business Type": "Regulated",
+      "Companies House Number": "04743925",
+      "Trading Names": [
+        "Ingham & Sons"
+      ],
+      "Address": {
+        "Address Line 1": "Suite 4, Albion House",
+        "Address Line 2": "12 Market Street",
+        "Town": "Macclesfield",
+        "Postcode": "sk11 6ex"
+      },
+      "Permissions": [
+        "Credit broking"
+      ]
+    },
+    {
+      "FRN": 608422,
+      "Organisation Name": "Carver Car Sales Ltd",
+      "Status": "Authorised",
+      "Status Effective Date": "31/03/2019",
+      "Business Type": "Regulated",
+      "Companies House Number": "9517036",
+      "Trading Names": [
+        "Carver Car Sales"
+      ],
+      "Address": {
+        "Address Line 1": "Meadow Industrial Estate",
+        "Address Line 2": "24 Mill Lane",
+        "Town": "Derby",
+        "Postcode": "DE17SG"
+      },
+      "Permissions": [
+        "Credit broking"
+      ]
+    },
+    {
+      "FRN": 822341,
+      "Organisation Name": "Northgate Van Centre Ltd",
+      "Status": "Appointed representative",
+      "Status Effective Date": "06/04/2026",
+      "Business Type": "Appointed Representative",
+      "Companies House Number": "15590564",
+      "Trading Names": [
+        "Northgate Van Centre"
+      ],
+      "Address": {
+        "Address Line 1": "Northgate Retail Park",
+        "Address Line 2": "Trinity Way",
+        "Town": "Stoke-on-Trent",
+        "Postcode": "st3 8ps"
+      },
+      "Permissions": [],
+      "Principal Firm": {
+        "FRN": 994838,
+        "Name": "Dealer Broker Services Ltd"
+      }
+    },
+    {
+      "FRN": 974441,
+      "Organisation Name": "Peak Cars Ltd",
+      "Status": "Authorised",
+      "Status Effective Date": "31/07/2026",
+      "Business Type": "Regulated",
+      "Companies House Number": "08849692",
+      "Trading Names": [],
+      "Address": {
+        "Address Line 1": "Northgate Retail Park",
+        "Address Line 2": "King Street",
+        "Town": "Preston",
+        "Postcode": "PR2 3RF"
+      },
+      "Permissions": [
+        "Credit broking"
+      ]
+    },
+    {
+      "FRN": 983390,
+      "Organisation Name": "Weston Motor Group Limited",
+      "Status": "Authorised",
+      "Status Effective Date": "02/02/2015",
+      "Business Type": "Regulated",
+      "Companies House Number": "5780177",
+      "Trading Names": [
+        "Weston Motors",
+        "Weston Van Centre"
+      ],
+      "Address": {
+        "Address Line 1": "The Old Foundry",
+        "Address Line 2": "Ring Road",
+        "Town": "Crewe",
+        "Postcode": "CW2 2TH"
+      },
+      "Permissions": [
+        "Credit broking"
+      ]
+    },
+    {
+      "FRN": "938657",
+      "Organisation Name": "Fairbrother Car Sales Limited",
+      "Status": "Authorised",
+      "Status Effective Date": "05/01/2020",
+      "Business Type": "Regulated",
+      "Companies House Number": "05860635",
+      "Trading Names": [
+        "Fairbrother Car Sales"
+      ],
+      "Address": {
+        "Address Line 1": "The Old Foundry",
+        "Address Line 2": "8 Mill Lane",
+        "Town": "Liverpool",
+        "Postcode": "L208YE"
+      },
+      "Permissions": [
+        "Credit broking"
+      ]
+    },
+    {
+      "FRN": 803142,
+      "Organisation Name": "Premier Motor Group Ltd",
+      "Status": "No longer authorised",
+      "Status Effective Date": "17/04/2019",
+      "Business Type": "Regulated",
+      "Companies House Number": "04290029",
+      "Trading Names": [],
+      "Address": {
+        "Address Line 1": "Unit 23A, Kingsway Trading Estate",
+        "Address Line 2": "Marsh Lane",
+        "Town": "Stockport",
+        "Postcode": "sk4 8rx"
+      },
+      "Permissions": [
+        "Credit broking"
+      ]
+    },
+    {
+      "FRN": 802852,
+      "Organisation Name": "Pendle Vehicle Sales Limited",
+      "Status": "Appointed representative",
+      "Status Effective Date": "23/10/2014",
+      "Business Type": "Appointed Representative",
+      "Trading Names": [],
+      "Address": {
+        "Address Line 1": "23 Ring Road",
+        "Address Line 2": "",
+        "Town": "Bristol",
+        "Postcode": "BS5 8DU"
+      },
+      "Permissions": [],
+      "Principal Firm": {
+        "FRN": 752458,
+        "Name": "Motor Finance Network Limited"
+      }
+    },
+    {
+      "FRN": 853791,
+      "Organisation Name": "Brook Lane Cars Limited",
+      "Status": "Authorised",
+      "Status Effective Date": "22/06/2021",
+      "Business Type": "Regulated",
+      "Companies House Number": "6424928",
+      "Trading Names": [],
+      "Address": {
+        "Address Line 1": "Suite 4, Albion House",
+        "Address Line 2": "12 Market Street",
+        "Town": "Macclesfield",
+        "Postcode": "SK11 6EX"
+      },
+      "Permissions": [
+        "Credit broking"
+      ]
+    },
+    {
+      "FRN": 662349,
+      "Organisation Name": "Sowerby Holdings Limited",
+      "Status": "Authorised",
+      "Status Effective Date": "08/12/2023",
+      "Business Type": "Regulated",
+      "Companies House Number": "5279465",
+      "Trading Names": [
+        "Quality Car Supermarket"
+      ],
+      "Address": {
+        "Address Line 1": "Unit 8A, The Old Foundry",
+        "Address Line 2": "Trinity Way",
+        "Town": "Manchester",
+        "Postcode": "M11 8UB"
+      },
+      "Permissions": [
+        "Credit broking",
+        "Debt counselling"
+      ]
+    },
+    {
+      "FRN": 664933,
+      "Organisation Name": "Eastway Motors Ltd",
+      "Status": "Authorised",
+      "Status Effective Date": "27/11/2022",
+      "Business Type": "Regulated",
+      "Companies House Number": "07994054",
+      "Trading Names": [
+        "Eastway Motors"
+      ],
+      "Address": {
+        "Address Line 1": "27-26 Commercial Road",
+        "Address Line 2": "",
+        "Town": "Reading",
+        "Postcode": "RG30 8FF"
+      },
+      "Permissions": [
+        "Credit broking",
+        "Debt counselling"
+      ]
+    },
+    {
+      "FRN": 788585,
+      "Organisation Name": "Prestige Car Centre Limited",
+      "Status": "Authorised",
+      "Status Effective Date": "17/11/2024",
+      "Business Type": "Regulated",
+      "Companies House Number": "06250459",
+      "Trading Names": [
+        "Prestige Car Centre"
+      ],
+      "Address": {
+        "Address Line 1": "Northgate Retail Park",
+        "Address Line 2": "Marsh Lane",
+        "Town": "Stockport",
+        "Postcode": "SK1 4ND"
+      },
+      "Permissions": [
+        "Credit broking"
+      ]
+    },
+    {
+      "FRN": 775259,
+      "Organisation Name": "Karen Lomax",
+      "Status": "Authorised",
+      "Status Effective Date": "21/04/2022",
+      "Business Type": "Regulated",
+      "Trading Names": [
+        "Lomax Car Sales"
+      ],
+      "Address": {
+        "Address Line 1": "Unit 15, Kingsway Trading Estate",
+        "Town": "Preston",
+        "Postcode": "PR2 8GH"
+      },
+      "Permissions": [
+        "Credit broking"
+      ]
+    },
+    {
+      "FRN": 832436,
+      "Organisation Name": "KWG Vehicle Sales Limited",
+      "Status": "Authorised",
+      "Status Effective Date": "04/07/2022",
+      "Business Type": "Regulated",
+      "Companies House Number": "05432434",
+      "Trading Names": [
+        "Holroyd Vehicle Sales"
+      ],
+      "Address": {
+        "Address Line 1": "Unit 26, Northgate Retail Park",
+        "Address Line 2": "Chapel Street",
+        "Town": "Leeds",
+        "Postcode": "LS6 8ZP"
+      },
+      "Permissions": [
+        "Credit broking"
+      ]
+    },
+    {
+      "FRN": 666988,
+      "Organisation Name": "Brady Car Sales Limited",
+      "Status": "Authorised",
+      "Status Effective Date": "01/09/2017",
+      "Business Type": "Regulated",
+      "Companies House Number": "02619132",
+      "Trading Names": [],
+      "Address": {
+        "Address Line 1": "Riverside Business Park",
+        "Address Line 2": "13-126 Hall Lane",
+        "Town": "Stockport",
+        "Postcode": "SK1 2QQ"
+      },
+      "Permissions": [
+        "Credit broking"
+      ]
+    },
+    {
+      "FRN": 604360,
+      "Organisation Name": "Ainsley Holdings Ltd",
+      "Status": "Authorised",
+      "Status Effective Date": "26/04/2020",
+      "Business Type": "Regulated",
+      "Companies House Number": "04134127",
+      "Trading Names": [
+        "Duckworth Car Sales"
+      ],
+      "Address": {
+        "Address Line 1": "Unit 15, Northgate Retail Park",
+        "Address Line 2": "Marsh Lane",
+        "Town": "Wolverhampton",
+        "Postcode": "WV2 2WL"
+      },
+      "Permissions": [
+        "Credit broking"
+      ]
+    },
+    {
+      "FRN": "801234",
+      "Organisation Name": "Ashgrove Vehicle Sales (UK) Limited",
+      "Status": "Authorised",
+      "Status Effective Date": "20/10/2023",
+      "Business Type": "Regulated",
+      "Trading Names": [
+        "Ashgrove Vehicle Sales"
+      ],
+      "Address": {
+        "Address Line 1": "Northgate Retail Park",
+        "Address Line 2": "Canal Street",
+        "Town": "Manchester",
+        "Postcode": "M40 4QJ"
+      },
+      "Permissions": [
+        "Credit broking",
+        "Debt counselling"
+      ]
+    },
+    {
+      "FRN": 645854,
+      "Organisation Name": "ZNM Vehicle Sales Ltd",
+      "Status": "Authorised",
+      "Status Effective Date": "10/07/2023",
+      "Business Type": "Regulated",
+      "Companies House Number": "02158120",
+      "Trading Names": [],
+      "Address": {
+        "Address Line 1": "The Old Foundry",
+        "Address Line 2": "Spring Street",
+        "Town": "Stockport",
+        "Postcode": "SK4 1HU"
+      },
+      "Permissions": [
+        "Credit broking",
+        "Debt counselling"
+      ]
+    },
+    {
+      "FRN": 742126,
+      "Organisation Name": "Shuttleworth Cars Ltd",
+      "Status": "Authorised",
+      "Status Effective Date": "16/02/2018",
+      "Business Type": "Regulated",
+      "Companies House Number": "02196813",
+      "Trading Names": [],
+      "Address": {
+        "Address Line 1": "110 Parkway",
+        "Address Line 2": "",
+        "Town": "Leicester",
+        "Postcode": "LE5 6YJ"
+      },
+      "Permissions": [
+        "Credit broking"
+      ]
+    },
+    {
+      "FRN": 682399,
+      "Organisation Name": "David Price",
+      "Status": "Authorised",
+      "Status Effective Date": "24/11/2020",
+      "Business Type": "Regulated",
+      "Trading Names": [
+        "Dave's Autos"
+      ],
+      "Address": {
+        "Address Line 1": "17 Bath Street",
+        "Town": "Stoke-on-Trent",
+        "Postcode": "ST1 7AU"
+      },
+      "Permissions": [
+        "Credit broking"
+      ]
+    },
+    {
+      "FRN": 982855,
+      "Organisation Name": "ZSO Vehicle Sales Limited",
+      "Status": "Appointed representative",
+      "Status Effective Date": "29/08/2017",
+      "Business Type": "Appointed Representative",
+      "Companies House Number": "9187651",
+      "Trading Names": [],
+      "Address": {
+        "Address Line 1": "Northgate Retail Park",
+        "Address Line 2": "20-193 Hall Lane",
+        "Town": "Nottingham",
+        "Postcode": "ng7 3nu"
+      },
+      "Permissions": [],
+      "Principal Firm": {
+        "FRN": 994838,
+        "Name": "Dealer Broker Services Ltd"
+      }
+    },
+    {
+      "FRN": 690424,
+      "Organisation Name": "Smith Motors (Stoke) Limited",
+      "Status": "Authorised",
+      "Status Effective Date": "26/11/2015",
+      "Business Type": "Regulated",
+      "Companies House Number": "6926360",
+      "Trading Names": [
+        "Smith Motors"
+      ],
+      "Address": {
+        "Address Line 1": "30 Brook Lane",
+        "Address Line 2": "",
+        "Town": "Stoke-on-Trent",
+        "Postcode": "st1 2us"
+      },
+      "Permissions": [
+        "Credit broking"
+      ]
+    },
+    {
+      "FRN": 833091,
+      "Organisation Name": "Whitworth Cars Limited",
+      "Status": "Authorised",
+      "Status Effective Date": "08/06/2020",
+      "Business Type": "Regulated",
+      "Companies House Number": "05306934",
+      "Trading Names": [
+        "Whitworth Cars"
+      ],
+      "Address": {
+        "Address Line 1": "Unit 16, Meadow Industrial Estate",
+        "Address Line 2": "Mill Lane",
+        "Town": "Birmingham",
+        "Postcode": "B24 1QN"
+      },
+      "Permissions": [
+        "Credit broking"
+      ]
+    },
+    {
+      "FRN": 977150,
+      "Organisation Name": "ROU Vehicle Sales Limited",
+      "Status": "Appointed representative",
+      "Status Effective Date": "12/09/2023",
+      "Business Type": "Appointed Representative",
+      "Companies House Number": "05197862",
+      "Trading Names": [
+        "Gilmore Cars"
+      ],
+      "Address": {
+        "Address Line 1": "The Old Foundry",
+        "Address Line 2": "Ford Lane",
+        "Town": "Chesterfield",
+        "Postcode": "s41 2rq"
+      },
+      "Permissions": [],
+      "Principal Firm": {
+        "FRN": 628633,
+        "Name": "Autolink Credit Partners Limited"
+      }
+    },
+    {
+      "FRN": "986634",
+      "Organisation Name": "Value Motors (UK) Limited",
+      "Status": "Authorised",
+      "Status Effective Date": "14/11/2016",
+      "Business Type": "Regulated",
+      "Trading Names": [
+        "Value Motors"
+      ],
+      "Address": {
+        "Address Line 1": "Suite 4, Albion House",
+        "Address Line 2": "12 Market Street",
+        "Town": "Macclesfield",
+        "Postcode": "SK11 6EX"
+      },
+      "Permissions": [
+        "Credit broking"
+      ]
+    },
+    {
+      "FRN": 920089,
+      "Organisation Name": "Dawson Holdings Ltd",
+      "Status": "Appointed representative",
+      "Status Effective Date": "25/03/2025",
+      "Business Type": "Appointed Representative",
+      "Companies House Number": "08398392",
+      "Trading Names": [
+        "Openshaw Motor Company"
+      ],
+      "Address": {
+        "Address Line 1": "Unit 22, Riverside Business Park",
+        "Address Line 2": "Brook Lane",
+        "Town": "Wolverhampton",
+        "Postcode": "WV14 3XN"
+      },
+      "Permissions": [],
+      "Principal Firm": {
+        "FRN": 628633,
+        "Name": "Autolink Credit Partners Limited"
+      }
+    },
+    {
+      "FRN": 987559,
+      "Organisation Name": "Hartley Cars (2021) Limited",
+      "Status": "Authorised",
+      "Status Effective Date": "14/05/2021",
+      "Business Type": "Regulated",
+      "Companies House Number": "13249635",
+      "Trading Names": [],
+      "Address": {
+        "Address Line 1": "Northgate Retail Park",
+        "Address Line 2": "9 Bradford Road",
+        "Town": "Reading",
+        "Postcode": "RG30 7SJ"
+      },
+      "Permissions": [
+        "Credit broking"
+      ]
+    },
+    {
+      "FRN": 674404,
+      "Organisation Name": "O'Neill Motor Company Limited",
+      "Status": "Appointed representative",
+      "Status Effective Date": "01/08/2022",
+      "Business Type": "Appointed Representative",
+      "Trading Names": [
+        "O'Neill Motors"
+      ],
+      "Address": {
+        "Address Line 1": "Kingsway Trading Estate",
+        "Address Line 2": "Trinity Way",
+        "Town": "London",
+        "Postcode": "E106FA"
+      },
+      "Permissions": [],
+      "Principal Firm": {
+        "FRN": 752458,
+        "Name": "Motor Finance Network Limited"
+      }
+    },
+    {
+      "FRN": 890638,
+      "Organisation Name": "Leicester Automotive Limited",
+      "Status": "Authorised",
+      "Status Effective Date": "11/09/2025",
+      "Business Type": "Regulated",
+      "Companies House Number": "15253958",
+      "Trading Names": [
+        "Leicester Autocentre"
+      ],
+      "Address": {
+        "Address Line 1": "Unit 29A, The Old Foundry",
+        "Address Line 2": "Church Street",
+        "Town": "Leicester",
+        "Postcode": "LE3 8TT"
+      },
+      "Permissions": [
+        "Credit broking"
+      ]
+    },
+    {
+      "FRN": 778353,
+      "Organisation Name": "LR Cars (UK) Limited",
+      "Status": "Authorised",
+      "Status Effective Date": "03/05/2026",
+      "Business Type": "Regulated",
+      "Companies House Number": "02404769",
+      "Trading Names": [
+        "LR Cars"
+      ],
+      "Address": {
+        "Address Line 1": "5 Junction Road",
+        "Address Line 2": "",
+        "Town": "Hanley",
+        "Postcode": "st1 3sh"
+      },
+      "Permissions": [
+        "Credit broking"
+      ]
+    },
+    {
+      "FRN": 775812,
+      "Organisation Name": "Yardley Car Centre Limited",
+      "Status": "Authorised",
+      "Status Effective Date": "21/08/2021",
+      "Business Type": "Regulated",
+      "Companies House Number": "02161484",
+      "Trading Names": [
+        "Yardley Car Centre"
+      ],
+      "Address": {
+        "Address Line 1": "Riverside Business Park",
+        "Address Line 2": "29 Hall Lane",
+        "Town": "Liverpool",
+        "Postcode": "L9 2YE"
+      },
+      "Permissions": [
+        "Credit broking"
+      ]
+    },
+    {
+      "FRN": "651164",
+      "Organisation Name": "Honest Car Supermarket (UK) Ltd",
+      "Status": "Authorised",
+      "Status Effective Date": "13/03/2023",
+      "Business Type": "Regulated",
+      "Companies House Number": "3643696",
+      "Trading Names": [],
+      "Address": {
+        "Address Line 1": "Phoenix Court",
+        "Address Line 2": "Brook Lane",
+        "Town": "Cardiff",
+        "Postcode": "CF11 9JW"
+      },
+      "Permissions": [
+        "Credit broking"
+      ]
+    },
+    {
+      "FRN": 708807,
+      "Organisation Name": "Manchester Autocentre Ltd",
+      "Status": "Authorised",
+      "Status Effective Date": "29/07/2023",
+      "Business Type": "Regulated",
+      "Companies House Number": "02671911",
+      "Trading Names": [],
+      "Address": {
+        "Address Line 1": "38 Hall Lane",
+        "Address Line 2": "",
+        "Town": "Manchester",
+        "Postcode": "M40 1JJ"
+      },
+      "Permissions": [
+        "Credit broking"
+      ]
+    },
+    {
+      "FRN": 886641,
+      "Organisation Name": "Birtwistle Holdings Limited",
+      "Status": "Authorised",
+      "Status Effective Date": "04/07/2016",
+      "Business Type": "Regulated",
+      "Companies House Number": "SC284278",
+      "Trading Names": [
+        "Select Car Supermarket"
+      ],
+      "Address": {
+        "Address Line 1": "Riverside Business Park",
+        "Address Line 2": "12 Spring Street",
+        "Town": "Glasgow",
+        "Postcode": "g52 6hq"
+      },
+      "Permissions": [
+        "Credit broking"
+      ]
+    },
+    {
+      "FRN": 697252,
+      "Organisation Name": "Regal Autos Ltd",
+      "Status": "Authorised",
+      "Status Effective Date": "02/11/2024",
+      "Business Type": "Regulated",
+      "Companies House Number": "13905195",
+      "Trading Names": [
+        "Regal Autos"
+      ],
+      "Address": {
+        "Address Line 1": "2nd Floor, Carlton Chambers",
+        "Address Line 2": "88 Queen Street",
+        "Town": "Leeds",
+        "Postcode": "LS1 2BW"
+      },
+      "Permissions": [
+        "Credit broking"
+      ]
+    },
+    {
+      "FRN": "991067",
+      "Organisation Name": "CU Cars Ltd",
+      "Status": "Authorised",
+      "Status Effective Date": "22/10/2024",
+      "Business Type": "Regulated",
+      "Companies House Number": "14517477",
+      "Trading Names": [
+        "CU Cars"
+      ],
+      "Address": {
+        "Address Line 1": "183 Albion Street",
+        "Address Line 2": "",
+        "Town": "Birmingham",
+        "Postcode": "B33 2UP"
+      },
+      "Permissions": [
+        "Credit broking"
+      ]
+    },
+    {
+      "FRN": 884555,
+      "Organisation Name": "Peak Autocentre Ltd",
+      "Status": "Appointed representative",
+      "Status Effective Date": "16/05/2023",
+      "Business Type": "Appointed Representative",
+      "Companies House Number": "07113955",
+      "Trading Names": [],
+      "Address": {
+        "Address Line 1": "Unit 18A, Northgate Retail Park",
+        "Address Line 2": "Leek Road",
+        "Town": "Newcastle upon Tyne",
+        "Postcode": "NE4 1BL"
+      },
+      "Permissions": [],
+      "Principal Firm": {
+        "FRN": 628633,
+        "Name": "Autolink Credit Partners Limited"
+      }
+    },
+    {
+      "FRN": 739209,
+      "Organisation Name": "Regal Car Supermarket Limited",
+      "Status": "Authorised",
+      "Status Effective Date": "04/07/2014",
+      "Business Type": "Regulated",
+      "Companies House Number": "4633695",
+      "Trading Names": [],
+      "Address": {
+        "Address Line 1": "21-192 Parkway",
+        "Address Line 2": "",
+        "Town": "Warrington",
+        "Postcode": "WA1 9WZ"
+      },
+      "Permissions": [
+        "Credit broking"
+      ]
+    },
+    {
+      "FRN": 617768,
+      "Organisation Name": "Hartley Car Centre Limited",
+      "Status": "Authorised",
+      "Status Effective Date": "24/02/2024",
+      "Business Type": "Regulated",
+      "Companies House Number": "02951199",
+      "Trading Names": [
+        "Hartley Car Centre"
+      ],
+      "Address": {
+        "Address Line 1": "207 Station Road",
+        "Address Line 2": "",
+        "Town": "Cardiff",
+        "Postcode": "CF11 7XJ"
+      },
+      "Permissions": [
+        "Credit broking",
+        "Debt counselling"
+      ]
+    },
+    {
+      "FRN": 648568,
+      "Organisation Name": "Sterling Car Supermarket Limited",
+      "Status": "Authorised",
+      "Status Effective Date": "26/07/2014",
+      "Business Type": "Regulated",
+      "Trading Names": [
+        "Sterling Car Supermarket"
+      ],
+      "Address": {
+        "Address Line 1": "Unit 29A, Northgate Retail Park",
+        "Address Line 2": "Ring Road",
+        "Town": "Sheffield",
+        "Postcode": "S2 3DD"
+      },
+      "Permissions": [
+        "Credit broking",
+        "Debt counselling"
+      ]
+    },
+    {
+      "FRN": 920713,
+      "Organisation Name": "NZS Vehicle Sales Limited",
+      "Status": "Authorised",
+      "Status Effective Date": "29/01/2025",
+      "Business Type": "Regulated",
+      "Companies House Number": "SC200889",
+      "Trading Names": [],
+      "Address": {
+        "Address Line 1": "Kingsway Trading Estate",
+        "Address Line 2": "4-42 Bath Street",
+        "Town": "Edinburgh",
+        "Postcode": "EH547RA"
+      },
+      "Permissions": [
+        "Credit broking"
+      ]
+    },
+    {
+      "FRN": 756122,
+      "Organisation Name": "JRM Vehicle Sales Limited",
+      "Status": "Authorised",
+      "Status Effective Date": "09/07/2019",
+      "Business Type": "Regulated",
+      "Companies House Number": "9231116",
+      "Trading Names": [
+        "Peak Motor Co"
+      ],
+      "Address": {
+        "Address Line 1": "2nd Floor, Carlton Chambers",
+        "Address Line 2": "88 Queen Street",
+        "Town": "Leeds",
+        "Postcode": "LS1 2BW"
+      },
+      "Permissions": [
+        "Credit broking"
+      ]
+    },
+    {
+      "FRN": "690318",
+      "Organisation Name": "Riverside Vehicle Centre Limited",
+      "Status": "Appointed representative",
+      "Status Effective Date": "15/01/2015",
+      "Business Type": "Appointed Representative",
+      "Companies House Number": "07166066",
+      "Trading Names": [],
+      "Address": {
+        "Address Line 1": "240 Parkway",
+        "Address Line 2": "",
+        "Town": "Nottingham",
+        "Postcode": "NG6 2SU"
+      },
+      "Permissions": [],
+      "Principal Firm": {
+        "FRN": 628633,
+        "Name": "Autolink Credit Partners Limited"
+      }
+    },
+    {
+      "FRN": 628560,
+      "Organisation Name": "Quality Cars Limited",
+      "Status": "Authorised",
+      "Status Effective Date": "12/04/2016",
+      "Business Type": "Regulated",
+      "Companies House Number": "04532869",
+      "Trading Names": [],
+      "Address": {
+        "Address Line 1": "Kingsway Trading Estate",
+        "Address Line 2": "18 Bath Street",
+        "Town": "Birmingham",
+        "Postcode": "B44 8JJ"
+      },
+      "Permissions": [
+        "Credit broking"
+      ]
+    },
+    {
+      "FRN": 978221,
+      "Organisation Name": "Kershaw Cars Limited",
+      "Status": "Appointed representative",
+      "Status Effective Date": "05/08/2016",
+      "Business Type": "Appointed Representative",
+      "Trading Names": [
+        "Kershaw Cars"
+      ],
+      "Address": {
+        "Address Line 1": "The Old Foundry",
+        "Address Line 2": "29 Bradford Road",
+        "Town": "London",
+        "Postcode": "NW10 6RQ"
+      },
+      "Permissions": [],
+      "Principal Firm": {
+        "FRN": 994838,
+        "Name": "Dealer Broker Services Ltd"
+      }
+    },
+    {
+      "FRN": 860316,
+      "Organisation Name": "Kenworthy Motor Company (UK) Limited",
+      "Status": "Authorised",
+      "Status Effective Date": "03/02/2022",
+      "Business Type": "Regulated",
+      "Companies House Number": "SC156321",
+      "Trading Names": [],
+      "Address": {
+        "Address Line 1": "The Old Foundry",
+        "Address Line 2": "Commercial Road",
+        "Town": "Glasgow",
+        "Postcode": "G51 1PN"
+      },
+      "Permissions": [
+        "Credit broking"
+      ]
+    },
+    {
+      "FRN": 983260,
+      "Organisation Name": "CP Cars Limited",
+      "Status": "Authorised",
+      "Status Effective Date": "01/02/2018",
+      "Business Type": "Regulated",
+      "Companies House Number": "SC385182",
+      "Trading Names": [
+        "CP Cars"
+      ],
+      "Address": {
+        "Address Line 1": "Northgate Retail Park",
+        "Address Line 2": "Mill Lane",
+        "Town": "Glasgow",
+        "Postcode": "G72 8TW"
+      },
+      "Permissions": [
+        "Credit broking"
+      ]
+    },
+    {
+      "FRN": 771483,
+      "Organisation Name": "Garside Motor Company Limited",
+      "Status": "Appointed representative",
+      "Status Effective Date": "25/12/2017",
+      "Business Type": "Appointed Representative",
+      "Companies House Number": "05555341",
+      "Trading Names": [
+        "Garside Motor Company"
+      ],
+      "Address": {
+        "Address Line 1": "The Old Foundry",
+        "Address Line 2": "Albion Street",
+        "Town": "Hanley",
+        "Postcode": "ST18YP"
+      },
+      "Permissions": [],
+      "Principal Firm": {
+        "FRN": 752458,
+        "Name": "Motor Finance Network Limited"
+      }
+    },
+    {
+      "FRN": 752458,
+      "Organisation Name": "Motor Finance Network Limited",
+      "Status": "Authorised",
+      "Status Effective Date": "01/04/2014",
+      "Business Type": "Regulated",
+      "Companies House Number": "03951647",
+      "Trading Names": [],
+      "Address": {
+        "Address Line 1": "Network House",
+        "Town": "Warrington",
+        "Postcode": "WA1 1RG"
+      },
+      "Permissions": [
+        "Credit broking",
+        "Arranging deals in investments"
+      ]
+    },
+    {
+      "FRN": 822701,
+      "Organisation Name": "Walmsley Cars Ltd",
+      "Status": "Authorised",
+      "Status Effective Date": "19/05/2024",
+      "Business Type": "Regulated",
+      "Companies House Number": "9423474",
+      "Trading Names": [
+        "Walmsley Cars"
+      ],
+      "Address": {
+        "Address Line 1": "Phoenix Court",
+        "Address Line 2": "Mill Lane",
+        "Town": "Leicester",
+        "Postcode": "LE19 1NP"
+      },
+      "Permissions": [
+        "Credit broking"
+      ]
+    },
+    {
+      "FRN": 984220,
+      "Organisation Name": "Hartley Cars Ltd",
+      "Status": "No longer authorised",
+      "Status Effective Date": "31/03/2021",
+      "Business Type": "Regulated",
+      "Companies House Number": "8154120",
+      "Trading Names": [],
+      "Address": {
+        "Address Line 1": "Northgate Retail Park",
+        "Address Line 2": "9 Bradford Road",
+        "Town": "Reading",
+        "Postcode": "RG30 7SJ"
+      },
+      "Permissions": [
+        "Credit broking"
+      ]
+    },
+    {
+      "FRN": 769146,
+      "Organisation Name": "JYX Vehicle Sales Limited",
+      "Status": "Authorised",
+      "Status Effective Date": "26/11/2019",
+      "Business Type": "Regulated",
+      "Companies House Number": "2730434",
+      "Trading Names": [],
+      "Address": {
+        "Address Line 1": "The Old Foundry",
+        "Address Line 2": "Victoria Road",
+        "Town": "Crewe",
+        "Postcode": "CW1 7RL"
+      },
+      "Permissions": [
+        "Credit broking"
+      ]
+    },
+    {
+      "FRN": 804905,
+      "Organisation Name": "Clayton Holdings Limited",
+      "Status": "No longer authorised",
+      "Status Effective Date": "08/08/2023",
+      "Business Type": "Regulated",
+      "Companies House Number": "09561719",
+      "Trading Names": [
+        "Bennett & Jarvis"
+      ],
+      "Address": {
+        "Address Line 1": "2nd Floor, Carlton Chambers",
+        "Address Line 2": "88 Queen Street",
+        "Town": "Leeds",
+        "Postcode": "LS1 2BW"
+      },
+      "Permissions": [
+        "Credit broking"
+      ]
+    },
+    {
+      "FRN": 994838,
+      "Organisation Name": "Dealer Broker Services Ltd",
+      "Status": "Authorised",
+      "Status Effective Date": "01/04/2014",
+      "Business Type": "Regulated",
+      "Companies House Number": "13396467",
+      "Trading Names": [],
+      "Address": {
+        "Address Line 1": "Network House",
+        "Town": "Birmingham",
+        "Postcode": "B3 2PP"
+      },
+      "Permissions": [
+        "Credit broking",
+        "Arranging deals in investments"
+      ]
+    },
+    {
+      "FRN": 823366,
+      "Organisation Name": "Tolson Motor Company (UK) Ltd",
+      "Status": "Authorised",
+      "Status Effective Date": "28/09/2023",
+      "Business Type": "Regulated",
+      "Companies House Number": "04589314",
+      "Trading Names": [
+        "Tolson Motor Company"
+      ],
+      "Address": {
+        "Address Line 1": "Lowry House",
+        "Address Line 2": "17 Marble Street",
+        "Town": "Manchester",
+        "Postcode": "m2 3aw"
+      },
+      "Permissions": [
+        "Credit broking"
+      ]
+    },
+    {
+      "FRN": 788449,
+      "Organisation Name": "Apex Autocentre Limited",
+      "Status": "Authorised",
+      "Status Effective Date": "12/02/2026",
+      "Business Type": "Regulated",
+      "Companies House Number": "03820828",
+      "Trading Names": [],
+      "Address": {
+        "Address Line 1": "Northgate Retail Park",
+        "Address Line 2": "11 Chapel Street",
+        "Town": "Chesterfield",
+        "Postcode": "S40 6TZ"
+      },
+      "Permissions": [
+        "Credit broking"
+      ]
+    },
+    {
+      "FRN": 805685,
+      "Organisation Name": "Cardiff Car Centre Limited",
+      "Status": "Appointed representative",
+      "Status Effective Date": "29/05/2023",
+      "Business Type": "Appointed Representative",
+      "Companies House Number": "12079343",
+      "Trading Names": [
+        "Cardiff Car Centre"
+      ],
+      "Address": {
+        "Address Line 1": "The Old Foundry",
+        "Address Line 2": "27-75 Mount Pleasant",
+        "Town": "Cardiff",
+        "Postcode": "CF24 3EE"
+      },
+      "Permissions": [],
+      "Principal Firm": {
+        "FRN": 628633,
+        "Name": "Autolink Credit Partners Limited"
+      }
+    },
+    {
+      "FRN": 825710,
+      "Organisation Name": "XJI Vehicle Sales Limited",
+      "Status": "Authorised",
+      "Status Effective Date": "23/03/2024",
+      "Business Type": "Regulated",
+      "Companies House Number": "06028865",
+      "Trading Names": [
+        "Ogden Motor Company"
+      ],
+      "Address": {
+        "Address Line 1": "Phoenix Court",
+        "Address Line 2": "23-106 Chapel Street",
+        "Town": "Leek",
+        "Postcode": "ST13 4RF"
+      },
+      "Permissions": [
+        "Credit broking"
+      ]
+    },
+    {
+      "FRN": 953701,
+      "Organisation Name": "Value Car Supermarket Ltd",
+      "Status": "Authorised",
+      "Status Effective Date": "30/08/2017",
+      "Business Type": "Regulated",
+      "Trading Names": [],
+      "Address": {
+        "Address Line 1": "Suite 4, Albion House",
+        "Address Line 2": "12 Market Street",
+        "Town": "Macclesfield",
+        "Postcode": "sk11 6ex"
+      },
+      "Permissions": [
+        "Credit broking"
+      ]
+    },
+    {
+      "FRN": 682118,
+      "Organisation Name": "Rigby Holdings Limited",
+      "Status": "Authorised",
+      "Status Effective Date": "04/04/2017",
+      "Business Type": "Regulated",
+      "Companies House Number": "09071633",
+      "Trading Names": [
+        "Wolstenholme & Sons"
+      ],
+      "Address": {
+        "Address Line 1": "Unit 25A, Meadow Industrial Estate",
+        "Address Line 2": "Mill Lane",
+        "Town": "Derby",
+        "Postcode": "DE21 2XH"
+      },
+      "Permissions": [
+        "Credit broking"
+      ]
+    },
+    {
+      "FRN": 788050,
+      "Organisation Name": "QD Cars Limited",
+      "Status": "Authorised",
+      "Status Effective Date": "27/12/2021",
+      "Business Type": "Regulated",
+      "Companies House Number": "07814783",
+      "Trading Names": [
+        "QD Cars"
+      ],
+      "Address": {
+        "Address Line 1": "8 Park Lane",
+        "Address Line 2": "",
+        "Town": "Crewe",
+        "Postcode": "CW12WA"
+      },
+      "Permissions": [
+        "Credit broking",
+        "Debt counselling"
+      ]
+    },
+    {
+      "FRN": 921386,
+      "Organisation Name": "Haworth Holdings Ltd",
+      "Status": "Authorised",
+      "Status Effective Date": "13/02/2025",
+      "Business Type": "Regulated",
+      "Trading Names": [
+        "Advance Car Supermarket"
+      ],
+      "Address": {
+        "Address Line 1": "Unit 1A, Kingsway Trading Estate",
+        "Address Line 2": "Wharf Road",
+        "Town": "Bristol",
+        "Postcode": "BS3 7JN"
+      },
+      "Permissions": [
+        "Credit broking",
+        "Debt counselling"
+      ]
+    },
+    {
+      "FRN": 894672,
+      "Organisation Name": "Hartley Car Sales Limited",
+      "Status": "Authorised",
+      "Status Effective Date": "09/01/2020",
+      "Business Type": "Regulated",
+      "Trading Names": [
+        "Hartley Car Sales"
+      ],
+      "Address": {
+        "Address Line 1": "Northgate Retail Park",
+        "Address Line 2": "17-159 Church Street",
+        "Town": "Leicester",
+        "Postcode": "LE19 6PQ"
+      },
+      "Permissions": [
+        "Credit broking"
+      ]
+    },
+    {
+      "FRN": "601562",
+      "Organisation Name": "Highfield Car Sales Ltd",
+      "Status": "Authorised",
+      "Status Effective Date": "05/02/2017",
+      "Business Type": "Regulated",
+      "Trading Names": [
+        "Highfield Car Sales"
+      ],
+      "Address": {
+        "Address Line 1": "Meadow Industrial Estate",
+        "Address Line 2": "Church Street",
+        "Town": "Chesterfield",
+        "Postcode": "S416TG"
+      },
+      "Permissions": [
+        "Credit broking"
+      ]
+    },
+    {
+      "FRN": 963356,
+      "Organisation Name": "Tattersall Motor Company Ltd",
+      "Status": "Authorised",
+      "Status Effective Date": "06/12/2020",
+      "Business Type": "Regulated",
+      "Trading Names": [
+        "Tattersall Motor Company"
+      ],
+      "Address": {
+        "Address Line 1": "Riverside Business Park",
+        "Address Line 2": "Spring Street",
+        "Town": "London",
+        "Postcode": "e10 5hh"
+      },
+      "Permissions": [
+        "Credit broking"
+      ]
+    },
+    {
+      "FRN": 628633,
+      "Organisation Name": "Autolink Credit Partners Limited",
+      "Status": "Authorised",
+      "Status Effective Date": "01/04/2014",
+      "Business Type": "Regulated",
+      "Companies House Number": "11716479",
+      "Trading Names": [],
+      "Address": {
+        "Address Line 1": "Network House",
+        "Town": "Leeds",
+        "Postcode": "LS2 7EY"
+      },
+      "Permissions": [
+        "Credit broking",
+        "Arranging deals in investments"
+      ]
+    },
+    {
+      "FRN": 862938,
+      "Organisation Name": "XUF Vehicle Sales Limited",
+      "Status": "Authorised",
+      "Status Effective Date": "02/03/2018",
+      "Business Type": "Regulated",
+      "Companies House Number": "03137357",
+      "Trading Names": [
+        "Rigby & Garside"
+      ],
+      "Address": {
+        "Address Line 1": "Kingsway Trading Estate",
+        "Address Line 2": "Parkway",
+        "Town": "Bolton",
+        "Postcode": "BL13YL"
+      },
+      "Permissions": [
+        "Credit broking"
+      ]
+    },
+    {
+      "FRN": 784275,
+      "Organisation Name": "Brady Motors Limited",
+      "Status": "Appointed representative",
+      "Status Effective Date": "27/09/2019",
+      "Business Type": "Appointed Representative",
+      "Companies House Number": "02389669",
+      "Trading Names": [
+        "Brady Motors"
+      ],
+      "Address": {
+        "Address Line 1": "2nd Floor, Carlton Chambers",
+        "Address Line 2": "88 Queen Street",
+        "Town": "Leeds",
+        "Postcode": "ls1 2bw"
+      },
+      "Permissions": [],
+      "Principal Firm": {
+        "FRN": 628633,
+        "Name": "Autolink Credit Partners Limited"
+      }
+    },
+    {
+      "FRN": 652189,
+      "Organisation Name": "TQL Vehicle Sales Ltd",
+      "Status": "Authorised",
+      "Status Effective Date": "17/07/2026",
+      "Business Type": "Regulated",
+      "Companies House Number": "15588230",
+      "Trading Names": [
+        "Thornley & Kenworthy"
+      ],
+      "Address": {
+        "Address Line 1": "Riverside Business Park",
+        "Address Line 2": "Park Lane",
+        "Town": "Stockport",
+        "Postcode": "SK3 7UG"
+      },
+      "Permissions": [
+        "Credit broking"
+      ]
+    },
+    {
+      "FRN": 979645,
+      "Organisation Name": "Kershaw Motor Company Ltd",
+      "Status": "Authorised",
+      "Status Effective Date": "01/04/2022",
+      "Business Type": "Regulated",
+      "Companies House Number": "2799421",
+      "Trading Names": [
+        "Kershaw Motor Company"
+      ],
+      "Address": {
+        "Address Line 1": "Riverside Business Park",
+        "Address Line 2": "Parkway",
+        "Town": "Preston",
+        "Postcode": "PR1 4DH"
+      },
+      "Permissions": [
+        "Credit broking"
+      ]
+    }
+  ]
+}

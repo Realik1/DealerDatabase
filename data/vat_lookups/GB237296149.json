@@ -1,0 +1,13 @@
+{
+  "target": {
+    "name": "MANCHESTER AUTOCENTRE LIMITED",
+    "vatNumber": "237296149",
+    "address": {
+      "line1": "38 Hall Lane",
+      "line2": "MANCHESTER",
+      "postcode": "M40 1JJ",
+      "countryCode": "GB"
+    }
+  },
+  "processingDate": "2026-09-23T14:56:50+01:00"
+}

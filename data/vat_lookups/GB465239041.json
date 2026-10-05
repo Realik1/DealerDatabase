@@ -1,0 +1,14 @@
+{
+  "target": {
+    "name": "XUF VEHICLE SALES LIMITED",
+    "vatNumber": "465239041",
+    "address": {
+      "line1": "Kingsway Trading Estate",
+      "line2": "Parkway",
+      "line3": "BOLTON",
+      "postcode": "BL1 3YL",
+      "countryCode": "GB"
+    }
+  },
+  "processingDate": "2026-09-18T13:41:26+01:00"
+}

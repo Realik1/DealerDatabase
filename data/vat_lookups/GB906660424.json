@@ -1,0 +1,13 @@
+{
+  "target": {
+    "name": "JRM VEHICLE SALES LIMITED",
+    "vatNumber": "906660424",
+    "address": {
+      "line1": "19 Park Lane",
+      "line2": "CHESTERFIELD",
+      "postcode": "S41 4WT",
+      "countryCode": "GB"
+    }
+  },
+  "processingDate": "2026-09-22T14:15:47+01:00"
+}

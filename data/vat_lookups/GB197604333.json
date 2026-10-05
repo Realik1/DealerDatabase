@@ -1,0 +1,14 @@
+{
+  "target": {
+    "name": "FAIRBROTHER CAR SALES LIMITED",
+    "vatNumber": "197604333",
+    "address": {
+      "line1": "The Old Foundry",
+      "line2": "8 Mill Lane",
+      "line3": "LIVERPOOL",
+      "postcode": "L20 8YE",
+      "countryCode": "GB"
+    }
+  },
+  "processingDate": "2026-09-22T14:31:59+01:00"
+}

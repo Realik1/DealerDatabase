@@ -1,0 +1,14 @@
+{
+  "target": {
+    "name": "AK CARS (UK) LIMITED",
+    "vatNumber": "702838246",
+    "address": {
+      "line1": "Unit 26A, Riverside Business Park",
+      "line2": "Moor Lane",
+      "line3": "BOLTON",
+      "postcode": "BL1 2RD",
+      "countryCode": "GB"
+    }
+  },
+  "processingDate": "2026-09-22T17:44:37+01:00"
+}

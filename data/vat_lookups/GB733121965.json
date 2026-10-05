@@ -1,0 +1,14 @@
+{
+  "target": {
+    "name": "CARVER CAR SALES LIMITED",
+    "vatNumber": "733121965",
+    "address": {
+      "line1": "Suite 4, Albion House",
+      "line2": "12 Market Street",
+      "line3": "MACCLESFIELD",
+      "postcode": "SK11 6EX",
+      "countryCode": "GB"
+    }
+  },
+  "processingDate": "2026-09-20T15:06:49+01:00"
+}

@@ -1,0 +1,14 @@
+{
+  "target": {
+    "name": "LISTER & SONS LIMITED",
+    "vatNumber": "605925636",
+    "address": {
+      "line1": "Kingsway Trading Estate",
+      "line2": "9 Mill Lane",
+      "line3": "LEEK",
+      "postcode": "ST13 9UX",
+      "countryCode": "GB"
+    }
+  },
+  "processingDate": "2026-09-21T12:08:24+01:00"
+}

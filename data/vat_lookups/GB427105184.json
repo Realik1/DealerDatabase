@@ -1,0 +1,14 @@
+{
+  "target": {
+    "name": "ZNM VEHICLE SALES LIMITED",
+    "vatNumber": "427105184",
+    "address": {
+      "line1": "The Old Foundry",
+      "line2": "Spring Street",
+      "line3": "STOCKPORT",
+      "postcode": "SK4 1HU",
+      "countryCode": "GB"
+    }
+  },
+  "processingDate": "2026-09-25T15:44:55+01:00"
+}

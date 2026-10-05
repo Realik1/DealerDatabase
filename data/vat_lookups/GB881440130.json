@@ -1,0 +1,14 @@
+{
+  "target": {
+    "name": "CROMPTON CAR SALES LIMITED",
+    "vatNumber": "881440130",
+    "address": {
+      "line1": "Unit 5, Kingsway Trading Estate",
+      "line2": "Commercial Road",
+      "line3": "CARDIFF",
+      "postcode": "CF10 6TR",
+      "countryCode": "GB"
+    }
+  },
+  "processingDate": "2026-09-18T11:40:42+01:00"
+}

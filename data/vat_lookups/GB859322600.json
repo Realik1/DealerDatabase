@@ -1,0 +1,13 @@
+{
+  "target": {
+    "name": "SY AUTOMOTIVE LIMITED",
+    "vatNumber": "859322600",
+    "address": {
+      "line1": "2 Chapel Street",
+      "line2": "SHEFFIELD",
+      "postcode": "S35 6NJ",
+      "countryCode": "GB"
+    }
+  },
+  "processingDate": "2026-09-27T11:40:56+01:00"
+}

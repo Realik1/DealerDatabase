@@ -1,0 +1,14 @@
+{
+  "target": {
+    "name": "WHITWORTH CARS LIMITED",
+    "vatNumber": "504965732",
+    "address": {
+      "line1": "Unit 16, Meadow Industrial Estate",
+      "line2": "Mill Lane",
+      "line3": "BIRMINGHAM",
+      "postcode": "B24 1QN",
+      "countryCode": "GB"
+    }
+  },
+  "processingDate": "2026-09-22T11:25:12+01:00"
+}

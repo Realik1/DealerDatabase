@@ -1,0 +1,14 @@
+{
+  "target": {
+    "name": "CP CARS LIMITED",
+    "vatNumber": "747147320",
+    "address": {
+      "line1": "Northgate Retail Park",
+      "line2": "Mill Lane",
+      "line3": "GLASGOW",
+      "postcode": "G72 8TW",
+      "countryCode": "GB"
+    }
+  },
+  "processingDate": "2026-09-25T15:37:12+01:00"
+}

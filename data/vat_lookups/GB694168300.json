@@ -1,0 +1,13 @@
+{
+  "target": {
+    "name": "WOLSTENHOLME AUTOS LIMITED",
+    "vatNumber": "694168300",
+    "address": {
+      "line1": "124 Leek Road",
+      "line2": "BIRMINGHAM",
+      "postcode": "B24 1ZN",
+      "countryCode": "GB"
+    }
+  },
+  "processingDate": "2026-09-21T10:42:35+01:00"
+}

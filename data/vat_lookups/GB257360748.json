@@ -1,0 +1,14 @@
+{
+  "target": {
+    "name": "BRADY CAR SALES LIMITED",
+    "vatNumber": "257360748",
+    "address": {
+      "line1": "Riverside Business Park",
+      "line2": "13-126 Hall Lane",
+      "line3": "STOCKPORT",
+      "postcode": "SK1 2QQ",
+      "countryCode": "GB"
+    }
+  },
+  "processingDate": "2026-09-18T15:02:19+01:00"
+}

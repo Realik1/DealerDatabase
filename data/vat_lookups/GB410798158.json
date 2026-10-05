@@ -1,0 +1,13 @@
+{
+  "target": {
+    "name": "LEICESTER AUTOS LIMITED",
+    "vatNumber": "410798158",
+    "address": {
+      "line1": "76 Parkway",
+      "line2": "LEICESTER",
+      "postcode": "LE19 9UQ",
+      "countryCode": "GB"
+    }
+  },
+  "processingDate": "2026-09-28T10:04:46+01:00"
+}

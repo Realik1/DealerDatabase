@@ -1,0 +1,14 @@
+{
+  "target": {
+    "name": "TATTERSALL MOTOR COMPANY LIMITED",
+    "vatNumber": "269583506",
+    "address": {
+      "line1": "Riverside Business Park",
+      "line2": "Spring Street",
+      "line3": "LONDON",
+      "postcode": "E10 5HH",
+      "countryCode": "GB"
+    }
+  },
+  "processingDate": "2026-09-18T14:32:28+01:00"
+}

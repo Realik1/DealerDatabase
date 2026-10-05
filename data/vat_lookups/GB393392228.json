@@ -1,0 +1,14 @@
+{
+  "target": {
+    "name": "HARTLEY CARS (2021) LIMITED",
+    "vatNumber": "393392228",
+    "address": {
+      "line1": "Northgate Retail Park",
+      "line2": "9 Bradford Road",
+      "line3": "READING",
+      "postcode": "RG30 7SJ",
+      "countryCode": "GB"
+    }
+  },
+  "processingDate": "2026-09-18T08:12:31+01:00"
+}

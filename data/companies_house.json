@@ -1,0 +1,4037 @@
+{
+  "source": "Companies House",
+  "extracted_at": "2026-09-28T06:00:00Z",
+  "items_count": 110,
+  "items": [
+    {
+      "company_number": "15253958",
+      "company_name": "LEICESTER AUTOMOTIVE LIMITED",
+      "company_status": "active",
+      "type": "ltd",
+      "date_of_creation": "2023-10-16",
+      "registered_office_address": {
+        "address_line_1": "Unit 29A, The Old Foundry",
+        "address_line_2": "Church Street",
+        "locality": "Leicester",
+        "region": "Leicestershire",
+        "postal_code": "LE3 8TT",
+        "country": "England"
+      },
+      "sic_codes": [
+        "45111",
+        "45112"
+      ],
+      "officers": [
+        {
+          "name": "BRADY, Mark Alan",
+          "officer_role": "director",
+          "appointed_on": "2023-12-20",
+          "occupation": "Company Director",
+          "nationality": "British"
+        },
+        {
+          "name": "HADLEY, Darren John",
+          "officer_role": "director",
+          "appointed_on": "2025-05-31",
+          "occupation": "Motor Trader",
+          "nationality": "British"
+        }
+      ]
+    },
+    {
+      "company_number": "03643696",
+      "company_name": "HONEST CAR SUPERMARKET (UK) LIMITED",
+      "company_status": "active",
+      "type": "ltd",
+      "date_of_creation": "1998-08-17",
+      "registered_office_address": {
+        "address_line_1": "Phoenix Court",
+        "address_line_2": "Brook Lane",
+        "locality": "Cardiff",
+        "postal_code": "CF11 9JW",
+        "country": "Wales"
+      },
+      "sic_codes": [
+        "45111",
+        "45112"
+      ],
+      "officers": [
+        {
+          "name": "CATTERALL, Mark Alan",
+          "officer_role": "director",
+          "appointed_on": "1999-08-25",
+          "occupation": "Car Sales",
+          "nationality": "British"
+        },
+        {
+          "name": "JARVIS, Adam James",
+          "officer_role": "director",
+          "appointed_on": "2003-01-10",
+          "resigned_on": "2003-07-31",
+          "occupation": "Company Director",
+          "nationality": "British"
+        },
+        {
+          "name": "STANSFIELD, Wayne John",
+          "officer_role": "secretary",
+          "appointed_on": "1998-08-17"
+        }
+      ]
+    },
+    {
+      "company_number": "04743925",
+      "company_name": "INGHAM & SONS (UK) LIMITED",
+      "company_status": "active",
+      "type": "ltd",
+      "date_of_creation": "2003-01-01",
+      "registered_office_address": {
+        "address_line_1": "Suite 4, Albion House",
+        "address_line_2": "12 Market Street",
+        "locality": "Macclesfield",
+        "region": "Cheshire",
+        "postal_code": "SK11 6EX",
+        "country": "England"
+      },
+      "sic_codes": [
+        "45111",
+        "45112"
+      ],
+      "officers": [
+        {
+          "name": "DUCKWORTH, Joanne Anne",
+          "officer_role": "director",
+          "appointed_on": "2007-07-08",
+          "nationality": "English"
+        },
+        {
+          "name": "SOWERBY, Joanne Marie",
+          "officer_role": "director",
+          "appointed_on": "2014-07-05",
+          "resigned_on": "2018-07-09",
+          "nationality": "British"
+        }
+      ]
+    },
+    {
+      "company_number": "SC156321",
+      "company_name": "KENWORTHY MOTOR COMPANY (UK) LIMITED",
+      "company_status": "active",
+      "type": "ltd",
+      "date_of_creation": "1999-09-14",
+      "registered_office_address": {
+        "address_line_1": "The Old Foundry",
+        "address_line_2": "Commercial Road",
+        "locality": "Glasgow",
+        "postal_code": "G51 1PN",
+        "country": "Scotland"
+      },
+      "sic_codes": [
+        "45112"
+      ],
+      "officers": [
+        {
+          "name": "BIRTWISTLE, Amanda",
+          "officer_role": "director",
+          "appointed_on": "2000-10-05",
+          "nationality": "British"
+        },
+        {
+          "name": "UNSWORTH, James",
+          "officer_role": "director",
+          "appointed_on": "2001-05-31",
+          "occupation": "Motor Trader",
+          "nationality": "British"
+        },
+        {
+          "name": "CROMPTON, David John",
+          "officer_role": "secretary",
+          "appointed_on": "1999-09-14"
+        }
+      ]
+    },
+    {
+      "company_number": "03655004",
+      "company_name": "PENDLE VEHICLE SALES LIMITED",
+      "company_status": "active",
+      "type": "ltd",
+      "date_of_creation": "1998-09-02",
+      "registered_office_address": {
+        "address_line_1": "23 Ring Road",
+        "locality": "Bristol",
+        "postal_code": "BS5 8DU",
+        "country": "England"
+      },
+      "sic_codes": [
+        "45111",
+        "45112"
+      ],
+      "officers": [
+        {
+          "name": "LOMAX, Carl",
+          "officer_role": "director",
+          "appointed_on": "2003-06-28",
+          "occupation": "Company Director",
+          "nationality": "British"
+        },
+        {
+          "name": "CARVER, Joanne Anne",
+          "officer_role": "director",
+          "appointed_on": "1999-10-19",
+          "occupation": "Car Sales",
+          "nationality": "British"
+        }
+      ]
+    },
+    {
+      "company_number": "06426160",
+      "company_name": "KERSHAW CARS LIMITED",
+      "company_status": "active",
+      "type": "ltd",
+      "date_of_creation": "2008-02-25",
+      "registered_office_address": {
+        "address_line_1": "The Old Foundry",
+        "address_line_2": "29 Bradford Road",
+        "locality": "London",
+        "postal_code": "NW10 6RQ",
+        "country": "England"
+      },
+      "sic_codes": [
+        "45112"
+      ],
+      "officers": [
+        {
+          "name": "ENTWISTLE, Robert Michael",
+          "officer_role": "director",
+          "appointed_on": "2012-02-20",
+          "occupation": "Car Sales",
+          "nationality": "British"
+        },
+        {
+          "name": "HOLT, Karen",
+          "officer_role": "director",
+          "appointed_on": "2010-03-21",
+          "occupation": "Company Director",
+          "nationality": "British"
+        },
+        {
+          "name": "LISTER, Michelle Louise",
+          "officer_role": "director",
+          "appointed_on": "2009-05-16",
+          "occupation": "Director",
+          "nationality": "British"
+        },
+        {
+          "name": "HAWORTH, Michelle Marie",
+          "officer_role": "director",
+          "appointed_on": "2022-02-13",
+          "resigned_on": "2022-07-17",
+          "occupation": "Director",
+          "nationality": "English"
+        },
+        {
+          "name": "WHITWORTH, Lee Michael",
+          "officer_role": "secretary",
+          "appointed_on": "2008-02-25"
+        }
+      ]
+    },
+    {
+      "company_number": "05306934",
+      "company_name": "WHITWORTH CARS LIMITED",
+      "company_status": "active",
+      "type": "ltd",
+      "date_of_creation": "2005-01-23",
+      "registered_office_address": {
+        "address_line_1": "Unit 16, Meadow Industrial Estate",
+        "address_line_2": "Mill Lane",
+        "locality": "Birmingham",
+        "region": "West Midlands",
+        "postal_code": "B24 1QN",
+        "country": "England"
+      },
+      "sic_codes": [
+        "45112"
+      ],
+      "officers": [
+        {
+          "name": "DENHOLM, Lee James",
+          "officer_role": "director",
+          "appointed_on": "2010-02-18",
+          "occupation": "Company Director",
+          "nationality": "British"
+        },
+        {
+          "name": "GARSIDE, Lee Michael",
+          "officer_role": "director",
+          "appointed_on": "2010-05-05",
+          "occupation": "Company Director",
+          "nationality": "Irish"
+        },
+        {
+          "name": "KERSHAW, Simon James",
+          "officer_role": "director",
+          "appointed_on": "2013-07-12",
+          "resigned_on": "2018-04-14",
+          "occupation": "Director",
+          "nationality": "British"
+        }
+      ]
+    },
+    {
+      "company_number": "08719724",
+      "company_name": "SHUTTLEWORTH AUTOS LIMITED",
+      "company_status": "active",
+      "type": "ltd",
+      "date_of_creation": "2013-07-24",
+      "registered_office_address": {
+        "address_line_1": "Unit 30, The Old Foundry",
+        "address_line_2": "Leek Road",
+        "locality": "Hanley",
+        "region": "Staffordshire",
+        "postal_code": "ST1 3LJ",
+        "country": "England"
+      },
+      "sic_codes": [
+        "45111",
+        "45112"
+      ],
+      "officers": [
+        {
+          "name": "BRIERLEY, Sarah Jane",
+          "officer_role": "director",
+          "appointed_on": "2016-05-14",
+          "nationality": "British"
+        },
+        {
+          "name": "WOLSTENHOLME, Nicola Marie",
+          "officer_role": "director",
+          "appointed_on": "2014-03-13",
+          "occupation": "Car Sales",
+          "nationality": "English"
+        }
+      ]
+    },
+    {
+      "company_number": "02726504",
+      "company_name": "LIVERPOOL CAR CENTRE LIMITED",
+      "company_status": "active",
+      "type": "ltd",
+      "date_of_creation": "1992-06-01",
+      "registered_office_address": {
+        "address_line_1": "Suite 4, Albion House",
+        "address_line_2": "12 Market Street",
+        "locality": "Macclesfield",
+        "region": "Cheshire",
+        "postal_code": "SK11 6EX",
+        "country": "England"
+      },
+      "sic_codes": [
+        "45111",
+        "45112"
+      ],
+      "officers": [
+        {
+          "name": "DAWSON, Samantha Louise",
+          "officer_role": "director",
+          "appointed_on": "1992-06-29",
+          "occupation": "Motor Trader",
+          "nationality": "British"
+        },
+        {
+          "name": "UNSWORTH, Darren James",
+          "officer_role": "director",
+          "appointed_on": "1994-04-12",
+          "nationality": "British"
+        }
+      ]
+    },
+    {
+      "company_number": "10278464",
+      "company_name": "GARSIDE & SONS LIMITED",
+      "company_status": "active",
+      "type": "ltd",
+      "date_of_creation": "2016-06-13",
+      "registered_office_address": {
+        "address_line_1": "Unit 22A, Kingsway Trading Estate",
+        "address_line_2": "Station Road",
+        "locality": "Reading",
+        "region": "Berkshire",
+        "postal_code": "RG30 4UY",
+        "country": "England"
+      },
+      "sic_codes": [
+        "45111",
+        "45112"
+      ],
+      "officers": [
+        {
+          "name": "OGDEN, Samantha Anne",
+          "officer_role": "director",
+          "appointed_on": "2019-10-11",
+          "occupation": "Car Sales",
+          "nationality": "British"
+        },
+        {
+          "name": "CARVER, Samantha Louise",
+          "officer_role": "director",
+          "appointed_on": "2018-11-09",
+          "occupation": "Car Sales",
+          "nationality": "English"
+        }
+      ]
+    },
+    {
+      "company_number": "02645390",
+      "company_name": "GT CARS (UK) LIMITED",
+      "company_status": "active",
+      "type": "ltd",
+      "date_of_creation": "1991-07-05",
+      "registered_office_address": {
+        "address_line_1": "Riverside Business Park",
+        "address_line_2": "King Street",
+        "locality": "Bristol",
+        "postal_code": "BS34 3XU",
+        "country": "England"
+      },
+      "sic_codes": [
+        "45112"
+      ],
+      "officers": [
+        {
+          "name": "THORNLEY, Paul Peter",
+          "officer_role": "director",
+          "appointed_on": "1992-02-20",
+          "occupation": "Car Sales",
+          "nationality": "British"
+        },
+        {
+          "name": "KENWORTHY, Joanne Louise",
+          "officer_role": "director",
+          "appointed_on": "2012-12-20",
+          "resigned_on": "2024-08-23",
+          "nationality": "Irish"
+        }
+      ]
+    },
+    {
+      "company_number": "02799421",
+      "company_name": "KERSHAW MOTOR COMPANY LIMITED",
+      "company_status": "active",
+      "type": "ltd",
+      "date_of_creation": "1992-12-17",
+      "registered_office_address": {
+        "address_line_1": "Riverside Business Park",
+        "address_line_2": "Parkway",
+        "locality": "Preston",
+        "region": "Lancashire",
+        "postal_code": "PR1 4DH",
+        "country": "England"
+      },
+      "sic_codes": [
+        "45111",
+        "45112"
+      ],
+      "officers": [
+        {
+          "name": "LISTER, Emma Louise",
+          "officer_role": "director",
+          "appointed_on": "1997-01-30",
+          "occupation": "Company Director",
+          "nationality": "British"
+        },
+        {
+          "name": "WOLSTENHOLME, Joanne Elizabeth",
+          "officer_role": "director",
+          "appointed_on": "1996-03-09",
+          "occupation": "Car Sales",
+          "nationality": "British"
+        }
+      ]
+    },
+    {
+      "company_number": "09423474",
+      "company_name": "WALMSLEY CARS LIMITED",
+      "company_status": "active",
+      "type": "ltd",
+      "date_of_creation": "2015-01-25",
+      "registered_office_address": {
+        "address_line_1": "Lowry House",
+        "address_line_2": "17 Marble Street",
+        "locality": "Manchester",
+        "region": "Greater Manchester",
+        "postal_code": "M2 3AW",
+        "country": "England"
+      },
+      "sic_codes": [
+        "45112"
+      ],
+      "officers": [
+        {
+          "name": "RAMSDEN, Craig Alan",
+          "officer_role": "director",
+          "appointed_on": "2017-06-15",
+          "occupation": "Company Director",
+          "nationality": "English"
+        },
+        {
+          "name": "NUTTALL, Rachel",
+          "officer_role": "director",
+          "appointed_on": "2019-11-23",
+          "occupation": "Company Director",
+          "nationality": "British"
+        }
+      ]
+    },
+    {
+      "company_number": "07113955",
+      "company_name": "PEAK AUTOCENTRE LIMITED",
+      "company_status": "active",
+      "type": "ltd",
+      "date_of_creation": "2010-01-16",
+      "registered_office_address": {
+        "address_line_1": "Unit 18A, Northgate Retail Park",
+        "address_line_2": "Leek Road",
+        "locality": "Newcastle upon Tyne",
+        "region": "Tyne and Wear",
+        "postal_code": "NE4 1BL",
+        "country": "England"
+      },
+      "sic_codes": [
+        "45112"
+      ],
+      "officers": [
+        {
+          "name": "WALMSLEY, Martin Michael",
+          "officer_role": "director",
+          "appointed_on": "2013-11-05",
+          "occupation": "Company Director",
+          "nationality": "Irish"
+        },
+        {
+          "name": "DUCKWORTH, Joanne Marie",
+          "officer_role": "director",
+          "appointed_on": "2012-03-28",
+          "occupation": "Motor Trader",
+          "nationality": "British"
+        }
+      ]
+    },
+    {
+      "company_number": "10865066",
+      "company_name": "O'NEILL MOTOR COMPANY LIMITED",
+      "company_status": "active",
+      "type": "ltd",
+      "date_of_creation": "2017-05-30",
+      "registered_office_address": {
+        "address_line_1": "Kingsway Trading Estate",
+        "address_line_2": "Trinity Way",
+        "locality": "London",
+        "postal_code": "E10 6FA",
+        "country": "England"
+      },
+      "sic_codes": [
+        "45111",
+        "45112"
+      ],
+      "officers": [
+        {
+          "name": "SHUTTLEWORTH, Carl",
+          "officer_role": "director",
+          "appointed_on": "2022-08-19",
+          "occupation": "Director",
+          "nationality": "British"
+        }
+      ]
+    },
+    {
+      "company_number": "06890861",
+      "company_name": "VALUE MOTORS (UK) LIMITED",
+      "company_status": "active",
+      "type": "ltd",
+      "date_of_creation": "2009-06-05",
+      "registered_office_address": {
+        "address_line_1": "Suite 4, Albion House",
+        "address_line_2": "12 Market Street",
+        "locality": "Macclesfield",
+        "region": "Cheshire",
+        "postal_code": "SK11 6EX",
+        "country": "England"
+      },
+      "sic_codes": [
+        "45112"
+      ],
+      "officers": [
+        {
+          "name": "BIRTWISTLE, Gemma Louise",
+          "officer_role": "director",
+          "appointed_on": "2012-04-06",
+          "occupation": "Director",
+          "nationality": "British"
+        }
+      ]
+    },
+    {
+      "company_number": "08398392",
+      "company_name": "DAWSON HOLDINGS LIMITED",
+      "company_status": "active",
+      "type": "ltd",
+      "date_of_creation": "2012-10-21",
+      "registered_office_address": {
+        "address_line_1": "Unit 22, Riverside Business Park",
+        "address_line_2": "Brook Lane",
+        "locality": "Wolverhampton",
+        "region": "West Midlands",
+        "postal_code": "WV14 3XN",
+        "country": "England"
+      },
+      "sic_codes": [
+        "45112"
+      ],
+      "officers": [
+        {
+          "name": "JARVIS, Karen Anne",
+          "officer_role": "director",
+          "appointed_on": "2016-02-14",
+          "nationality": "British"
+        },
+        {
+          "name": "BRIERLEY, Michelle Anne",
+          "officer_role": "director",
+          "appointed_on": "2017-12-16",
+          "occupation": "Director",
+          "nationality": "British"
+        },
+        {
+          "name": "HAWORTH, Craig Peter",
+          "officer_role": "director",
+          "appointed_on": "2013-10-14",
+          "occupation": "Motor Trader",
+          "nationality": "British"
+        },
+        {
+          "name": "LISTER, Paul Peter",
+          "officer_role": "secretary",
+          "appointed_on": "2012-10-21"
+        }
+      ]
+    },
+    {
+      "company_number": "02802975",
+      "company_name": "MILLBROOK MOT CENTRE LTD",
+      "company_status": "active",
+      "type": "ltd",
+      "date_of_creation": "1993-03-15",
+      "registered_office_address": {
+        "address_line_1": "Lowry House",
+        "address_line_2": "17 Marble Street",
+        "locality": "Manchester",
+        "region": "Greater Manchester",
+        "postal_code": "M2 3AW",
+        "country": "England"
+      },
+      "sic_codes": [
+        "45320"
+      ],
+      "officers": [
+        {
+          "name": "BENNETT, Emma Anne",
+          "officer_role": "director",
+          "appointed_on": "1995-09-20",
+          "occupation": "Car Sales",
+          "nationality": "British"
+        },
+        {
+          "name": "VARLEY, Steven John",
+          "officer_role": "director",
+          "appointed_on": "1994-08-20",
+          "occupation": "Director",
+          "nationality": "British"
+        },
+        {
+          "name": "MARSDEN, Joanne Anne",
+          "officer_role": "director",
+          "appointed_on": "1995-02-24",
+          "occupation": "Car Sales",
+          "nationality": "British"
+        }
+      ]
+    },
+    {
+      "company_number": "12079343",
+      "company_name": "CARDIFF CAR CENTRE LIMITED",
+      "company_status": "active",
+      "type": "ltd",
+      "date_of_creation": "2019-06-13",
+      "registered_office_address": {
+        "address_line_1": "The Old Foundry",
+        "address_line_2": "27-75 Mount Pleasant",
+        "locality": "Cardiff",
+        "postal_code": "CF24 3EE",
+        "country": "Wales"
+      },
+      "sic_codes": [
+        "45111",
+        "45112"
+      ],
+      "officers": [
+        {
+          "name": "CATTERALL, Lisa Louise",
+          "officer_role": "director",
+          "appointed_on": "2024-05-11",
+          "occupation": "Director",
+          "nationality": "British"
+        },
+        {
+          "name": "CARVER, Kelly Jane",
+          "officer_role": "director",
+          "appointed_on": "2021-07-07",
+          "nationality": "Irish"
+        },
+        {
+          "name": "THORNLEY, Mark",
+          "officer_role": "director",
+          "appointed_on": "2021-10-10",
+          "occupation": "Motor Trader",
+          "nationality": "British"
+        },
+        {
+          "name": "KENWORTHY, Lee John",
+          "officer_role": "director",
+          "appointed_on": "2024-03-08",
+          "resigned_on": "2026-08-12",
+          "occupation": "Motor Trader",
+          "nationality": "British"
+        }
+      ]
+    },
+    {
+      "company_number": "02161484",
+      "company_name": "YARDLEY CAR CENTRE LIMITED",
+      "company_status": "active",
+      "type": "ltd",
+      "date_of_creation": "1987-02-24",
+      "registered_office_address": {
+        "address_line_1": "Riverside Business Park",
+        "address_line_2": "29 Hall Lane",
+        "locality": "Liverpool",
+        "region": "Merseyside",
+        "postal_code": "L9 2YE",
+        "country": "England"
+      },
+      "sic_codes": [
+        "45111",
+        "45112"
+      ],
+      "officers": [
+        {
+          "name": "INGHAM, Samantha Elizabeth",
+          "officer_role": "director",
+          "appointed_on": "1990-06-12",
+          "occupation": "Company Director",
+          "nationality": "British"
+        },
+        {
+          "name": "KENWORTHY, Lee John",
+          "officer_role": "director",
+          "appointed_on": "1991-11-27",
+          "occupation": "Company Director",
+          "nationality": "English"
+        },
+        {
+          "name": "MELLOR, Lisa",
+          "officer_role": "director",
+          "appointed_on": "2013-08-24",
+          "resigned_on": "2015-03-20",
+          "occupation": "Car Sales",
+          "nationality": "British"
+        }
+      ]
+    },
+    {
+      "company_number": "07093337",
+      "company_name": "WOLSTENHOLME AUTOS LIMITED",
+      "company_status": "active",
+      "type": "ltd",
+      "date_of_creation": "2010-01-01",
+      "registered_office_address": {
+        "address_line_1": "124 Leek Road",
+        "locality": "Birmingham",
+        "region": "West Midlands",
+        "postal_code": "B24 1ZN",
+        "country": "England"
+      },
+      "sic_codes": [
+        "45111",
+        "45112"
+      ],
+      "officers": [
+        {
+          "name": "KENWORTHY, Ian Peter",
+          "officer_role": "director",
+          "appointed_on": "2010-03-21",
+          "occupation": "Motor Trader",
+          "nationality": "British"
+        }
+      ]
+    },
+    {
+      "company_number": "02404769",
+      "company_name": "LR CARS (UK) LIMITED",
+      "company_status": "active",
+      "type": "ltd",
+      "date_of_creation": "1989-04-16",
+      "registered_office_address": {
+        "address_line_1": "5 Junction Road",
+        "locality": "Hanley",
+        "region": "Staffordshire",
+        "postal_code": "ST1 3SH",
+        "country": "England"
+      },
+      "sic_codes": [
+        "45111",
+        "45112"
+      ],
+      "officers": [
+        {
+          "name": "PENDLE, Emma Elizabeth",
+          "officer_role": "director",
+          "appointed_on": "1993-04-21",
+          "occupation": "Company Director",
+          "nationality": "English"
+        },
+        {
+          "name": "RAMSDEN, Sarah Anne",
+          "officer_role": "director",
+          "appointed_on": "1994-09-14",
+          "nationality": "British"
+        }
+      ]
+    },
+    {
+      "company_number": "05860635",
+      "company_name": "FAIRBROTHER CAR SALES LIMITED",
+      "company_status": "active",
+      "type": "ltd",
+      "date_of_creation": "2006-07-27",
+      "registered_office_address": {
+        "address_line_1": "Suite 4, Albion House",
+        "address_line_2": "12 Market Street",
+        "locality": "Macclesfield",
+        "region": "Cheshire",
+        "postal_code": "SK11 6EX",
+        "country": "England"
+      },
+      "sic_codes": [
+        "45111",
+        "45112"
+      ],
+      "officers": [
+        {
+          "name": "MOORCROFT, Joanne Louise",
+          "officer_role": "director",
+          "appointed_on": "2007-03-10",
+          "occupation": "Company Director",
+          "nationality": "Irish"
+        },
+        {
+          "name": "SOWERBY, Mark Peter",
+          "officer_role": "director",
+          "appointed_on": "2006-11-01",
+          "occupation": "Car Sales",
+          "nationality": "Irish"
+        }
+      ]
+    },
+    {
+      "company_number": "12773753",
+      "company_name": "CARVER & RADCLIFFE LIMITED",
+      "company_status": "active",
+      "type": "ltd",
+      "date_of_creation": "2020-07-07",
+      "registered_office_address": {
+        "address_line_1": "Meadow Industrial Estate",
+        "address_line_2": "Chapel Street",
+        "locality": "Cardiff",
+        "postal_code": "CF10 4QD",
+        "country": "Wales"
+      },
+      "sic_codes": [
+        "45112"
+      ],
+      "officers": [
+        {
+          "name": "CATTERALL, Steven Thomas",
+          "officer_role": "director",
+          "appointed_on": "2020-11-24",
+          "occupation": "Director",
+          "nationality": "British"
+        },
+        {
+          "name": "VARLEY, Helen",
+          "officer_role": "director",
+          "appointed_on": "2023-06-15",
+          "occupation": "Director",
+          "nationality": "British"
+        },
+        {
+          "name": "FENWICK, Andrew Peter",
+          "officer_role": "director",
+          "appointed_on": "2020-07-29",
+          "resigned_on": "2022-04-30",
+          "occupation": "Motor Trader",
+          "nationality": "British"
+        }
+      ]
+    },
+    {
+      "company_number": "04633695",
+      "company_name": "REGAL CAR SUPERMARKET LIMITED",
+      "company_status": "active",
+      "type": "ltd",
+      "date_of_creation": "2002-08-20",
+      "registered_office_address": {
+        "address_line_1": "21-192 Parkway",
+        "locality": "Warrington",
+        "region": "Cheshire",
+        "postal_code": "WA1 9WZ",
+        "country": "England"
+      },
+      "sic_codes": [
+        "45112"
+      ],
+      "officers": [
+        {
+          "name": "ENTWISTLE, Claire Anne",
+          "officer_role": "director",
+          "appointed_on": "2003-08-06",
+          "occupation": "Motor Trader",
+          "nationality": "British"
+        }
+      ]
+    },
+    {
+      "company_number": "13249635",
+      "company_name": "HARTLEY CARS (2021) LIMITED",
+      "company_status": "active",
+      "type": "ltd",
+      "date_of_creation": "2021-02-09",
+      "registered_office_address": {
+        "address_line_1": "Northgate Retail Park",
+        "address_line_2": "9 Bradford Road",
+        "locality": "Reading",
+        "region": "Berkshire",
+        "postal_code": "RG30 7SJ",
+        "country": "England"
+      },
+      "sic_codes": [
+        "45111",
+        "45112"
+      ],
+      "officers": [
+        {
+          "name": "DUCKWORTH, Nicola Louise",
+          "officer_role": "director",
+          "appointed_on": "2021-02-09",
+          "occupation": "Director",
+          "nationality": "Irish"
+        }
+      ]
+    },
+    {
+      "company_number": "09071633",
+      "company_name": "RIGBY HOLDINGS LIMITED",
+      "company_status": "active",
+      "type": "ltd",
+      "date_of_creation": "2014-04-22",
+      "registered_office_address": {
+        "address_line_1": "Unit 25A, Meadow Industrial Estate",
+        "address_line_2": "Mill Lane",
+        "locality": "Derby",
+        "region": "Derbyshire",
+        "postal_code": "DE21 2XH",
+        "country": "England"
+      },
+      "sic_codes": [
+        "45111",
+        "45112"
+      ],
+      "officers": [
+        {
+          "name": "BENNETT, David Thomas",
+          "officer_role": "director",
+          "appointed_on": "2018-07-23",
+          "occupation": "Motor Trader",
+          "nationality": "British"
+        },
+        {
+          "name": "PICKERING, Karen",
+          "officer_role": "director",
+          "appointed_on": "2014-10-25",
+          "occupation": "Company Director",
+          "nationality": "British"
+        },
+        {
+          "name": "WALMSLEY, Karen",
+          "officer_role": "director",
+          "appointed_on": "2016-10-15",
+          "occupation": "Car Sales",
+          "nationality": "Irish"
+        },
+        {
+          "name": "NUTTALL, Darren Thomas",
+          "officer_role": "director",
+          "appointed_on": "2017-07-07",
+          "resigned_on": "2022-04-24",
+          "occupation": "Car Sales",
+          "nationality": "British"
+        }
+      ]
+    },
+    {
+      "company_number": "10008405",
+      "company_name": "KENWORTHY CAR SALES LIMITED",
+      "company_status": "active",
+      "type": "ltd",
+      "date_of_creation": "2016-01-14",
+      "registered_office_address": {
+        "address_line_1": "2nd Floor, Carlton Chambers",
+        "address_line_2": "88 Queen Street",
+        "locality": "Leeds",
+        "region": "West Yorkshire",
+        "postal_code": "LS1 2BW",
+        "country": "England"
+      },
+      "sic_codes": [
+        "45320"
+      ],
+      "officers": [
+        {
+          "name": "KERSHAW, Martin Alan",
+          "officer_role": "director",
+          "appointed_on": "2019-04-12",
+          "occupation": "Director",
+          "nationality": "British"
+        },
+        {
+          "name": "RADCLIFFE, Carl Michael",
+          "officer_role": "director",
+          "appointed_on": "2021-02-16",
+          "occupation": "Director",
+          "nationality": "British"
+        },
+        {
+          "name": "WOLSTENHOLME, Rachel",
+          "officer_role": "director",
+          "appointed_on": "2023-06-03",
+          "resigned_on": "2025-04-29",
+          "occupation": "Motor Trader",
+          "nationality": "British"
+        }
+      ]
+    },
+    {
+      "company_number": "12373897",
+      "company_name": "THORNLEY & PICKERING LIMITED",
+      "company_status": "active",
+      "type": "ltd",
+      "date_of_creation": "2019-12-06",
+      "registered_office_address": {
+        "address_line_1": "Unit 30, Kingsway Trading Estate",
+        "address_line_2": "Brook Lane",
+        "locality": "Manchester",
+        "region": "Greater Manchester",
+        "postal_code": "M12 5YJ",
+        "country": "England"
+      },
+      "sic_codes": [
+        "45111",
+        "45112"
+      ],
+      "officers": [
+        {
+          "name": "TOLSON, Steven Peter",
+          "officer_role": "director",
+          "appointed_on": "2023-02-20",
+          "occupation": "Director",
+          "nationality": "British"
+        },
+        {
+          "name": "OGDEN, Amanda",
+          "officer_role": "director",
+          "appointed_on": "2025-01-25",
+          "occupation": "Car Sales",
+          "nationality": "British"
+        }
+      ]
+    },
+    {
+      "company_number": "02730434",
+      "company_name": "JYX VEHICLE SALES LIMITED",
+      "company_status": "active",
+      "type": "ltd",
+      "date_of_creation": "1992-05-22",
+      "registered_office_address": {
+        "address_line_1": "Lowry House",
+        "address_line_2": "17 Marble Street",
+        "locality": "Manchester",
+        "region": "Greater Manchester",
+        "postal_code": "M2 3AW",
+        "country": "England"
+      },
+      "sic_codes": [
+        "45111",
+        "45112"
+      ],
+      "officers": [
+        {
+          "name": "WALMSLEY, Helen Anne",
+          "officer_role": "director",
+          "appointed_on": "1997-08-30",
+          "nationality": "English"
+        },
+        {
+          "name": "CLAYTON, Darren Thomas",
+          "officer_role": "director",
+          "appointed_on": "1997-10-06",
+          "occupation": "Director",
+          "nationality": "British"
+        },
+        {
+          "name": "BRIERLEY, Darren James",
+          "officer_role": "secretary",
+          "appointed_on": "1992-05-22"
+        }
+      ]
+    },
+    {
+      "company_number": "09231116",
+      "company_name": "JRM VEHICLE SALES LIMITED",
+      "company_status": "active",
+      "type": "ltd",
+      "date_of_creation": "2014-08-27",
+      "registered_office_address": {
+        "address_line_1": "2nd Floor, Carlton Chambers",
+        "address_line_2": "88 Queen Street",
+        "locality": "Leeds",
+        "region": "West Yorkshire",
+        "postal_code": "LS1 2BW",
+        "country": "England"
+      },
+      "sic_codes": [
+        "45112"
+      ],
+      "officers": [
+        {
+          "name": "BARROW, Lee Alan",
+          "officer_role": "director",
+          "appointed_on": "2019-01-15",
+          "occupation": "Company Director",
+          "nationality": "Irish"
+        }
+      ]
+    },
+    {
+      "company_number": "06028865",
+      "company_name": "XJI VEHICLE SALES LIMITED",
+      "company_status": "active",
+      "type": "ltd",
+      "date_of_creation": "2007-01-02",
+      "registered_office_address": {
+        "address_line_1": "2nd Floor, Carlton Chambers",
+        "address_line_2": "88 Queen Street",
+        "locality": "Leeds",
+        "region": "West Yorkshire",
+        "postal_code": "LS1 2BW",
+        "country": "England"
+      },
+      "sic_codes": [
+        "45111",
+        "45112"
+      ],
+      "officers": [
+        {
+          "name": "BRIERLEY, Emma Anne",
+          "officer_role": "director",
+          "appointed_on": "2010-01-28",
+          "occupation": "Company Director",
+          "nationality": "British"
+        },
+        {
+          "name": "HADLEY, Paul Michael",
+          "officer_role": "director",
+          "appointed_on": "2010-12-03",
+          "occupation": "Car Sales",
+          "nationality": "British"
+        }
+      ]
+    },
+    {
+      "company_number": "03913778",
+      "company_name": "MILLBROOK MOTORS LTD",
+      "company_status": "active",
+      "type": "ltd",
+      "date_of_creation": "2000-01-02",
+      "registered_office_address": {
+        "address_line_1": "Unit 20A, Kingsway Trading Estate",
+        "address_line_2": "Mill Lane",
+        "locality": "Sheffield",
+        "region": "South Yorkshire",
+        "postal_code": "S9 9QH",
+        "country": "England"
+      },
+      "sic_codes": [
+        "45200"
+      ],
+      "officers": [
+        {
+          "name": "MOORCROFT, Adam Thomas",
+          "officer_role": "director",
+          "appointed_on": "2004-03-25",
+          "occupation": "Motor Trader",
+          "nationality": "British"
+        }
+      ]
+    },
+    {
+      "company_number": "06047241",
+      "company_name": "TATTERSALL MOTOR COMPANY LIMITED",
+      "company_status": "active",
+      "type": "ltd",
+      "date_of_creation": "2007-01-30",
+      "registered_office_address": {
+        "address_line_1": "Riverside Business Park",
+        "address_line_2": "Spring Street",
+        "locality": "London",
+        "postal_code": "E10 5HH",
+        "country": "England"
+      },
+      "sic_codes": [
+        "45111",
+        "45112"
+      ],
+      "officers": [
+        {
+          "name": "BIRTWISTLE, Lisa Louise",
+          "officer_role": "director",
+          "appointed_on": "2007-04-21",
+          "occupation": "Company Director",
+          "nationality": "British"
+        }
+      ]
+    },
+    {
+      "company_number": "03201186",
+      "company_name": "EATON VEHICLE REPAIRS LIMITED",
+      "company_status": "dissolved",
+      "type": "ltd",
+      "date_of_creation": "1996-03-08",
+      "registered_office_address": {
+        "address_line_1": "Unit 13A, The Old Foundry",
+        "address_line_2": "Bradford Road",
+        "locality": "Chesterfield",
+        "region": "Derbyshire",
+        "postal_code": "S40 2SX",
+        "country": "England"
+      },
+      "sic_codes": [
+        "45320"
+      ],
+      "officers": [
+        {
+          "name": "KERSHAW, Emma Anne",
+          "officer_role": "director",
+          "appointed_on": "1998-05-26",
+          "occupation": "Director",
+          "nationality": "Irish"
+        },
+        {
+          "name": "WHITWORTH, Emma Elizabeth",
+          "officer_role": "director",
+          "appointed_on": "1997-11-17",
+          "occupation": "Car Sales",
+          "nationality": "British"
+        },
+        {
+          "name": "MOORCROFT, Steven",
+          "officer_role": "director",
+          "appointed_on": "2002-03-04",
+          "resigned_on": "2023-02-27",
+          "nationality": "British"
+        }
+      ],
+      "date_of_cessation": "2001-05-17"
+    },
+    {
+      "company_number": "02275971",
+      "company_name": "CARVER & SONS LIMITED",
+      "company_status": "active",
+      "type": "ltd",
+      "date_of_creation": "1988-02-14",
+      "registered_office_address": {
+        "address_line_1": "Suite 4, Albion House",
+        "address_line_2": "12 Market Street",
+        "locality": "Macclesfield",
+        "region": "Cheshire",
+        "postal_code": "SK11 6EX",
+        "country": "England"
+      },
+      "sic_codes": [
+        "45112"
+      ],
+      "officers": [
+        {
+          "name": "THORNLEY, Joanne",
+          "officer_role": "director",
+          "appointed_on": "1990-11-24",
+          "occupation": "Motor Trader",
+          "nationality": "British"
+        },
+        {
+          "name": "DENHOLM, Simon",
+          "officer_role": "director",
+          "appointed_on": "1988-09-12",
+          "occupation": "Director",
+          "nationality": "Irish"
+        },
+        {
+          "name": "NUTTALL, Wayne Alan",
+          "officer_role": "director",
+          "appointed_on": "1992-02-17",
+          "occupation": "Director",
+          "nationality": "British"
+        }
+      ]
+    },
+    {
+      "company_number": "05279465",
+      "company_name": "SOWERBY HOLDINGS LIMITED",
+      "company_status": "active",
+      "type": "ltd",
+      "date_of_creation": "2004-11-22",
+      "registered_office_address": {
+        "address_line_1": "Unit 8A, The Old Foundry",
+        "address_line_2": "Trinity Way",
+        "locality": "Manchester",
+        "region": "Greater Manchester",
+        "postal_code": "M11 8UB",
+        "country": "England"
+      },
+      "sic_codes": [
+        "45112"
+      ],
+      "officers": [
+        {
+          "name": "BARROW, Gary Thomas",
+          "officer_role": "director",
+          "appointed_on": "2006-12-06",
+          "occupation": "Car Sales",
+          "nationality": "British"
+        },
+        {
+          "name": "THORNLEY, David Alan",
+          "officer_role": "director",
+          "appointed_on": "2009-01-16",
+          "occupation": "Motor Trader",
+          "nationality": "British"
+        }
+      ]
+    },
+    {
+      "company_number": "02786081",
+      "company_name": "STERLING CAR SUPERMARKET LIMITED",
+      "company_status": "active",
+      "type": "ltd",
+      "date_of_creation": "1992-11-26",
+      "registered_office_address": {
+        "address_line_1": "Unit 29A, Northgate Retail Park",
+        "address_line_2": "Ring Road",
+        "locality": "Sheffield",
+        "region": "South Yorkshire",
+        "postal_code": "S2 3DD",
+        "country": "England"
+      },
+      "sic_codes": [
+        "45111",
+        "45112"
+      ],
+      "officers": [
+        {
+          "name": "FENWICK, Martin Michael",
+          "officer_role": "director",
+          "appointed_on": "1993-07-09",
+          "occupation": "Company Director",
+          "nationality": "British"
+        },
+        {
+          "name": "MARSDEN, Helen Jane",
+          "officer_role": "director",
+          "appointed_on": "1996-12-31",
+          "occupation": "Car Sales",
+          "nationality": "British"
+        }
+      ]
+    },
+    {
+      "company_number": "03545926",
+      "company_name": "SMITH MOTORS LIMITED",
+      "company_status": "active",
+      "type": "ltd",
+      "date_of_creation": "1998-02-17",
+      "registered_office_address": {
+        "address_line_1": "Meadow Industrial Estate",
+        "address_line_2": "9-187 Bridge Street",
+        "locality": "Leeds",
+        "region": "West Yorkshire",
+        "postal_code": "LS11 4WX",
+        "country": "England"
+      },
+      "sic_codes": [
+        "45111",
+        "45112"
+      ],
+      "officers": [
+        {
+          "name": "BRADY, Paul James",
+          "officer_role": "director",
+          "appointed_on": "2000-07-21",
+          "occupation": "Car Sales",
+          "nationality": "English"
+        },
+        {
+          "name": "NUTTALL, Steven John",
+          "officer_role": "director",
+          "appointed_on": "1999-12-09",
+          "occupation": "Motor Trader",
+          "nationality": "English"
+        },
+        {
+          "name": "UNSWORTH, Darren Peter",
+          "officer_role": "director",
+          "appointed_on": "2001-02-24",
+          "nationality": "English"
+        }
+      ]
+    },
+    {
+      "company_number": "07994054",
+      "company_name": "EASTWAY MOTORS LIMITED",
+      "company_status": "active",
+      "type": "ltd",
+      "date_of_creation": "2011-12-05",
+      "registered_office_address": {
+        "address_line_1": "27-26 Commercial Road",
+        "locality": "Reading",
+        "region": "Berkshire",
+        "postal_code": "RG30 8FF",
+        "country": "England"
+      },
+      "sic_codes": [
+        "45112"
+      ],
+      "officers": [
+        {
+          "name": "UNSWORTH, Gemma Anne",
+          "officer_role": "director",
+          "appointed_on": "2015-10-18",
+          "occupation": "Car Sales",
+          "nationality": "British"
+        },
+        {
+          "name": "MOORCROFT, Gemma Marie",
+          "officer_role": "director",
+          "appointed_on": "2024-12-13",
+          "resigned_on": "2026-01-04",
+          "occupation": "Director",
+          "nationality": "British"
+        },
+        {
+          "name": "VARLEY, Claire Anne",
+          "officer_role": "secretary",
+          "appointed_on": "2011-12-05"
+        }
+      ]
+    },
+    {
+      "company_number": "12319193",
+      "company_name": "SMITH MOTORS HOLDINGS LIMITED",
+      "company_status": "active",
+      "type": "ltd",
+      "date_of_creation": "2019-11-05",
+      "registered_office_address": {
+        "address_line_1": "2nd Floor, Carlton Chambers",
+        "address_line_2": "88 Queen Street",
+        "locality": "Leeds",
+        "region": "West Yorkshire",
+        "postal_code": "LS1 2BW",
+        "country": "England"
+      },
+      "sic_codes": [
+        "68209"
+      ],
+      "officers": [
+        {
+          "name": "SHUTTLEWORTH, Amanda Elizabeth",
+          "officer_role": "director",
+          "appointed_on": "2025-01-14",
+          "occupation": "Director",
+          "nationality": "British"
+        },
+        {
+          "name": "RADCLIFFE, Lee Alan",
+          "officer_role": "director",
+          "appointed_on": "2025-01-23",
+          "occupation": "Car Sales",
+          "nationality": "British"
+        },
+        {
+          "name": "MOORCROFT, Wayne James",
+          "officer_role": "director",
+          "appointed_on": "2023-11-28",
+          "resigned_on": "2025-08-09",
+          "occupation": "Director",
+          "nationality": "English"
+        }
+      ]
+    },
+    {
+      "company_number": "10827331",
+      "company_name": "STANSFIELD & SONS LIMITED",
+      "company_status": "active",
+      "type": "ltd",
+      "date_of_creation": "2017-05-17",
+      "registered_office_address": {
+        "address_line_1": "Meadow Industrial Estate",
+        "address_line_2": "Brook Lane",
+        "locality": "Derby",
+        "region": "Derbyshire",
+        "postal_code": "DE1 7ZQ",
+        "country": "England"
+      },
+      "sic_codes": [
+        "45112"
+      ],
+      "officers": [
+        {
+          "name": "RADCLIFFE, Louise Anne",
+          "officer_role": "director",
+          "appointed_on": "2017-06-13",
+          "occupation": "Director",
+          "nationality": "Irish"
+        },
+        {
+          "name": "VARLEY, Jason Peter",
+          "officer_role": "director",
+          "appointed_on": "2017-12-18",
+          "occupation": "Motor Trader",
+          "nationality": "Irish"
+        },
+        {
+          "name": "HAWORTH, Neil Alan",
+          "officer_role": "director",
+          "appointed_on": "2020-10-08",
+          "occupation": "Company Director",
+          "nationality": "Irish"
+        },
+        {
+          "name": "GARSIDE, Darren Peter",
+          "officer_role": "secretary",
+          "appointed_on": "2017-05-17"
+        }
+      ]
+    },
+    {
+      "company_number": "09561719",
+      "company_name": "CLAYTON HOLDINGS LIMITED",
+      "company_status": "active",
+      "type": "ltd",
+      "date_of_creation": "2015-04-19",
+      "registered_office_address": {
+        "address_line_1": "2nd Floor, Carlton Chambers",
+        "address_line_2": "88 Queen Street",
+        "locality": "Leeds",
+        "region": "West Yorkshire",
+        "postal_code": "LS1 2BW",
+        "country": "England"
+      },
+      "sic_codes": [
+        "45111",
+        "45112"
+      ],
+      "officers": [
+        {
+          "name": "WOLSTENHOLME, Wayne James",
+          "officer_role": "director",
+          "appointed_on": "2015-09-03",
+          "occupation": "Car Sales",
+          "nationality": "British"
+        },
+        {
+          "name": "THORNLEY, Amanda Elizabeth",
+          "officer_role": "director",
+          "appointed_on": "2017-09-18",
+          "occupation": "Director",
+          "nationality": "Irish"
+        }
+      ]
+    },
+    {
+      "company_number": "06250459",
+      "company_name": "PRESTIGE CAR CENTRE LIMITED",
+      "company_status": "active",
+      "type": "ltd",
+      "date_of_creation": "2007-09-02",
+      "registered_office_address": {
+        "address_line_1": "Northgate Retail Park",
+        "address_line_2": "Marsh Lane",
+        "locality": "Stockport",
+        "region": "Greater Manchester",
+        "postal_code": "SK1 4ND",
+        "country": "England"
+      },
+      "sic_codes": [
+        "45111",
+        "45112"
+      ],
+      "officers": [
+        {
+          "name": "MELLOR, Paul Thomas",
+          "officer_role": "director",
+          "appointed_on": "2010-09-10",
+          "occupation": "Motor Trader",
+          "nationality": "British"
+        },
+        {
+          "name": "OPENSHAW, Louise Louise",
+          "officer_role": "director",
+          "appointed_on": "2007-09-19",
+          "occupation": "Director",
+          "nationality": "British"
+        },
+        {
+          "name": "VARLEY, Lisa",
+          "officer_role": "director",
+          "appointed_on": "2013-07-12",
+          "resigned_on": "2021-03-03",
+          "occupation": "Director",
+          "nationality": "British"
+        }
+      ]
+    },
+    {
+      "company_number": "05432434",
+      "company_name": "KWG VEHICLE SALES LIMITED",
+      "company_status": "active",
+      "type": "ltd",
+      "date_of_creation": "2005-06-03",
+      "registered_office_address": {
+        "address_line_1": "Unit 26, Northgate Retail Park",
+        "address_line_2": "Chapel Street",
+        "locality": "Leeds",
+        "region": "West Yorkshire",
+        "postal_code": "LS6 8ZP",
+        "country": "England"
+      },
+      "sic_codes": [
+        "45111",
+        "45112"
+      ],
+      "officers": [
+        {
+          "name": "BARROW, Robert Michael",
+          "officer_role": "director",
+          "appointed_on": "2009-12-24",
+          "occupation": "Director",
+          "nationality": "Irish"
+        },
+        {
+          "name": "TOLSON, Helen Elizabeth",
+          "officer_role": "director",
+          "appointed_on": "2007-03-26",
+          "occupation": "Motor Trader",
+          "nationality": "English"
+        }
+      ]
+    },
+    {
+      "company_number": "02578182",
+      "company_name": "HARTLEY CAR SALES LIMITED",
+      "company_status": "active",
+      "type": "ltd",
+      "date_of_creation": "1990-10-12",
+      "registered_office_address": {
+        "address_line_1": "Northgate Retail Park",
+        "address_line_2": "17-159 Church Street",
+        "locality": "Leicester",
+        "region": "Leicestershire",
+        "postal_code": "LE19 6PQ",
+        "country": "England"
+      },
+      "sic_codes": [
+        "45111",
+        "45112"
+      ],
+      "officers": [
+        {
+          "name": "BARROW, Lee John",
+          "officer_role": "director",
+          "appointed_on": "1992-04-18",
+          "occupation": "Motor Trader",
+          "nationality": "English"
+        },
+        {
+          "name": "GARSIDE, Louise Anne",
+          "officer_role": "director",
+          "appointed_on": "1993-11-11",
+          "occupation": "Director",
+          "nationality": "British"
+        },
+        {
+          "name": "SOWERBY, Kelly Louise",
+          "officer_role": "director",
+          "appointed_on": "1994-06-20",
+          "nationality": "English"
+        }
+      ]
+    },
+    {
+      "company_number": "03137357",
+      "company_name": "XUF VEHICLE SALES LIMITED",
+      "company_status": "active",
+      "type": "ltd",
+      "date_of_creation": "1995-10-22",
+      "registered_office_address": {
+        "address_line_1": "Kingsway Trading Estate",
+        "address_line_2": "Parkway",
+        "locality": "Bolton",
+        "region": "Greater Manchester",
+        "postal_code": "BL1 3YL",
+        "country": "England"
+      },
+      "sic_codes": [
+        "45112"
+      ],
+      "officers": [
+        {
+          "name": "LOMAX, Joanne Jane",
+          "officer_role": "director",
+          "appointed_on": "1995-10-28",
+          "occupation": "Director",
+          "nationality": "British"
+        },
+        {
+          "name": "HARTLEY, Joanne Marie",
+          "officer_role": "director",
+          "appointed_on": "1999-12-07",
+          "occupation": "Company Director",
+          "nationality": "British"
+        },
+        {
+          "name": "SHUTTLEWORTH, Darren John",
+          "officer_role": "secretary",
+          "appointed_on": "1995-10-22"
+        }
+      ]
+    },
+    {
+      "company_number": "05984112",
+      "company_name": "BRIERLEY BODY SHOP LIMITED",
+      "company_status": "active",
+      "type": "ltd",
+      "date_of_creation": "2006-11-23",
+      "registered_office_address": {
+        "address_line_1": "Lowry House",
+        "address_line_2": "17 Marble Street",
+        "locality": "Manchester",
+        "region": "Greater Manchester",
+        "postal_code": "M2 3AW",
+        "country": "England"
+      },
+      "sic_codes": [
+        "45112"
+      ],
+      "officers": [
+        {
+          "name": "YARDLEY, Craig James",
+          "officer_role": "director",
+          "appointed_on": "2009-03-25",
+          "occupation": "Director",
+          "nationality": "British"
+        },
+        {
+          "name": "QUARMBY, Lee Alan",
+          "officer_role": "secretary",
+          "appointed_on": "2006-11-23"
+        }
+      ]
+    },
+    {
+      "company_number": "02525033",
+      "company_name": "HADLEY CAR SALES LIMITED",
+      "company_status": "dissolved",
+      "type": "ltd",
+      "date_of_creation": "1990-05-06",
+      "registered_office_address": {
+        "address_line_1": "Lowry House",
+        "address_line_2": "17 Marble Street",
+        "locality": "Manchester",
+        "region": "Greater Manchester",
+        "postal_code": "M2 3AW",
+        "country": "England"
+      },
+      "sic_codes": [
+        "45200",
+        "45320"
+      ],
+      "officers": [
+        {
+          "name": "FENWICK, Steven John",
+          "officer_role": "director",
+          "appointed_on": "1991-06-18",
+          "occupation": "Director",
+          "nationality": "British"
+        },
+        {
+          "name": "RAMSDEN, Lee John",
+          "officer_role": "director",
+          "appointed_on": "1990-11-25",
+          "occupation": "Company Director",
+          "nationality": "Irish"
+        }
+      ],
+      "date_of_cessation": "2023-09-08"
+    },
+    {
+      "company_number": "02978309",
+      "company_name": "BIRTWISTLE MOTOR COMPANY LIMITED",
+      "company_status": "active",
+      "type": "ltd",
+      "date_of_creation": "1994-08-16",
+      "registered_office_address": {
+        "address_line_1": "Suite 4, Albion House",
+        "address_line_2": "12 Market Street",
+        "locality": "Macclesfield",
+        "region": "Cheshire",
+        "postal_code": "SK11 6EX",
+        "country": "England"
+      },
+      "sic_codes": [
+        "45111",
+        "45112"
+      ],
+      "officers": [
+        {
+          "name": "TOLSON, Steven John",
+          "officer_role": "director",
+          "appointed_on": "1998-09-20",
+          "occupation": "Car Sales",
+          "nationality": "British"
+        },
+        {
+          "name": "OPENSHAW, Lee James",
+          "officer_role": "director",
+          "appointed_on": "1996-05-12",
+          "occupation": "Motor Trader",
+          "nationality": "British"
+        },
+        {
+          "name": "FAIRBROTHER, Gary James",
+          "officer_role": "director",
+          "appointed_on": "1994-10-10",
+          "occupation": "Car Sales",
+          "nationality": "British"
+        },
+        {
+          "name": "HARTLEY, Emma Elizabeth",
+          "officer_role": "secretary",
+          "appointed_on": "1994-08-16"
+        }
+      ]
+    },
+    {
+      "company_number": "02889153",
+      "company_name": "PRESTIGE AUTOMOTIVE LIMITED",
+      "company_status": "active",
+      "type": "ltd",
+      "date_of_creation": "1993-12-17",
+      "registered_office_address": {
+        "address_line_1": "Northgate Retail Park",
+        "address_line_2": "26 Hall Lane",
+        "locality": "Leek",
+        "region": "Staffordshire",
+        "postal_code": "ST13 9UU",
+        "country": "England"
+      },
+      "sic_codes": [
+        "45111",
+        "45112"
+      ],
+      "officers": [
+        {
+          "name": "KERSHAW, Nicola Anne",
+          "officer_role": "director",
+          "appointed_on": "1994-05-26",
+          "occupation": "Motor Trader",
+          "nationality": "British"
+        },
+        {
+          "name": "MARSDEN, Paul Michael",
+          "officer_role": "director",
+          "appointed_on": "1996-06-21",
+          "occupation": "Company Director",
+          "nationality": "English"
+        }
+      ]
+    },
+    {
+      "company_number": "14517477",
+      "company_name": "CU CARS LIMITED",
+      "company_status": "active",
+      "type": "ltd",
+      "date_of_creation": "2022-10-21",
+      "registered_office_address": {
+        "address_line_1": "Lowry House",
+        "address_line_2": "17 Marble Street",
+        "locality": "Manchester",
+        "region": "Greater Manchester",
+        "postal_code": "M2 3AW",
+        "country": "England"
+      },
+      "sic_codes": [
+        "45111",
+        "45112"
+      ],
+      "officers": [
+        {
+          "name": "OPENSHAW, Michelle Louise",
+          "officer_role": "director",
+          "appointed_on": "2024-05-08",
+          "occupation": "Director",
+          "nationality": "Irish"
+        },
+        {
+          "name": "BENNETT, Samantha",
+          "officer_role": "director",
+          "appointed_on": "2024-07-07",
+          "occupation": "Motor Trader",
+          "nationality": "British"
+        },
+        {
+          "name": "RAMSDEN, Gary Peter",
+          "officer_role": "director",
+          "appointed_on": "2025-01-02",
+          "occupation": "Motor Trader",
+          "nationality": "Irish"
+        }
+      ]
+    },
+    {
+      "company_number": "SC100839",
+      "company_name": "VALUE CAR SUPERMARKET LIMITED",
+      "company_status": "active",
+      "type": "ltd",
+      "date_of_creation": "1989-11-07",
+      "registered_office_address": {
+        "address_line_1": "Suite 4, Albion House",
+        "address_line_2": "12 Market Street",
+        "locality": "Macclesfield",
+        "region": "Cheshire",
+        "postal_code": "SK11 6EX",
+        "country": "Scotland"
+      },
+      "sic_codes": [
+        "45112"
+      ],
+      "officers": [
+        {
+          "name": "AINSLEY, Emma Jane",
+          "officer_role": "director",
+          "appointed_on": "1994-09-02",
+          "occupation": "Motor Trader",
+          "nationality": "English"
+        },
+        {
+          "name": "KERSHAW, Karen Anne",
+          "officer_role": "director",
+          "appointed_on": "1995-01-06",
+          "occupation": "Company Director",
+          "nationality": "Irish"
+        }
+      ]
+    },
+    {
+      "company_number": "07825858",
+      "company_name": "HOLT CAR SALES LIMITED",
+      "company_status": "active",
+      "type": "ltd",
+      "date_of_creation": "2011-07-28",
+      "registered_office_address": {
+        "address_line_1": "Suite 4, Albion House",
+        "address_line_2": "12 Market Street",
+        "locality": "Macclesfield",
+        "region": "Cheshire",
+        "postal_code": "SK11 6EX",
+        "country": "England"
+      },
+      "sic_codes": [
+        "45200"
+      ],
+      "officers": [
+        {
+          "name": "FAIRBROTHER, Robert James",
+          "officer_role": "director",
+          "appointed_on": "2014-08-25",
+          "occupation": "Company Director",
+          "nationality": "English"
+        },
+        {
+          "name": "EATON, James Thomas",
+          "officer_role": "director",
+          "appointed_on": "2011-09-04",
+          "nationality": "British"
+        },
+        {
+          "name": "WALMSLEY, Emma",
+          "officer_role": "director",
+          "appointed_on": "2023-05-26",
+          "resigned_on": "2025-12-28",
+          "occupation": "Director",
+          "nationality": "English"
+        }
+      ]
+    },
+    {
+      "company_number": "05780177",
+      "company_name": "WESTON MOTOR GROUP LIMITED",
+      "company_status": "active",
+      "type": "ltd",
+      "date_of_creation": "2006-05-12",
+      "registered_office_address": {
+        "address_line_1": "The Old Foundry",
+        "address_line_2": "Ring Road",
+        "locality": "Crewe",
+        "region": "Cheshire",
+        "postal_code": "CW2 2TH",
+        "country": "England"
+      },
+      "sic_codes": [
+        "45112"
+      ],
+      "officers": [
+        {
+          "name": "OGDEN, Ian John",
+          "officer_role": "director",
+          "appointed_on": "2009-01-23",
+          "occupation": "Motor Trader",
+          "nationality": "British"
+        }
+      ]
+    },
+    {
+      "company_number": "02671911",
+      "company_name": "MANCHESTER AUTOCENTRE LIMITED",
+      "company_status": "active",
+      "type": "ltd",
+      "date_of_creation": "1991-10-08",
+      "registered_office_address": {
+        "address_line_1": "38 Hall Lane",
+        "locality": "Manchester",
+        "region": "Greater Manchester",
+        "postal_code": "M40 1JJ",
+        "country": "England"
+      },
+      "sic_codes": [
+        "45112"
+      ],
+      "officers": [
+        {
+          "name": "OGDEN, Louise Jane",
+          "officer_role": "director",
+          "appointed_on": "1996-05-08",
+          "occupation": "Director",
+          "nationality": "British"
+        }
+      ]
+    },
+    {
+      "company_number": "02968221",
+      "company_name": "MILLBROOK AUTOS LIMITED",
+      "company_status": "active",
+      "type": "ltd",
+      "date_of_creation": "1994-09-04",
+      "registered_office_address": {
+        "address_line_1": "Riverside Business Park",
+        "address_line_2": "Chapel Street",
+        "locality": "London",
+        "postal_code": "N17 2QS",
+        "country": "England"
+      },
+      "sic_codes": [
+        "45111",
+        "45112"
+      ],
+      "officers": [
+        {
+          "name": "THORNLEY, Martin Alan",
+          "officer_role": "director",
+          "appointed_on": "1995-09-26",
+          "occupation": "Director",
+          "nationality": "British"
+        },
+        {
+          "name": "STANSFIELD, Samantha Anne",
+          "officer_role": "director",
+          "appointed_on": "1998-08-02",
+          "occupation": "Company Director",
+          "nationality": "Irish"
+        }
+      ]
+    },
+    {
+      "company_number": "07847627",
+      "company_name": "ASHWORTH CAR GROUP LTD",
+      "company_status": "active",
+      "type": "ltd",
+      "date_of_creation": "2011-09-01",
+      "registered_office_address": {
+        "address_line_1": "Lowry House",
+        "address_line_2": "17 Marble Street",
+        "locality": "Manchester",
+        "region": "Greater Manchester",
+        "postal_code": "M2 3AW",
+        "country": "England"
+      },
+      "sic_codes": [
+        "45111",
+        "45112"
+      ],
+      "officers": [
+        {
+          "name": "MARSDEN, Michelle Louise",
+          "officer_role": "director",
+          "appointed_on": "2014-08-10",
+          "occupation": "Company Director",
+          "nationality": "Irish"
+        },
+        {
+          "name": "YARDLEY, Jason",
+          "officer_role": "director",
+          "appointed_on": "2013-07-08",
+          "occupation": "Company Director",
+          "nationality": "British"
+        },
+        {
+          "name": "HADLEY, Neil Michael",
+          "officer_role": "director",
+          "appointed_on": "2012-05-01",
+          "occupation": "Company Director",
+          "nationality": "British"
+        },
+        {
+          "name": "GILMORE, Adam Alan",
+          "officer_role": "secretary",
+          "appointed_on": "2011-09-01"
+        }
+      ]
+    },
+    {
+      "company_number": "06730082",
+      "company_name": "VALUE CAR CENTRE (UK) LIMITED",
+      "company_status": "active",
+      "type": "ltd",
+      "date_of_creation": "2008-12-06",
+      "registered_office_address": {
+        "address_line_1": "Lowry House",
+        "address_line_2": "17 Marble Street",
+        "locality": "Manchester",
+        "region": "Greater Manchester",
+        "postal_code": "M2 3AW",
+        "country": "England"
+      },
+      "sic_codes": [
+        "45111",
+        "45112"
+      ],
+      "officers": [
+        {
+          "name": "TOLSON, Lee",
+          "officer_role": "director",
+          "appointed_on": "2010-10-18",
+          "occupation": "Motor Trader",
+          "nationality": "British"
+        }
+      ]
+    },
+    {
+      "company_number": "SC117044",
+      "company_name": "IGZ VEHICLE SALES LIMITED",
+      "company_status": "active",
+      "type": "ltd",
+      "date_of_creation": "1993-11-25",
+      "registered_office_address": {
+        "address_line_1": "5 Ford Lane",
+        "locality": "Glasgow",
+        "postal_code": "G33 1LY",
+        "country": "Scotland"
+      },
+      "sic_codes": [
+        "45111",
+        "45112"
+      ],
+      "officers": [
+        {
+          "name": "CATTERALL, Kelly Elizabeth",
+          "officer_role": "director",
+          "appointed_on": "1997-03-05",
+          "occupation": "Motor Trader",
+          "nationality": "British"
+        },
+        {
+          "name": "VARLEY, Gary Thomas",
+          "officer_role": "director",
+          "appointed_on": "1997-05-25",
+          "occupation": "Motor Trader",
+          "nationality": "Irish"
+        }
+      ]
+    },
+    {
+      "company_number": "04763079",
+      "company_name": "PEAK MOTOR COMPANY LIMITED",
+      "company_status": "dissolved",
+      "type": "ltd",
+      "date_of_creation": "2003-01-14",
+      "registered_office_address": {
+        "address_line_1": "Northgate Retail Park",
+        "address_line_2": "King Street",
+        "locality": "Derby",
+        "region": "Derbyshire",
+        "postal_code": "DE24 2QE",
+        "country": "England"
+      },
+      "sic_codes": [
+        "45111",
+        "45112"
+      ],
+      "officers": [
+        {
+          "name": "EATON, Paul Thomas",
+          "officer_role": "director",
+          "appointed_on": "2007-05-02",
+          "occupation": "Car Sales",
+          "nationality": "British"
+        }
+      ],
+      "date_of_cessation": "2016-10-04"
+    },
+    {
+      "company_number": "10760941",
+      "company_name": "CROMPTON CARS LIMITED",
+      "company_status": "active",
+      "type": "ltd",
+      "date_of_creation": "2017-04-01",
+      "registered_office_address": {
+        "address_line_1": "Unit 23A, Northgate Retail Park",
+        "address_line_2": "Junction Road",
+        "locality": "London",
+        "postal_code": "SE28 5RP",
+        "country": "England"
+      },
+      "sic_codes": [
+        "45111",
+        "45112"
+      ],
+      "officers": [
+        {
+          "name": "RADCLIFFE, Adam Peter",
+          "officer_role": "director",
+          "appointed_on": "2022-09-17",
+          "nationality": "English"
+        },
+        {
+          "name": "WALMSLEY, James",
+          "officer_role": "director",
+          "appointed_on": "2021-09-12",
+          "resigned_on": "2025-04-16",
+          "occupation": "Motor Trader",
+          "nationality": "English"
+        }
+      ]
+    },
+    {
+      "company_number": "SC385182",
+      "company_name": "CP CARS LIMITED",
+      "company_status": "active",
+      "type": "ltd",
+      "date_of_creation": "2015-05-31",
+      "registered_office_address": {
+        "address_line_1": "Northgate Retail Park",
+        "address_line_2": "Mill Lane",
+        "locality": "Glasgow",
+        "postal_code": "G72 8TW",
+        "country": "Scotland"
+      },
+      "sic_codes": [
+        "45111",
+        "45112"
+      ],
+      "officers": [
+        {
+          "name": "CARVER, Lee John",
+          "officer_role": "director",
+          "appointed_on": "2018-08-03",
+          "occupation": "Motor Trader",
+          "nationality": "British"
+        },
+        {
+          "name": "BRIERLEY, Emma Louise",
+          "officer_role": "director",
+          "appointed_on": "2016-01-09",
+          "resigned_on": "2018-06-24",
+          "occupation": "Company Director",
+          "nationality": "British"
+        }
+      ]
+    },
+    {
+      "company_number": "03468308",
+      "company_name": "AINSLEY MOTORS LIMITED",
+      "company_status": "active",
+      "type": "ltd",
+      "date_of_creation": "1997-06-29",
+      "registered_office_address": {
+        "address_line_1": "Lowry House",
+        "address_line_2": "17 Marble Street",
+        "locality": "Manchester",
+        "region": "Greater Manchester",
+        "postal_code": "M2 3AW",
+        "country": "England"
+      },
+      "sic_codes": [
+        "45112"
+      ],
+      "officers": [
+        {
+          "name": "OGDEN, Michelle Elizabeth",
+          "officer_role": "director",
+          "appointed_on": "1999-11-12",
+          "occupation": "Car Sales",
+          "nationality": "Irish"
+        },
+        {
+          "name": "BENNETT, James Thomas",
+          "officer_role": "director",
+          "appointed_on": "2002-06-06",
+          "occupation": "Motor Trader",
+          "nationality": "British"
+        },
+        {
+          "name": "CATTERALL, Steven",
+          "officer_role": "secretary",
+          "appointed_on": "1997-06-29"
+        }
+      ]
+    },
+    {
+      "company_number": "07650283",
+      "company_name": "HIGHFIELD CAR SALES LIMITED",
+      "company_status": "active",
+      "type": "ltd",
+      "date_of_creation": "2011-03-08",
+      "registered_office_address": {
+        "address_line_1": "Lowry House",
+        "address_line_2": "17 Marble Street",
+        "locality": "Manchester",
+        "region": "Greater Manchester",
+        "postal_code": "M2 3AW",
+        "country": "England"
+      },
+      "sic_codes": [
+        "45111",
+        "45112"
+      ],
+      "officers": [
+        {
+          "name": "BARROW, Neil Thomas",
+          "officer_role": "director",
+          "appointed_on": "2012-12-29",
+          "occupation": "Car Sales",
+          "nationality": "British"
+        },
+        {
+          "name": "BIRTWISTLE, Michelle Anne",
+          "officer_role": "director",
+          "appointed_on": "2014-09-18",
+          "occupation": "Car Sales",
+          "nationality": "British"
+        },
+        {
+          "name": "BRADY, Kelly Louise",
+          "officer_role": "director",
+          "appointed_on": "2011-04-13",
+          "nationality": "British"
+        }
+      ]
+    },
+    {
+      "company_number": "06424928",
+      "company_name": "BROOKSIDE MOTOR GROUP LIMITED",
+      "company_status": "active",
+      "type": "ltd",
+      "date_of_creation": "2008-03-03",
+      "registered_office_address": {
+        "address_line_1": "Suite 4, Albion House",
+        "address_line_2": "12 Market Street",
+        "locality": "Macclesfield",
+        "region": "Cheshire",
+        "postal_code": "SK11 6EX",
+        "country": "England"
+      },
+      "sic_codes": [
+        "45111",
+        "45112"
+      ],
+      "officers": [
+        {
+          "name": "SOWERBY, Carl Peter",
+          "officer_role": "director",
+          "appointed_on": "2011-02-07",
+          "occupation": "Car Sales",
+          "nationality": "English"
+        },
+        {
+          "name": "CROMPTON, Lisa Anne",
+          "officer_role": "director",
+          "appointed_on": "2008-09-10",
+          "occupation": "Motor Trader",
+          "nationality": "English"
+        },
+        {
+          "name": "RADCLIFFE, Jason John",
+          "officer_role": "director",
+          "appointed_on": "2011-12-28",
+          "occupation": "Director",
+          "nationality": "English"
+        },
+        {
+          "name": "WHITWORTH, Gary Thomas",
+          "officer_role": "director",
+          "appointed_on": "2021-12-02",
+          "resigned_on": "2023-12-31",
+          "occupation": "Director",
+          "nationality": "British"
+        }
+      ],
+      "previous_company_names": [
+        {
+          "name": "BROOK LANE CARS LIMITED",
+          "effective_from": "2008-03-03",
+          "ceased_on": "2024-07-01"
+        }
+      ]
+    },
+    {
+      "company_number": "SC200889",
+      "company_name": "NZS VEHICLE SALES LIMITED",
+      "company_status": "active",
+      "type": "ltd",
+      "date_of_creation": "2004-02-13",
+      "registered_office_address": {
+        "address_line_1": "Kingsway Trading Estate",
+        "address_line_2": "4-42 Bath Street",
+        "locality": "Edinburgh",
+        "postal_code": "EH54 7RA",
+        "country": "Scotland"
+      },
+      "sic_codes": [
+        "45111",
+        "45112"
+      ],
+      "officers": [
+        {
+          "name": "JARVIS, Lee Thomas",
+          "officer_role": "director",
+          "appointed_on": "2005-12-17",
+          "occupation": "Company Director",
+          "nationality": "Irish"
+        },
+        {
+          "name": "JARVIS, Rachel Marie",
+          "officer_role": "director",
+          "appointed_on": "2008-10-31",
+          "nationality": "British"
+        },
+        {
+          "name": "FAIRBROTHER, Gemma Marie",
+          "officer_role": "director",
+          "appointed_on": "2007-03-05",
+          "occupation": "Car Sales",
+          "nationality": "British"
+        }
+      ]
+    },
+    {
+      "company_number": "08154120",
+      "company_name": "HARTLEY CARS LIMITED",
+      "company_status": "dissolved",
+      "type": "ltd",
+      "date_of_creation": "2012-04-18",
+      "registered_office_address": {
+        "address_line_1": "Northgate Retail Park",
+        "address_line_2": "9 Bradford Road",
+        "locality": "Reading",
+        "region": "Berkshire",
+        "postal_code": "RG30 7SJ",
+        "country": "England"
+      },
+      "sic_codes": [
+        "45111",
+        "45112"
+      ],
+      "officers": [
+        {
+          "name": "DUCKWORTH, Nicola Louise",
+          "officer_role": "director",
+          "appointed_on": "2012-08-29",
+          "occupation": "Car Sales",
+          "nationality": "British"
+        },
+        {
+          "name": "CARVER, Gemma Marie",
+          "officer_role": "director",
+          "appointed_on": "2012-08-31",
+          "nationality": "Irish"
+        }
+      ],
+      "date_of_cessation": "2021-06-22"
+    },
+    {
+      "company_number": "04532869",
+      "company_name": "QUALITY CARS LIMITED",
+      "company_status": "active",
+      "type": "ltd",
+      "date_of_creation": "2002-03-15",
+      "registered_office_address": {
+        "address_line_1": "Kingsway Trading Estate",
+        "address_line_2": "18 Bath Street",
+        "locality": "Birmingham",
+        "region": "West Midlands",
+        "postal_code": "B44 8JJ",
+        "country": "England"
+      },
+      "sic_codes": [
+        "45111",
+        "45112"
+      ],
+      "officers": [
+        {
+          "name": "HADLEY, Rachel Marie",
+          "officer_role": "director",
+          "appointed_on": "2003-08-12",
+          "occupation": "Car Sales",
+          "nationality": "British"
+        },
+        {
+          "name": "QUARMBY, Lee Alan",
+          "officer_role": "director",
+          "appointed_on": "2003-09-12",
+          "occupation": "Director",
+          "nationality": "British"
+        }
+      ]
+    },
+    {
+      "company_number": "11151133",
+      "company_name": "AK CARS (UK) LIMITED",
+      "company_status": "active",
+      "type": "ltd",
+      "date_of_creation": "2017-12-09",
+      "registered_office_address": {
+        "address_line_1": "Unit 26A, Riverside Business Park",
+        "address_line_2": "Moor Lane",
+        "locality": "Bolton",
+        "region": "Greater Manchester",
+        "postal_code": "BL1 2RD",
+        "country": "England"
+      },
+      "sic_codes": [
+        "45111",
+        "45112"
+      ],
+      "officers": [
+        {
+          "name": "KERSHAW, Lee Alan",
+          "officer_role": "director",
+          "appointed_on": "2020-10-07",
+          "occupation": "Motor Trader",
+          "nationality": "British"
+        },
+        {
+          "name": "PICKERING, Lisa Anne",
+          "officer_role": "director",
+          "appointed_on": "2021-09-08",
+          "occupation": "Director",
+          "nationality": "British"
+        },
+        {
+          "name": "UNSWORTH, Lee",
+          "officer_role": "director",
+          "appointed_on": "2024-07-05",
+          "resigned_on": "2025-07-13",
+          "occupation": "Company Director",
+          "nationality": "Irish"
+        }
+      ]
+    },
+    {
+      "company_number": "02389669",
+      "company_name": "BRADY MOTORS LIMITED",
+      "company_status": "active",
+      "type": "ltd",
+      "date_of_creation": "1989-04-13",
+      "registered_office_address": {
+        "address_line_1": "2nd Floor, Carlton Chambers",
+        "address_line_2": "88 Queen Street",
+        "locality": "Leeds",
+        "region": "West Yorkshire",
+        "postal_code": "LS1 2BW",
+        "country": "England"
+      },
+      "sic_codes": [
+        "45112"
+      ],
+      "officers": [
+        {
+          "name": "GILMORE, Gary Thomas",
+          "officer_role": "director",
+          "appointed_on": "1994-09-21",
+          "occupation": "Director",
+          "nationality": "British"
+        },
+        {
+          "name": "NUTTALL, Nicola Anne",
+          "officer_role": "director",
+          "appointed_on": "1991-10-27",
+          "occupation": "Company Director",
+          "nationality": "English"
+        },
+        {
+          "name": "BENNETT, Mark Michael",
+          "officer_role": "director",
+          "appointed_on": "1991-01-11",
+          "occupation": "Director",
+          "nationality": "British"
+        }
+      ]
+    },
+    {
+      "company_number": "14528177",
+      "company_name": "HAWORTH HOLDINGS LIMITED",
+      "company_status": "active",
+      "type": "ltd",
+      "date_of_creation": "2022-11-02",
+      "registered_office_address": {
+        "address_line_1": "Unit 1A, Kingsway Trading Estate",
+        "address_line_2": "Wharf Road",
+        "locality": "Bristol",
+        "postal_code": "BS3 7JN",
+        "country": "England"
+      },
+      "sic_codes": [
+        "45111",
+        "45112"
+      ],
+      "officers": [
+        {
+          "name": "AINSLEY, Rachel Louise",
+          "officer_role": "director",
+          "appointed_on": "2024-12-18",
+          "nationality": "British"
+        },
+        {
+          "name": "STANSFIELD, David James",
+          "officer_role": "director",
+          "appointed_on": "2026-05-13",
+          "occupation": "Motor Trader",
+          "nationality": "British"
+        },
+        {
+          "name": "WHITWORTH, Louise",
+          "officer_role": "director",
+          "appointed_on": "2024-09-25",
+          "occupation": "Car Sales",
+          "nationality": "English"
+        }
+      ]
+    },
+    {
+      "company_number": "06634395",
+      "company_name": "MELLOR BODY SHOP LIMITED",
+      "company_status": "dissolved",
+      "type": "ltd",
+      "date_of_creation": "2008-09-28",
+      "registered_office_address": {
+        "address_line_1": "Suite 4, Albion House",
+        "address_line_2": "12 Market Street",
+        "locality": "Macclesfield",
+        "region": "Cheshire",
+        "postal_code": "SK11 6EX",
+        "country": "England"
+      },
+      "sic_codes": [
+        "45320"
+      ],
+      "officers": [
+        {
+          "name": "LISTER, Neil John",
+          "officer_role": "director",
+          "appointed_on": "2011-02-13",
+          "occupation": "Company Director",
+          "nationality": "British"
+        },
+        {
+          "name": "NUTTALL, Neil Michael",
+          "officer_role": "secretary",
+          "appointed_on": "2008-09-28"
+        }
+      ],
+      "date_of_cessation": "2017-11-27"
+    },
+    {
+      "company_number": "09187651",
+      "company_name": "ZSO VEHICLE SALES LIMITED",
+      "company_status": "active",
+      "type": "ltd",
+      "date_of_creation": "2014-07-07",
+      "registered_office_address": {
+        "address_line_1": "Northgate Retail Park",
+        "address_line_2": "20-193 Hall Lane",
+        "locality": "Nottingham",
+        "region": "Nottinghamshire",
+        "postal_code": "NG7 3NU",
+        "country": "England"
+      },
+      "sic_codes": [
+        "45111",
+        "45112"
+      ],
+      "officers": [
+        {
+          "name": "BARROW, Joanne Louise",
+          "officer_role": "director",
+          "appointed_on": "2015-02-07",
+          "occupation": "Motor Trader",
+          "nationality": "British"
+        },
+        {
+          "name": "BENNETT, Helen Anne",
+          "officer_role": "secretary",
+          "appointed_on": "2014-07-07"
+        }
+      ]
+    },
+    {
+      "company_number": "15588230",
+      "company_name": "TQL VEHICLE SALES LIMITED",
+      "company_status": "active",
+      "type": "ltd",
+      "date_of_creation": "2024-04-22",
+      "registered_office_address": {
+        "address_line_1": "2nd Floor, Carlton Chambers",
+        "address_line_2": "88 Queen Street",
+        "locality": "Leeds",
+        "region": "West Yorkshire",
+        "postal_code": "LS1 2BW",
+        "country": "England"
+      },
+      "sic_codes": [
+        "45112"
+      ],
+      "officers": [
+        {
+          "name": "PICKERING, Nicola Anne",
+          "officer_role": "director",
+          "appointed_on": "2025-10-12",
+          "occupation": "Car Sales",
+          "nationality": "British"
+        },
+        {
+          "name": "BRIERLEY, Adam Thomas",
+          "officer_role": "director",
+          "appointed_on": "2025-04-29",
+          "occupation": "Motor Trader",
+          "nationality": "British"
+        },
+        {
+          "name": "YARDLEY, Darren Alan",
+          "officer_role": "director",
+          "appointed_on": "2025-05-13",
+          "nationality": "Irish"
+        }
+      ]
+    },
+    {
+      "company_number": "04589314",
+      "company_name": "TOLSON MOTOR COMPANY (UK) LIMITED",
+      "company_status": "active",
+      "type": "ltd",
+      "date_of_creation": "2002-06-10",
+      "registered_office_address": {
+        "address_line_1": "Lowry House",
+        "address_line_2": "17 Marble Street",
+        "locality": "Manchester",
+        "region": "Greater Manchester",
+        "postal_code": "M2 3AW",
+        "country": "England"
+      },
+      "sic_codes": [
+        "45111",
+        "45112"
+      ],
+      "officers": [
+        {
+          "name": "NUTTALL, Martin",
+          "officer_role": "director",
+          "appointed_on": "2002-07-27",
+          "occupation": "Director",
+          "nationality": "English"
+        },
+        {
+          "name": "KERSHAW, Louise Elizabeth",
+          "officer_role": "director",
+          "appointed_on": "2004-01-18",
+          "occupation": "Car Sales",
+          "nationality": "British"
+        },
+        {
+          "name": "BRIERLEY, Amanda",
+          "officer_role": "director",
+          "appointed_on": "2007-11-07",
+          "resigned_on": "2022-07-07",
+          "occupation": "Car Sales",
+          "nationality": "English"
+        }
+      ]
+    },
+    {
+      "company_number": "SC133105",
+      "company_name": "ASHCROFT CAR SALES LIMITED",
+      "company_status": "active",
+      "type": "ltd",
+      "date_of_creation": "1997-01-17",
+      "registered_office_address": {
+        "address_line_1": "Phoenix Court",
+        "address_line_2": "Mill Lane",
+        "locality": "Glasgow",
+        "postal_code": "G72 7RZ",
+        "country": "Scotland"
+      },
+      "sic_codes": [
+        "77110"
+      ],
+      "officers": [
+        {
+          "name": "CLAYTON, Jason Michael",
+          "officer_role": "director",
+          "appointed_on": "1997-06-11",
+          "nationality": "British"
+        },
+        {
+          "name": "CATTERALL, Neil",
+          "officer_role": "director",
+          "appointed_on": "1999-01-16",
+          "occupation": "Company Director",
+          "nationality": "British"
+        }
+      ]
+    },
+    {
+      "company_number": "05555341",
+      "company_name": "GARSIDE MOTOR COMPANY LIMITED",
+      "company_status": "active",
+      "type": "ltd",
+      "date_of_creation": "2005-08-31",
+      "registered_office_address": {
+        "address_line_1": "The Old Foundry",
+        "address_line_2": "Albion Street",
+        "locality": "Hanley",
+        "region": "Staffordshire",
+        "postal_code": "ST1 8YP",
+        "country": "England"
+      },
+      "sic_codes": [
+        "45111",
+        "45112"
+      ],
+      "officers": [
+        {
+          "name": "HOLT, Adam Alan",
+          "officer_role": "director",
+          "appointed_on": "2007-10-05",
+          "occupation": "Director",
+          "nationality": "English"
+        }
+      ]
+    },
+    {
+      "company_number": "SC496220",
+      "company_name": "MOORCROFT MOTOR COMPANY LIMITED",
+      "company_status": "active",
+      "type": "ltd",
+      "date_of_creation": "2019-12-19",
+      "registered_office_address": {
+        "address_line_1": "The Old Foundry",
+        "address_line_2": "19-85 Marsh Lane",
+        "locality": "Glasgow",
+        "postal_code": "G51 6SZ",
+        "country": "Scotland"
+      },
+      "sic_codes": [
+        "45111",
+        "45112"
+      ],
+      "officers": [
+        {
+          "name": "THORNLEY, Samantha Jane",
+          "officer_role": "director",
+          "appointed_on": "2020-02-15",
+          "occupation": "Motor Trader",
+          "nationality": "British"
+        },
+        {
+          "name": "PENDLE, Michelle Jane",
+          "officer_role": "director",
+          "appointed_on": "2024-01-23",
+          "occupation": "Car Sales",
+          "nationality": "British"
+        },
+        {
+          "name": "GILMORE, Mark John",
+          "officer_role": "secretary",
+          "appointed_on": "2019-12-19"
+        }
+      ]
+    },
+    {
+      "company_number": "09536970",
+      "company_name": "SY AUTOMOTIVE LIMITED",
+      "company_status": "active",
+      "type": "ltd",
+      "date_of_creation": "2015-03-15",
+      "registered_office_address": {
+        "address_line_1": "2 Chapel Street",
+        "locality": "Sheffield",
+        "region": "South Yorkshire",
+        "postal_code": "S35 6NJ",
+        "country": "England"
+      },
+      "sic_codes": [
+        "45112"
+      ],
+      "officers": [
+        {
+          "name": "CATTERALL, Joanne",
+          "officer_role": "director",
+          "appointed_on": "2019-09-02",
+          "nationality": "British"
+        },
+        {
+          "name": "KENWORTHY, Michelle Elizabeth",
+          "officer_role": "secretary",
+          "appointed_on": "2015-03-15"
+        }
+      ]
+    },
+    {
+      "company_number": "05197862",
+      "company_name": "ROU VEHICLE SALES LIMITED",
+      "company_status": "active",
+      "type": "ltd",
+      "date_of_creation": "2004-08-19",
+      "registered_office_address": {
+        "address_line_1": "2nd Floor, Carlton Chambers",
+        "address_line_2": "88 Queen Street",
+        "locality": "Leeds",
+        "region": "West Yorkshire",
+        "postal_code": "LS1 2BW",
+        "country": "England"
+      },
+      "sic_codes": [
+        "45112"
+      ],
+      "officers": [
+        {
+          "name": "OPENSHAW, Samantha Jane",
+          "officer_role": "director",
+          "appointed_on": "2009-09-06",
+          "occupation": "Director",
+          "nationality": "British"
+        }
+      ]
+    },
+    {
+      "company_number": "02922768",
+      "company_name": "CROMPTON CAR SALES LIMITED",
+      "company_status": "active",
+      "type": "ltd",
+      "date_of_creation": "1994-02-10",
+      "registered_office_address": {
+        "address_line_1": "Unit 5, Kingsway Trading Estate",
+        "address_line_2": "Commercial Road",
+        "locality": "Cardiff",
+        "postal_code": "CF10 6TR",
+        "country": "Wales"
+      },
+      "sic_codes": [
+        "45112"
+      ],
+      "officers": [
+        {
+          "name": "HOLT, Adam Thomas",
+          "officer_role": "director",
+          "appointed_on": "1996-02-23",
+          "occupation": "Company Director",
+          "nationality": "British"
+        },
+        {
+          "name": "CATTERALL, Craig Peter",
+          "officer_role": "director",
+          "appointed_on": "1998-04-02",
+          "nationality": "British"
+        }
+      ]
+    },
+    {
+      "company_number": "02951199",
+      "company_name": "HARTLEY CAR CENTRE LIMITED",
+      "company_status": "active",
+      "type": "ltd",
+      "date_of_creation": "1994-06-24",
+      "registered_office_address": {
+        "address_line_1": "207 Station Road",
+        "locality": "Cardiff",
+        "postal_code": "CF11 7XJ",
+        "country": "Wales"
+      },
+      "sic_codes": [
+        "45111",
+        "45112"
+      ],
+      "officers": [
+        {
+          "name": "AINSLEY, Robert John",
+          "officer_role": "director",
+          "appointed_on": "1997-12-22",
+          "nationality": "British"
+        },
+        {
+          "name": "INGHAM, Carl Peter",
+          "officer_role": "director",
+          "appointed_on": "1996-01-31",
+          "occupation": "Company Director",
+          "nationality": "English"
+        }
+      ]
+    },
+    {
+      "company_number": "13905195",
+      "company_name": "REGAL AUTOS LIMITED",
+      "company_status": "active",
+      "type": "ltd",
+      "date_of_creation": "2021-12-31",
+      "registered_office_address": {
+        "address_line_1": "2nd Floor, Carlton Chambers",
+        "address_line_2": "88 Queen Street",
+        "locality": "Leeds",
+        "region": "West Yorkshire",
+        "postal_code": "LS1 2BW",
+        "country": "England"
+      },
+      "sic_codes": [
+        "45111",
+        "45112"
+      ],
+      "officers": [
+        {
+          "name": "SOWERBY, Joanne Elizabeth",
+          "officer_role": "director",
+          "appointed_on": "2024-06-28",
+          "occupation": "Car Sales",
+          "nationality": "English"
+        },
+        {
+          "name": "JARVIS, Simon",
+          "officer_role": "director",
+          "appointed_on": "2022-07-12",
+          "resigned_on": "2023-11-22",
+          "nationality": "British"
+        }
+      ]
+    },
+    {
+      "company_number": "08011226",
+      "company_name": "BRIERLEY HOLDINGS LIMITED",
+      "company_status": "active",
+      "type": "ltd",
+      "date_of_creation": "2011-12-19",
+      "registered_office_address": {
+        "address_line_1": "Lowry House",
+        "address_line_2": "17 Marble Street",
+        "locality": "Manchester",
+        "region": "Greater Manchester",
+        "postal_code": "M2 3AW",
+        "country": "England"
+      },
+      "sic_codes": [
+        "45112"
+      ],
+      "officers": [
+        {
+          "name": "TATTERSALL, Martin",
+          "officer_role": "director",
+          "appointed_on": "2015-04-03",
+          "occupation": "Car Sales",
+          "nationality": "British"
+        },
+        {
+          "name": "AINSLEY, Gemma Louise",
+          "officer_role": "director",
+          "appointed_on": "2015-05-29",
+          "occupation": "Director",
+          "nationality": "English"
+        },
+        {
+          "name": "KENWORTHY, David John",
+          "officer_role": "director",
+          "appointed_on": "2016-07-17",
+          "nationality": "British"
+        },
+        {
+          "name": "HAWORTH, James",
+          "officer_role": "director",
+          "appointed_on": "2022-12-17",
+          "resigned_on": "2024-11-19",
+          "occupation": "Company Director",
+          "nationality": "English"
+        }
+      ]
+    },
+    {
+      "company_number": "09517036",
+      "company_name": "CARVER CAR SALES LIMITED",
+      "company_status": "active",
+      "type": "ltd",
+      "date_of_creation": "2015-03-11",
+      "registered_office_address": {
+        "address_line_1": "Suite 4, Albion House",
+        "address_line_2": "12 Market Street",
+        "locality": "Macclesfield",
+        "region": "Cheshire",
+        "postal_code": "SK11 6EX",
+        "country": "England"
+      },
+      "sic_codes": [
+        "45111",
+        "45112"
+      ],
+      "officers": [
+        {
+          "name": "NUTTALL, Craig John",
+          "officer_role": "director",
+          "appointed_on": "2019-11-27",
+          "nationality": "British"
+        }
+      ]
+    },
+    {
+      "company_number": "15590564",
+      "company_name": "NORTHGATE VAN CENTRE LIMITED",
+      "company_status": "active",
+      "type": "ltd",
+      "date_of_creation": "2024-04-20",
+      "registered_office_address": {
+        "address_line_1": "Northgate Retail Park",
+        "address_line_2": "Trinity Way",
+        "locality": "Stoke-on-Trent",
+        "region": "Staffordshire",
+        "postal_code": "ST3 8PS",
+        "country": "England"
+      },
+      "sic_codes": [
+        "45111",
+        "45112"
+      ],
+      "officers": [
+        {
+          "name": "CATTERALL, Helen Marie",
+          "officer_role": "director",
+          "appointed_on": "2025-12-05",
+          "occupation": "Director",
+          "nationality": "British"
+        },
+        {
+          "name": "DAWSON, Helen Elizabeth",
+          "officer_role": "director",
+          "appointed_on": "2025-03-22",
+          "occupation": "Director",
+          "nationality": "British"
+        }
+      ]
+    },
+    {
+      "company_number": "07443562",
+      "company_name": "VARLEY CAR CENTRE LIMITED",
+      "company_status": "dissolved",
+      "type": "ltd",
+      "date_of_creation": "2010-10-10",
+      "registered_office_address": {
+        "address_line_1": "Lowry House",
+        "address_line_2": "17 Marble Street",
+        "locality": "Manchester",
+        "region": "Greater Manchester",
+        "postal_code": "M2 3AW",
+        "country": "England"
+      },
+      "sic_codes": [
+        "45112"
+      ],
+      "officers": [
+        {
+          "name": "SHUTTLEWORTH, Steven Thomas",
+          "officer_role": "director",
+          "appointed_on": "2014-02-22",
+          "nationality": "English"
+        },
+        {
+          "name": "STANSFIELD, Andrew James",
+          "officer_role": "director",
+          "appointed_on": "2020-07-13",
+          "resigned_on": "2021-08-18",
+          "occupation": "Director",
+          "nationality": "English"
+        }
+      ],
+      "date_of_cessation": "2025-11-18"
+    },
+    {
+      "company_number": "04251360",
+      "company_name": "MOORSIDE TYRES LTD",
+      "company_status": "dissolved",
+      "type": "ltd",
+      "date_of_creation": "2001-04-04",
+      "registered_office_address": {
+        "address_line_1": "Suite 4, Albion House",
+        "address_line_2": "12 Market Street",
+        "locality": "Macclesfield",
+        "region": "Cheshire",
+        "postal_code": "SK11 6EX",
+        "country": "England"
+      },
+      "sic_codes": [
+        "45112"
+      ],
+      "officers": [
+        {
+          "name": "OGDEN, Michelle Louise",
+          "officer_role": "director",
+          "appointed_on": "2002-06-02",
+          "occupation": "Company Director",
+          "nationality": "English"
+        },
+        {
+          "name": "STANSFIELD, Helen Jane",
+          "officer_role": "director",
+          "appointed_on": "2004-09-03",
+          "occupation": "Motor Trader",
+          "nationality": "Irish"
+        },
+        {
+          "name": "PENDLE, James James",
+          "officer_role": "secretary",
+          "appointed_on": "2001-04-04"
+        }
+      ],
+      "date_of_cessation": "2003-10-06"
+    },
+    {
+      "company_number": "02619132",
+      "company_name": "BRADY CAR SALES LIMITED",
+      "company_status": "active",
+      "type": "ltd",
+      "date_of_creation": "1991-04-03",
+      "registered_office_address": {
+        "address_line_1": "Riverside Business Park",
+        "address_line_2": "13-126 Hall Lane",
+        "locality": "Stockport",
+        "region": "Greater Manchester",
+        "postal_code": "SK1 2QQ",
+        "country": "England"
+      },
+      "sic_codes": [
+        "45111",
+        "45112"
+      ],
+      "officers": [
+        {
+          "name": "UNSWORTH, Ian Michael",
+          "officer_role": "director",
+          "appointed_on": "1995-07-04",
+          "occupation": "Car Sales",
+          "nationality": "British"
+        },
+        {
+          "name": "BENNETT, Ian Alan",
+          "officer_role": "director",
+          "appointed_on": "1993-08-17",
+          "occupation": "Company Director",
+          "nationality": "British"
+        },
+        {
+          "name": "RIGBY, Carl Peter",
+          "officer_role": "director",
+          "appointed_on": "1994-06-16",
+          "resigned_on": "1998-07-20",
+          "occupation": "Car Sales",
+          "nationality": "British"
+        }
+      ]
+    },
+    {
+      "company_number": "08849692",
+      "company_name": "PEAK CARS LIMITED",
+      "company_status": "active",
+      "type": "ltd",
+      "date_of_creation": "2013-11-04",
+      "registered_office_address": {
+        "address_line_1": "Northgate Retail Park",
+        "address_line_2": "King Street",
+        "locality": "Preston",
+        "region": "Lancashire",
+        "postal_code": "PR2 3RF",
+        "country": "England"
+      },
+      "sic_codes": [
+        "45111",
+        "45112"
+      ],
+      "officers": [
+        {
+          "name": "MELLOR, Carl John",
+          "officer_role": "director",
+          "appointed_on": "2018-12-22",
+          "occupation": "Company Director",
+          "nationality": "British"
+        },
+        {
+          "name": "INGHAM, Michelle Anne",
+          "officer_role": "director",
+          "appointed_on": "2014-07-03",
+          "nationality": "British"
+        },
+        {
+          "name": "HADLEY, Nicola",
+          "officer_role": "director",
+          "appointed_on": "2020-01-31",
+          "resigned_on": "2022-08-22",
+          "occupation": "Company Director",
+          "nationality": "Irish"
+        }
+      ]
+    },
+    {
+      "company_number": "13905523",
+      "company_name": "ASHGROVE VEHICLE SALES (UK) LIMITED",
+      "company_status": "active",
+      "type": "ltd",
+      "date_of_creation": "2021-12-27",
+      "registered_office_address": {
+        "address_line_1": "Northgate Retail Park",
+        "address_line_2": "Canal Street",
+        "locality": "Manchester",
+        "region": "Greater Manchester",
+        "postal_code": "M40 4QJ",
+        "country": "England"
+      },
+      "sic_codes": [
+        "45111",
+        "45112"
+      ],
+      "officers": [
+        {
+          "name": "VARLEY, Darren Michael",
+          "officer_role": "director",
+          "appointed_on": "2025-06-29",
+          "occupation": "Company Director",
+          "nationality": "British"
+        },
+        {
+          "name": "YARDLEY, Darren Alan",
+          "officer_role": "director",
+          "appointed_on": "2026-05-19",
+          "occupation": "Director",
+          "nationality": "British"
+        },
+        {
+          "name": "QUARMBY, Neil John",
+          "officer_role": "director",
+          "appointed_on": "2023-09-27",
+          "resigned_on": "2026-05-29",
+          "occupation": "Company Director",
+          "nationality": "British"
+        }
+      ]
+    },
+    {
+      "company_number": "02462924",
+      "company_name": "CATTERALL VEHICLE SALES (UK) LIMITED",
+      "company_status": "active",
+      "type": "ltd",
+      "date_of_creation": "1989-11-14",
+      "registered_office_address": {
+        "address_line_1": "Unit 12A, Kingsway Trading Estate",
+        "address_line_2": "Parkway",
+        "locality": "Reading",
+        "region": "Berkshire",
+        "postal_code": "RG2 2ZH",
+        "country": "England"
+      },
+      "sic_codes": [
+        "45112"
+      ],
+      "officers": [
+        {
+          "name": "DAWSON, Darren James",
+          "officer_role": "director",
+          "appointed_on": "1994-11-27",
+          "occupation": "Company Director",
+          "nationality": "British"
+        },
+        {
+          "name": "KENWORTHY, Nicola Louise",
+          "officer_role": "director",
+          "appointed_on": "2016-11-15",
+          "resigned_on": "2020-11-18",
+          "occupation": "Company Director",
+          "nationality": "British"
+        }
+      ]
+    },
+    {
+      "company_number": "03820828",
+      "company_name": "APEX AUTOCENTRE LIMITED",
+      "company_status": "active",
+      "type": "ltd",
+      "date_of_creation": "1999-07-13",
+      "registered_office_address": {
+        "address_line_1": "Northgate Retail Park",
+        "address_line_2": "11 Chapel Street",
+        "locality": "Chesterfield",
+        "region": "Derbyshire",
+        "postal_code": "S40 6TZ",
+        "country": "England"
+      },
+      "sic_codes": [
+        "45111",
+        "45112"
+      ],
+      "officers": [
+        {
+          "name": "AINSLEY, Emma Louise",
+          "officer_role": "director",
+          "appointed_on": "2000-07-26",
+          "occupation": "Director",
+          "nationality": "Irish"
+        }
+      ]
+    },
+    {
+      "company_number": "SC284278",
+      "company_name": "BIRTWISTLE HOLDINGS LIMITED",
+      "company_status": "active",
+      "type": "ltd",
+      "date_of_creation": "2010-01-22",
+      "registered_office_address": {
+        "address_line_1": "Suite 4, Albion House",
+        "address_line_2": "12 Market Street",
+        "locality": "Macclesfield",
+        "region": "Cheshire",
+        "postal_code": "SK11 6EX",
+        "country": "Scotland"
+      },
+      "sic_codes": [
+        "45111",
+        "45112"
+      ],
+      "officers": [
+        {
+          "name": "ENTWISTLE, Joanne Anne",
+          "officer_role": "director",
+          "appointed_on": "2014-10-09",
+          "occupation": "Car Sales",
+          "nationality": "British"
+        },
+        {
+          "name": "HOLROYD, James James",
+          "officer_role": "director",
+          "appointed_on": "2012-09-11",
+          "occupation": "Car Sales",
+          "nationality": "British"
+        },
+        {
+          "name": "HAWORTH, Sarah Louise",
+          "officer_role": "director",
+          "appointed_on": "2012-11-28",
+          "nationality": "British"
+        }
+      ]
+    },
+    {
+      "company_number": "11468952",
+      "company_name": "LEICESTER AUTOS LIMITED",
+      "company_status": "active",
+      "type": "ltd",
+      "date_of_creation": "2018-06-07",
+      "registered_office_address": {
+        "address_line_1": "2nd Floor, Carlton Chambers",
+        "address_line_2": "88 Queen Street",
+        "locality": "Leeds",
+        "region": "West Yorkshire",
+        "postal_code": "LS1 2BW",
+        "country": "England"
+      },
+      "sic_codes": [
+        "45112"
+      ],
+      "officers": [
+        {
+          "name": "PENDLE, Helen Elizabeth",
+          "officer_role": "director",
+          "appointed_on": "2022-03-09",
+          "nationality": "British"
+        },
+        {
+          "name": "WOLSTENHOLME, Neil Alan",
+          "officer_role": "director",
+          "appointed_on": "2022-01-21",
+          "occupation": "Director",
+          "nationality": "English"
+        },
+        {
+          "name": "SOWERBY, Kelly",
+          "officer_role": "director",
+          "appointed_on": "2022-12-11",
+          "occupation": "Company Director",
+          "nationality": "British"
+        }
+      ]
+    },
+    {
+      "company_number": "04134127",
+      "company_name": "AINSLEY HOLDINGS LIMITED",
+      "company_status": "active",
+      "type": "ltd",
+      "date_of_creation": "2000-11-23",
+      "registered_office_address": {
+        "address_line_1": "Unit 15, Northgate Retail Park",
+        "address_line_2": "Marsh Lane",
+        "locality": "Wolverhampton",
+        "region": "West Midlands",
+        "postal_code": "WV2 2WL",
+        "country": "England"
+      },
+      "sic_codes": [
+        "45111",
+        "45112"
+      ],
+      "officers": [
+        {
+          "name": "ENTWISTLE, Lisa Marie",
+          "officer_role": "director",
+          "appointed_on": "2003-11-15",
+          "occupation": "Car Sales",
+          "nationality": "English"
+        },
+        {
+          "name": "STANSFIELD, Amanda Anne",
+          "officer_role": "director",
+          "appointed_on": "2006-03-12",
+          "occupation": "Director",
+          "nationality": "British"
+        }
+      ]
+    },
+    {
+      "company_number": "02158120",
+      "company_name": "ZNM VEHICLE SALES LIMITED",
+      "company_status": "active",
+      "type": "ltd",
+      "date_of_creation": "1987-04-05",
+      "registered_office_address": {
+        "address_line_1": "The Old Foundry",
+        "address_line_2": "Spring Street",
+        "locality": "Stockport",
+        "region": "Greater Manchester",
+        "postal_code": "SK4 1HU",
+        "country": "England"
+      },
+      "sic_codes": [
+        "45111",
+        "45112"
+      ],
+      "officers": [
+        {
+          "name": "JARVIS, Emma Elizabeth",
+          "officer_role": "director",
+          "appointed_on": "1992-05-16",
+          "occupation": "Company Director",
+          "nationality": "English"
+        },
+        {
+          "name": "INGHAM, Ian John",
+          "officer_role": "director",
+          "appointed_on": "1988-03-13",
+          "nationality": "British"
+        },
+        {
+          "name": "WALMSLEY, Rachel Jane",
+          "officer_role": "secretary",
+          "appointed_on": "1987-04-05"
+        }
+      ]
+    },
+    {
+      "company_number": "04290029",
+      "company_name": "PREMIER MOTOR GROUP LIMITED",
+      "company_status": "active",
+      "type": "ltd",
+      "date_of_creation": "2001-05-01",
+      "registered_office_address": {
+        "address_line_1": "2nd Floor, Carlton Chambers",
+        "address_line_2": "88 Queen Street",
+        "locality": "Leeds",
+        "region": "West Yorkshire",
+        "postal_code": "LS1 2BW",
+        "country": "England"
+      },
+      "sic_codes": [
+        "45112"
+      ],
+      "officers": [
+        {
+          "name": "CROMPTON, Darren James",
+          "officer_role": "director",
+          "appointed_on": "2005-12-08",
+          "occupation": "Car Sales",
+          "nationality": "British"
+        },
+        {
+          "name": "WHITWORTH, Joanne Marie",
+          "officer_role": "director",
+          "appointed_on": "2001-12-22",
+          "occupation": "Motor Trader",
+          "nationality": "British"
+        },
+        {
+          "name": "ENTWISTLE, Neil Thomas",
+          "officer_role": "director",
+          "appointed_on": "2003-06-04",
+          "nationality": "English"
+        },
+        {
+          "name": "GARSIDE, Kelly Louise",
+          "officer_role": "director",
+          "appointed_on": "2012-08-08",
+          "resigned_on": "2018-01-09",
+          "nationality": "Irish"
+        }
+      ]
+    },
+    {
+      "company_number": "02385525",
+      "company_name": "LISTER & SONS LIMITED",
+      "company_status": "active",
+      "type": "ltd",
+      "date_of_creation": "1989-01-17",
+      "registered_office_address": {
+        "address_line_1": "Kingsway Trading Estate",
+        "address_line_2": "9 Mill Lane",
+        "locality": "Leek",
+        "region": "Staffordshire",
+        "postal_code": "ST13 9UX",
+        "country": "England"
+      },
+      "sic_codes": [
+        "45111",
+        "45112"
+      ],
+      "officers": [
+        {
+          "name": "CARVER, Lee Michael",
+          "officer_role": "director",
+          "appointed_on": "1992-07-18",
+          "occupation": "Director",
+          "nationality": "British"
+        }
+      ]
+    },
+    {
+      "company_number": "02943160",
+      "company_name": "TATTERSALL MOTORS LIMITED",
+      "company_status": "active",
+      "type": "ltd",
+      "date_of_creation": "1994-05-23",
+      "registered_office_address": {
+        "address_line_1": "166 Park Lane",
+        "locality": "Wolverhampton",
+        "region": "West Midlands",
+        "postal_code": "WV2 3YN",
+        "country": "England"
+      },
+      "sic_codes": [
+        "45112"
+      ],
+      "officers": [
+        {
+          "name": "HOLROYD, Emma",
+          "officer_role": "director",
+          "appointed_on": "1994-12-30",
+          "occupation": "Company Director",
+          "nationality": "English"
+        }
+      ]
+    },
+    {
+      "company_number": "08579294",
+      "company_name": "RADCLIFFE HOLDINGS LIMITED",
+      "company_status": "active",
+      "type": "ltd",
+      "date_of_creation": "2013-03-19",
+      "registered_office_address": {
+        "address_line_1": "Phoenix Court",
+        "address_line_2": "Ring Road",
+        "locality": "Wolverhampton",
+        "region": "West Midlands",
+        "postal_code": "WV10 7NL",
+        "country": "England"
+      },
+      "sic_codes": [
+        "45111",
+        "45112"
+      ],
+      "officers": [
+        {
+          "name": "MOORCROFT, James",
+          "officer_role": "director",
+          "appointed_on": "2015-05-19",
+          "nationality": "British"
+        },
+        {
+          "name": "UNSWORTH, Michelle Marie",
+          "officer_role": "director",
+          "appointed_on": "2015-11-26",
+          "occupation": "Director",
+          "nationality": "British"
+        },
+        {
+          "name": "BENNETT, Louise Jane",
+          "officer_role": "director",
+          "appointed_on": "2013-09-24",
+          "resigned_on": "2020-06-27",
+          "occupation": "Director",
+          "nationality": "British"
+        }
+      ]
+    },
+    {
+      "company_number": "06926360",
+      "company_name": "SMITH MOTORS (STOKE) LIMITED",
+      "company_status": "active",
+      "type": "ltd",
+      "date_of_creation": "2009-07-03",
+      "registered_office_address": {
+        "address_line_1": "30 Brook Lane",
+        "locality": "Stoke-on-Trent",
+        "region": "Staffordshire",
+        "postal_code": "ST1 2US",
+        "country": "England"
+      },
+      "sic_codes": [
+        "45112"
+      ],
+      "officers": [
+        {
+          "name": "PICKERING, James James",
+          "officer_role": "director",
+          "appointed_on": "2010-12-31",
+          "occupation": "Company Director",
+          "nationality": "British"
+        },
+        {
+          "name": "STANSFIELD, Karen",
+          "officer_role": "director",
+          "appointed_on": "2010-09-09",
+          "nationality": "British"
+        },
+        {
+          "name": "CATTERALL, Michelle Jane",
+          "officer_role": "director",
+          "appointed_on": "2010-03-18",
+          "nationality": "Irish"
+        }
+      ]
+    },
+    {
+      "company_number": "02196813",
+      "company_name": "SHUTTLEWORTH CARS LIMITED",
+      "company_status": "active",
+      "type": "ltd",
+      "date_of_creation": "1987-09-18",
+      "registered_office_address": {
+        "address_line_1": "Lowry House",
+        "address_line_2": "17 Marble Street",
+        "locality": "Manchester",
+        "region": "Greater Manchester",
+        "postal_code": "M2 3AW",
+        "country": "England"
+      },
+      "sic_codes": [
+        "45112"
+      ],
+      "officers": [
+        {
+          "name": "CATTERALL, David Michael",
+          "officer_role": "director",
+          "appointed_on": "1987-12-29",
+          "occupation": "Company Director",
+          "nationality": "British"
+        }
+      ]
+    },
+    {
+      "company_number": "07814783",
+      "company_name": "QD CARS LIMITED",
+      "company_status": "active",
+      "type": "ltd",
+      "date_of_creation": "2011-07-24",
+      "registered_office_address": {
+        "address_line_1": "8 Park Lane",
+        "locality": "Crewe",
+        "region": "Cheshire",
+        "postal_code": "CW1 2WA",
+        "country": "England"
+      },
+      "sic_codes": [
+        "45111",
+        "45112"
+      ],
+      "officers": [
+        {
+          "name": "KENWORTHY, Karen Louise",
+          "officer_role": "director",
+          "appointed_on": "2013-03-19",
+          "occupation": "Motor Trader",
+          "nationality": "British"
+        },
+        {
+          "name": "EATON, Lisa Marie",
+          "officer_role": "director",
+          "appointed_on": "2017-01-05",
+          "occupation": "Company Director",
+          "nationality": "British"
+        },
+        {
+          "name": "RIGBY, Amanda Louise",
+          "officer_role": "director",
+          "appointed_on": "2015-02-02",
+          "occupation": "Car Sales",
+          "nationality": "English"
+        },
+        {
+          "name": "MOORCROFT, Samantha Jane",
+          "officer_role": "director",
+          "appointed_on": "2023-08-12",
+          "resigned_on": "2024-09-24",
+          "occupation": "Car Sales",
+          "nationality": "English"
+        }
+      ]
+    },
+    {
+      "company_number": "02952151",
+      "company_name": "SWT VEHICLE SALES LIMITED",
+      "company_status": "active",
+      "type": "ltd",
+      "date_of_creation": "1994-08-09",
+      "registered_office_address": {
+        "address_line_1": "224 Junction Road",
+        "locality": "Leek",
+        "region": "Staffordshire",
+        "postal_code": "ST13 1RU",
+        "country": "England"
+      },
+      "sic_codes": [
+        "45111",
+        "45112"
+      ],
+      "officers": [
+        {
+          "name": "GILMORE, Claire",
+          "officer_role": "director",
+          "appointed_on": "1995-09-15",
+          "occupation": "Company Director",
+          "nationality": "British"
+        },
+        {
+          "name": "CROMPTON, Martin John",
+          "officer_role": "director",
+          "appointed_on": "1995-04-29",
+          "occupation": "Company Director",
+          "nationality": "British"
+        },
+        {
+          "name": "DAWSON, Martin James",
+          "officer_role": "director",
+          "appointed_on": "1997-06-22",
+          "occupation": "Director",
+          "nationality": "Irish"
+        }
+      ]
+    },
+    {
+      "company_number": "13142387",
+      "company_name": "MILLBROOK GARAGE SERVICES LTD",
+      "company_status": "dissolved",
+      "type": "ltd",
+      "date_of_creation": "2020-12-18",
+      "registered_office_address": {
+        "address_line_1": "2nd Floor, Carlton Chambers",
+        "address_line_2": "88 Queen Street",
+        "locality": "Leeds",
+        "region": "West Yorkshire",
+        "postal_code": "LS1 2BW",
+        "country": "England"
+      },
+      "sic_codes": [
+        "45320"
+      ],
+      "officers": [
+        {
+          "name": "GILMORE, Robert James",
+          "officer_role": "director",
+          "appointed_on": "2025-05-29",
+          "occupation": "Motor Trader",
+          "nationality": "British"
+        },
+        {
+          "name": "OGDEN, Lee John",
+          "officer_role": "director",
+          "appointed_on": "2022-02-23",
+          "occupation": "Company Director",
+          "nationality": "English"
+        }
+      ],
+      "date_of_cessation": "2023-07-17"
+    },
+    {
+      "company_number": "02765611",
+      "company_name": "PREMIER CAR CENTRE LIMITED",
+      "company_status": "active",
+      "type": "ltd",
+      "date_of_creation": "1992-09-13",
+      "registered_office_address": {
+        "address_line_1": "Suite 4, Albion House",
+        "address_line_2": "12 Market Street",
+        "locality": "Macclesfield",
+        "region": "Cheshire",
+        "postal_code": "SK11 6EX",
+        "country": "England"
+      },
+      "sic_codes": [
+        "45111",
+        "45112"
+      ],
+      "officers": [
+        {
+          "name": "TOLSON, Louise Louise",
+          "officer_role": "director",
+          "appointed_on": "1996-10-03",
+          "occupation": "Director",
+          "nationality": "British"
+        }
+      ]
+    },
+    {
+      "company_number": "07166066",
+      "company_name": "RIVERSIDE VEHICLE CENTRE LIMITED",
+      "company_status": "active",
+      "type": "ltd",
+      "date_of_creation": "2010-03-02",
+      "registered_office_address": {
+        "address_line_1": "240 Parkway",
+        "locality": "Nottingham",
+        "region": "Nottinghamshire",
+        "postal_code": "NG6 2SU",
+        "country": "England"
+      },
+      "sic_codes": [
+        "45111",
+        "45112"
+      ],
+      "officers": [
+        {
+          "name": "HOLT, Gary Peter",
+          "officer_role": "director",
+          "appointed_on": "2011-08-29",
+          "nationality": "British"
+        },
+        {
+          "name": "HOLT, Craig John",
+          "officer_role": "director",
+          "appointed_on": "2012-10-13",
+          "occupation": "Car Sales",
+          "nationality": "British"
+        }
+      ]
+    },
+    {
+      "company_number": "04594416",
+      "company_name": "KERSHAW VEHICLE REPAIRS LIMITED",
+      "company_status": "active",
+      "type": "ltd",
+      "date_of_creation": "2002-06-02",
+      "registered_office_address": {
+        "address_line_1": "Suite 4, Albion House",
+        "address_line_2": "12 Market Street",
+        "locality": "Macclesfield",
+        "region": "Cheshire",
+        "postal_code": "SK11 6EX",
+        "country": "England"
+      },
+      "sic_codes": [
+        "45200"
+      ],
+      "officers": [
+        {
+          "name": "LOMAX, Steven Thomas",
+          "officer_role": "director",
+          "appointed_on": "2005-12-08",
+          "occupation": "Motor Trader",
+          "nationality": "British"
+        },
+        {
+          "name": "JARVIS, Michelle Louise",
+          "officer_role": "director",
+          "appointed_on": "2002-08-06",
+          "occupation": "Car Sales",
+          "nationality": "British"
+        },
+        {
+          "name": "HAWORTH, David",
+          "officer_role": "director",
+          "appointed_on": "2012-01-24",
+          "resigned_on": "2013-02-28",
+          "nationality": "British"
+        }
+      ]
+    }
+  ]
+}

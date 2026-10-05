@@ -1,0 +1,14 @@
+{
+  "target": {
+    "name": "KERSHAW MOTOR COMPANY LIMITED",
+    "vatNumber": "799517950",
+    "address": {
+      "line1": "Riverside Business Park",
+      "line2": "Parkway",
+      "line3": "PRESTON",
+      "postcode": "PR1 4DH",
+      "countryCode": "GB"
+    }
+  },
+  "processingDate": "2026-09-20T13:59:18+01:00"
+}

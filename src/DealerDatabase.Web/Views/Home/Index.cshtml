@@ -1,0 +1,31 @@
+@model IReadOnlyList<DealerDatabase.Data.Entities.Dealer>
+@{
+    ViewData["Title"] = "Dealers";
+}
+
+<h1 class="h3 mb-3">Dealers</h1>
+
+@if (Model.Count == 0)
+{
+    <p class="text-muted">No dealers found. Run the import console application to populate the database.</p>
+}
+else
+{
+    <table class="table table-sm table-striped">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Name</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var dealer in Model)
+            {
+                <tr>
+                    <td>@dealer.Id</td>
+                    <td>@dealer.Name</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}

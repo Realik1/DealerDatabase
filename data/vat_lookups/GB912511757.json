@@ -1,0 +1,14 @@
+{
+  "target": {
+    "name": "KWG VEHICLE SALES LIMITED",
+    "vatNumber": "912511757",
+    "address": {
+      "line1": "Unit 26, Northgate Retail Park",
+      "line2": "Chapel Street",
+      "line3": "LEEDS",
+      "postcode": "LS6 8ZP",
+      "countryCode": "GB"
+    }
+  },
+  "processingDate": "2026-09-26T12:34:21+01:00"
+}

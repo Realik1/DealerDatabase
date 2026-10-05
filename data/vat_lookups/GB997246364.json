@@ -1,0 +1,14 @@
+{
+  "target": {
+    "name": "MOORCROFT MOTOR COMPANY LIMITED",
+    "vatNumber": "997246364",
+    "address": {
+      "line1": "The Old Foundry",
+      "line2": "19-85 Marsh Lane",
+      "line3": "GLASGOW",
+      "postcode": "G51 6SZ",
+      "countryCode": "GB"
+    }
+  },
+  "processingDate": "2026-09-21T14:05:17+01:00"
+}

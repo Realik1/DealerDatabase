@@ -1,0 +1,13 @@
+{
+  "target": {
+    "name": "SMITH MOTORS (STOKE) LIMITED",
+    "vatNumber": "585379487",
+    "address": {
+      "line1": "30 Brook Lane",
+      "line2": "STOKE-ON-TRENT",
+      "postcode": "ST1 2US",
+      "countryCode": "GB"
+    }
+  },
+  "processingDate": "2026-09-24T09:07:05+01:00"
+}

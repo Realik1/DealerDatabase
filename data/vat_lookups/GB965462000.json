@@ -1,0 +1,14 @@
+{
+  "target": {
+    "name": "VALUE CAR CENTRE (UK) LIMITED",
+    "vatNumber": "965462000",
+    "address": {
+      "line1": "Unit 7A, Kingsway Trading Estate",
+      "line2": "Moor Lane",
+      "line3": "PRESTON",
+      "postcode": "PR5 4EB",
+      "countryCode": "GB"
+    }
+  },
+  "processingDate": "2026-09-23T12:17:46+01:00"
+}

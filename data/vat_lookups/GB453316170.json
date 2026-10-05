@@ -1,0 +1,13 @@
+{
+  "target": {
+    "name": "GT CARS (UK) LIMITED",
+    "vatNumber": "453316170",
+    "address": {
+      "line1": "52 Park Lane",
+      "line2": "BRISTOL",
+      "postcode": "BS34 8QT",
+      "countryCode": "GB"
+    }
+  },
+  "processingDate": "2026-09-25T15:00:12+01:00"
+}

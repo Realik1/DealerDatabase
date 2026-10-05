@@ -1,0 +1,14 @@
+{
+  "target": {
+    "name": "KENWORTHY MOTOR COMPANY (UK) LIMITED",
+    "vatNumber": "260012029",
+    "address": {
+      "line1": "The Old Foundry",
+      "line2": "Commercial Road",
+      "line3": "GLASGOW",
+      "postcode": "G51 1PN",
+      "countryCode": "GB"
+    }
+  },
+  "processingDate": "2026-09-23T10:09:31+01:00"
+}

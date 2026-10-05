@@ -1,0 +1,14 @@
+{
+  "target": {
+    "name": "NZS VEHICLE SALES LIMITED",
+    "vatNumber": "495183807",
+    "address": {
+      "line1": "Kingsway Trading Estate",
+      "line2": "4-42 Bath Street",
+      "line3": "EDINBURGH",
+      "postcode": "EH54 7RA",
+      "countryCode": "GB"
+    }
+  },
+  "processingDate": "2026-09-19T09:30:50+01:00"
+}

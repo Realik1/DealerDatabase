@@ -1,0 +1,13 @@
+{
+  "target": {
+    "name": "IGZ VEHICLE SALES LIMITED",
+    "vatNumber": "321394479",
+    "address": {
+      "line1": "5 Ford Lane",
+      "line2": "GLASGOW",
+      "postcode": "G33 1LY",
+      "countryCode": "GB"
+    }
+  },
+  "processingDate": "2026-09-28T16:03:37+01:00"
+}

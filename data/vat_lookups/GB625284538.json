@@ -1,0 +1,13 @@
+{
+  "target": {
+    "name": "REGAL CAR SUPERMARKET LIMITED",
+    "vatNumber": "625284538",
+    "address": {
+      "line1": "21-192 Parkway",
+      "line2": "WARRINGTON",
+      "postcode": "WA1 9WZ",
+      "countryCode": "GB"
+    }
+  },
+  "processingDate": "2026-09-19T16:31:45+01:00"
+}

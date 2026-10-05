@@ -1,0 +1,13 @@
+{
+  "target": {
+    "name": "LR CARS (UK) LIMITED",
+    "vatNumber": "222384191",
+    "address": {
+      "line1": "5 Junction Road",
+      "line2": "HANLEY",
+      "postcode": "ST1 3SH",
+      "countryCode": "GB"
+    }
+  },
+  "processingDate": "2026-09-25T15:19:35+01:00"
+}

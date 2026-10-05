@@ -1,0 +1,14 @@
+{
+  "target": {
+    "name": "QUALITY CARS LIMITED",
+    "vatNumber": "710017107",
+    "address": {
+      "line1": "Kingsway Trading Estate",
+      "line2": "18 Bath Street",
+      "line3": "BIRMINGHAM",
+      "postcode": "B44 8JJ",
+      "countryCode": "GB"
+    }
+  },
+  "processingDate": "2026-09-28T15:00:51+01:00"
+}
