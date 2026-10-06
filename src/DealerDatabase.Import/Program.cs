@@ -1,8 +1,10 @@
 using DealerDatabase.Data;
 using DealerDatabase.Data.Entities;
+using DealerDatabase.Data.Migrations;
 using DealerDatabase.Import.DataReaders;
 using DealerDatabase.Import.Matching;
 using DealerDatabase.Import.Normalization;
+using DealerDatabase.Import.Persistence;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
@@ -11,6 +13,7 @@ using Microsoft.Extensions.Logging;
 var builder = Host.CreateApplicationBuilder(args);
 
 builder.Services.AddDealerDatabase();
+builder.Services.AddScoped<DealerPersistenceService>();
 
 using var host = builder.Build();
 
@@ -94,103 +97,11 @@ logger.LogInformation("\n=== Persisting to Database ===");
 await using (var scope = host.Services.CreateAsyncScope())
 {
     var db = scope.ServiceProvider.GetRequiredService<DealerDbContext>();
-
-    // Check for existing dealers to ensure idempotency
     var existingDealerCount = await db.Dealers.CountAsync();
     logger.LogInformation("Existing dealers in database: {Count}", existingDealerCount);
 
-    var insertedCount = 0;
-    var updatedCount = 0;
-
-    foreach (var consolidatedRecord in consolidatedRecords)
-    {
-        // Try to find existing dealer by registration numbers (for idempotency)
-        Dealer? existingDealer = null;
-
-        if (!string.IsNullOrEmpty(consolidatedRecord.CompaniesHouseNumber))
-        {
-            existingDealer = await db.Dealers
-                .FirstOrDefaultAsync(d => d.CompaniesHouseNumber == consolidatedRecord.CompaniesHouseNumber);
-        }
-
-        if (existingDealer == null && !string.IsNullOrEmpty(consolidatedRecord.VatNumber))
-        {
-            existingDealer = await db.Dealers
-                .FirstOrDefaultAsync(d => d.VatNumber == consolidatedRecord.VatNumber);
-        }
-
-        if (existingDealer == null && !string.IsNullOrEmpty(consolidatedRecord.FcaFirmRefNumber))
-        {
-            existingDealer = await db.Dealers
-                .FirstOrDefaultAsync(d => d.FcaFirmRefNumber == consolidatedRecord.FcaFirmRefNumber);
-        }
-
-        if (existingDealer != null)
-        {
-            // Update existing dealer (but preserve ID)
-            existingDealer.Name = consolidatedRecord.Name;
-            existingDealer.LegalName = consolidatedRecord.LegalName;
-            existingDealer.Address = consolidatedRecord.Address;
-            existingDealer.AddressLine2 = consolidatedRecord.AddressLine2;
-            existingDealer.Postcode = consolidatedRecord.Postcode;
-            existingDealer.PhoneNumber = consolidatedRecord.PhoneNumber;
-            existingDealer.WebsiteDomain = consolidatedRecord.WebsiteDomain;
-            existingDealer.CompaniesHouseNumber = consolidatedRecord.CompaniesHouseNumber;
-            existingDealer.FcaFirmRefNumber = consolidatedRecord.FcaFirmRefNumber;
-            existingDealer.VatNumber = consolidatedRecord.VatNumber;
-            existingDealer.IcoRegistrationNumber = consolidatedRecord.IcoRegistrationNumber;
-            existingDealer.SafMemberStatus = consolidatedRecord.SafMemberStatus;
-            existingDealer.IncorporationDate = consolidatedRecord.IncorporationDate;
-            existingDealer.DissolutionDate = consolidatedRecord.DissolutionDate;
-            existingDealer.HasConflicts = consolidatedRecord.HasConflicts;
-            existingDealer.Notes = consolidatedRecord.ConflictNotes;
-            existingDealer.LastModifiedDate = DateTime.UtcNow;
-
-            db.Dealers.Update(existingDealer);
-            updatedCount++;
-        }
-        else
-        {
-            // Create new dealer
-            var dealer = new Dealer
-            {
-                Name = consolidatedRecord.Name,
-                LegalName = consolidatedRecord.LegalName,
-                Address = consolidatedRecord.Address,
-                AddressLine2 = consolidatedRecord.AddressLine2,
-                Postcode = consolidatedRecord.Postcode,
-                PhoneNumber = consolidatedRecord.PhoneNumber,
-                WebsiteDomain = consolidatedRecord.WebsiteDomain,
-                CompaniesHouseNumber = consolidatedRecord.CompaniesHouseNumber,
-                FcaFirmRefNumber = consolidatedRecord.FcaFirmRefNumber,
-                VatNumber = consolidatedRecord.VatNumber,
-                IcoRegistrationNumber = consolidatedRecord.IcoRegistrationNumber,
-                SafMemberStatus = consolidatedRecord.SafMemberStatus,
-                IncorporationDate = consolidatedRecord.IncorporationDate,
-                DissolutionDate = consolidatedRecord.DissolutionDate,
-                HasConflicts = consolidatedRecord.HasConflicts,
-                Notes = consolidatedRecord.ConflictNotes,
-                CreatedDate = DateTime.UtcNow,
-                LastModifiedDate = DateTime.UtcNow
-            };
-
-            db.Dealers.Add(dealer);
-            insertedCount++;
-        }
-
-        // Add source records for audit trail
-        if (existingDealer?.Id > 0)
-        {
-            // Remove old source records for this dealer
-            var oldSources = await db.DealerSources
-                .Where(s => s.DealerId == existingDealer.Id)
-                .ToListAsync();
-            db.DealerSources.RemoveRange(oldSources);
-        }
-    }
-
-    // Save all changes
-    await db.SaveChangesAsync();
+    var persistenceService = scope.ServiceProvider.GetRequiredService<DealerPersistenceService>();
+    var (insertedCount, updatedCount) = await persistenceService.PersistAsync(consolidatedRecords);
 
     logger.LogInformation("  - {InsertedCount} new dealers inserted", insertedCount);
     logger.LogInformation("  - {UpdatedCount} existing dealers updated", updatedCount);

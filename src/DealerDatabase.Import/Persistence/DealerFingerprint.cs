@@ -17,7 +17,7 @@ public class DealerFingerprint
 {
     /// <summary>
     /// The structured fingerprint that can be used as a database key.
-    /// </summary>
+    /// </summary> 
     public string FingerprintKey { get; private set; } = string.Empty;
 
     /// <summary>

@@ -12,7 +12,7 @@ public class IcoStagingDto : StagingDtoBase
     public string? OrganisationName { get; set; }
     public string? Address { get; set; }
     public string? Postcode { get; set; }
-    public string? ExpiryDate { get; set; }
+    public string? ExpiryDate { get; set; } 
 
     public override NormalizedDealerRecord ToNormalizedRecord()
     {

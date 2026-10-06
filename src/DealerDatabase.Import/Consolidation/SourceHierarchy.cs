@@ -19,7 +19,7 @@ public static class SourceHierarchy
         /// <summary>Legal company name from Companies House (most trustworthy).</summary>
         public static readonly HashSet<SourceAuthorityRank> LegalName = new()
         {
-            SourceAuthorityRank.CompaniesHouse,
+            SourceAuthorityRank.CompaniesHouse, 
             SourceAuthorityRank.FcaRegister,
             SourceAuthorityRank.VatLookups
         };

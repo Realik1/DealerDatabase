@@ -1,6 +1,7 @@
 using CsvHelper;
 using System.Globalization;
 using System.Text.Json;
+using CsvHelper.Configuration;
 
 namespace DealerDatabase.Import.DataReaders;
 
@@ -28,14 +29,14 @@ public class CrawledDealersReader : IDataReader
             int recordCount = 0;
             while (await csv.ReadAsync())
             {
-                // Try to extract common fields, using GetField with fallback to null
-                var dealerId = csv.GetField("id") ?? csv.GetField("dealer_id") ?? recordCount.ToString();
-                var name = csv.GetField("name") ?? csv.GetField("dealer_name") ?? string.Empty;
-                var phone = GetFieldSafe(csv, "phone", "telephone", "contact_phone");
-                var address = GetFieldSafe(csv, "address", "street", "street_address");
-                var city = GetFieldSafe(csv, "city", "town", "locality");
-                var postcode = GetFieldSafe(csv, "postcode", "zip", "postal_code");
-                var website = GetFieldSafe(csv, "website", "url", "domain");
+                // Use GetFieldSafe to gracefully handle variations and actual CSV header names (e.g., "crawl_id")
+                var dealerId = GetFieldSafe(csv, "crawl_id", "id", "dealer_id") ?? recordCount.ToString();
+                var name = GetFieldSafe(csv, "business_name_detected", "name", "dealer_name") ?? string.Empty;
+                var phone = GetFieldSafe(csv, "phones_detected", "phone", "telephone", "contact_phone");
+                var address = GetFieldSafe(csv, "address_detected", "address", "street", "street_address");
+                var city = GetFieldSafe(csv, "address_detected");
+                var postcode = GetFieldSafe(csv, "postcode_detected", "postcode", "zip", "postal_code");
+                var website = GetFieldSafe(csv, "source_url", "final_url", "website", "url", "domain");
 
                 if (string.IsNullOrWhiteSpace(name))
                     continue;

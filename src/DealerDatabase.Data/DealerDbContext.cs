@@ -34,6 +34,9 @@ public class DealerDbContext(DbContextOptions<DealerDbContext> options) : DbCont
             entity.Property(d => d.PhoneNumber)
                 .HasMaxLength(20);
 
+            entity.Property(d => d.EmailAddress)
+                .HasMaxLength(255);
+
             entity.Property(d => d.WebsiteDomain)
                 .HasMaxLength(255);
 
@@ -43,8 +46,14 @@ public class DealerDbContext(DbContextOptions<DealerDbContext> options) : DbCont
             entity.Property(d => d.FcaFirmRefNumber)
                 .HasMaxLength(50);
 
+            entity.Property(d => d.FcaStatus)
+                .HasMaxLength(100);
+
             entity.Property(d => d.VatNumber)
                 .HasMaxLength(50);
+
+            entity.Property(d => d.VatValidationStatus)
+                .HasMaxLength(100);
 
             entity.Property(d => d.IcoRegistrationNumber)
                 .HasMaxLength(50);
@@ -66,6 +75,7 @@ public class DealerDbContext(DbContextOptions<DealerDbContext> options) : DbCont
             entity.HasIndex(d => d.FcaFirmRefNumber);
             entity.HasIndex(d => d.VatNumber);
             entity.HasIndex(d => d.Name);
+            entity.HasIndex(d => d.EmailAddress);
         });
 
         // Configure DealerSource entity
@@ -94,8 +104,20 @@ public class DealerDbContext(DbContextOptions<DealerDbContext> options) : DbCont
             entity.Property(s => s.SourcePhoneNumber)
                 .HasMaxLength(20);
 
+            entity.Property(s => s.SourceEmailAddress)
+                .HasMaxLength(255);
+
             entity.Property(s => s.MatchReason)
                 .HasMaxLength(100);
+
+            entity.Property(s => s.DirectorInfo)
+                .HasMaxLength(2000);
+
+            entity.Property(s => s.FinanceCalculatorDetails)
+                .HasMaxLength(1000);
+
+            entity.Property(s => s.VehicleTypeInfo)
+                .HasMaxLength(500);
 
             // Unique constraint on source combination
             entity.HasIndex(s => new { s.SourceName, s.SourceId })
@@ -103,6 +125,8 @@ public class DealerDbContext(DbContextOptions<DealerDbContext> options) : DbCont
 
             // Index for lookups
             entity.HasIndex(s => s.DealerId);
+            entity.HasIndex(s => s.SourceName);
+            entity.HasIndex(s => s.ImportedDate);
         });
     }
 }

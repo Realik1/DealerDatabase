@@ -3,6 +3,7 @@ using System;
 using DealerDatabase.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -10,9 +11,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace DealerDatabase.Data.Migrations
 {
     [DbContext(typeof(DealerDbContext))]
-    partial class DealerDbContextModelSnapshot : ModelSnapshot
+    [Migration("20261006085531_Dealers")]
+    partial class Dealers
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder.HasAnnotation("ProductVersion", "8.0.11");
@@ -41,23 +44,12 @@ namespace DealerDatabase.Data.Migrations
                     b.Property<DateTime?>("DissolutionDate")
                         .HasColumnType("TEXT");
 
-                    b.Property<string>("EmailAddress")
-                        .HasMaxLength(255)
-                        .HasColumnType("TEXT");
-
                     b.Property<string>("FcaFirmRefNumber")
                         .HasMaxLength(50)
                         .HasColumnType("TEXT");
 
-                    b.Property<string>("FcaStatus")
-                        .HasMaxLength(100)
-                        .HasColumnType("TEXT");
-
                     b.Property<bool>("HasConflicts")
                         .HasColumnType("INTEGER");
-
-                    b.Property<DateTime?>("IcoExpiryDate")
-                        .HasColumnType("TEXT");
 
                     b.Property<string>("IcoRegistrationNumber")
                         .HasMaxLength(50)
@@ -90,19 +82,12 @@ namespace DealerDatabase.Data.Migrations
                         .HasMaxLength(20)
                         .HasColumnType("TEXT");
 
-                    b.Property<DateTime?>("SafExpiryDate")
-                        .HasColumnType("TEXT");
-
                     b.Property<string>("SafMemberStatus")
                         .HasMaxLength(100)
                         .HasColumnType("TEXT");
 
                     b.Property<string>("VatNumber")
                         .HasMaxLength(50)
-                        .HasColumnType("TEXT");
-
-                    b.Property<string>("VatValidationStatus")
-                        .HasMaxLength(100)
                         .HasColumnType("TEXT");
 
                     b.Property<string>("WebsiteDomain")
@@ -112,8 +97,6 @@ namespace DealerDatabase.Data.Migrations
                     b.HasKey("Id");
 
                     b.HasIndex("CompaniesHouseNumber");
-
-                    b.HasIndex("EmailAddress");
 
                     b.HasIndex("FcaFirmRefNumber");
 
@@ -133,18 +116,7 @@ namespace DealerDatabase.Data.Migrations
                     b.Property<int>("DealerId")
                         .HasColumnType("INTEGER");
 
-                    b.Property<string>("DirectorInfo")
-                        .HasMaxLength(2000)
-                        .HasColumnType("TEXT");
-
-                    b.Property<string>("FinanceCalculatorDetails")
-                        .HasMaxLength(1000)
-                        .HasColumnType("TEXT");
-
                     b.Property<DateTime>("ImportedDate")
-                        .HasColumnType("TEXT");
-
-                    b.Property<DateTime?>("LastValidationDate")
                         .HasColumnType("TEXT");
 
                     b.Property<int>("MatchConfidence")
@@ -159,10 +131,6 @@ namespace DealerDatabase.Data.Migrations
                         .HasColumnType("TEXT");
 
                     b.Property<string>("SourceData")
-                        .HasColumnType("TEXT");
-
-                    b.Property<string>("SourceEmailAddress")
-                        .HasMaxLength(255)
                         .HasColumnType("TEXT");
 
                     b.Property<string>("SourceId")
@@ -188,23 +156,9 @@ namespace DealerDatabase.Data.Migrations
                         .HasMaxLength(20)
                         .HasColumnType("TEXT");
 
-                    b.Property<double?>("SourceRating")
-                        .HasColumnType("REAL");
-
-                    b.Property<int?>("StockFigure")
-                        .HasColumnType("INTEGER");
-
-                    b.Property<string>("VehicleTypeInfo")
-                        .HasMaxLength(500)
-                        .HasColumnType("TEXT");
-
                     b.HasKey("Id");
 
                     b.HasIndex("DealerId");
-
-                    b.HasIndex("ImportedDate");
-
-                    b.HasIndex("SourceName");
 
                     b.HasIndex("SourceName", "SourceId")
                         .IsUnique();

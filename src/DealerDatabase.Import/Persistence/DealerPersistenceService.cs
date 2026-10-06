@@ -15,7 +15,7 @@ public class DealerPersistenceService
     private readonly DealerDbContext _db;
 
     public DealerPersistenceService(DealerDbContext db)
-    {
+    { 
         _db = db;
     }
 
@@ -33,13 +33,13 @@ public class DealerPersistenceService
             var fingerprint = DealerFingerprint.Generate(record);
             var existingDealer = await FindExistingDealerAsync(fingerprint);
 
-            if (existingDealer != null)
+            if (existingDealer != null && !string.IsNullOrWhiteSpace(record.Name))
             {
                 UpdateDealerRecord(existingDealer, record);
                 _db.Dealers.Update(existingDealer);
                 updated++;
             }
-            else
+            else if(!string.IsNullOrWhiteSpace(record.Name))
             {
                 var newDealer = CreateDealerRecord(record);
                 _db.Dealers.Add(newDealer);
@@ -148,12 +148,17 @@ public class DealerPersistenceService
             AddressLine2 = source.AddressLine2,
             Postcode = source.Postcode,
             PhoneNumber = source.PhoneNumber,
+            EmailAddress = source.EmailAddress,
             WebsiteDomain = source.WebsiteDomain,
             CompaniesHouseNumber = source.CompaniesHouseNumber,
             FcaFirmRefNumber = source.FcaFirmRefNumber,
+            FcaStatus = source.FcaStatus,
             VatNumber = source.VatNumber,
+            VatValidationStatus = source.VatValidationStatus,
             IcoRegistrationNumber = source.IcoRegistrationNumber,
+            IcoExpiryDate = source.IcoExpiryDate,
             SafMemberStatus = source.SafMemberStatus,
+            SafExpiryDate = source.SafExpiryDate,
             IncorporationDate = source.IncorporationDate,
             DissolutionDate = source.DissolutionDate,
             HasConflicts = source.HasConflicts,
@@ -174,12 +179,17 @@ public class DealerPersistenceService
         existing.AddressLine2 = source.AddressLine2;
         existing.Postcode = source.Postcode;
         existing.PhoneNumber = source.PhoneNumber;
+        existing.EmailAddress = source.EmailAddress;
         existing.WebsiteDomain = source.WebsiteDomain;
         existing.CompaniesHouseNumber = source.CompaniesHouseNumber;
         existing.FcaFirmRefNumber = source.FcaFirmRefNumber;
+        existing.FcaStatus = source.FcaStatus;
         existing.VatNumber = source.VatNumber;
+        existing.VatValidationStatus = source.VatValidationStatus;
         existing.IcoRegistrationNumber = source.IcoRegistrationNumber;
+        existing.IcoExpiryDate = source.IcoExpiryDate;
         existing.SafMemberStatus = source.SafMemberStatus;
+        existing.SafExpiryDate = source.SafExpiryDate;
         existing.IncorporationDate = source.IncorporationDate;
         existing.DissolutionDate = source.DissolutionDate;
         existing.HasConflicts = source.HasConflicts;

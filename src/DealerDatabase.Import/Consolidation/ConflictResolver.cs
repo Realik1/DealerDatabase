@@ -18,7 +18,7 @@ public class ConflictResolver
     public ConsolidatedRecord Resolve(RecordCluster cluster)
     {
         var consolidated = new ConsolidatedRecord
-        {
+        { 
             ClusterId = cluster.ClusterId,
             SourceRecords = cluster.Records,
             HasConflicts = false

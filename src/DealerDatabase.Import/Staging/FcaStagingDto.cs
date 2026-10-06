@@ -13,7 +13,7 @@ public class FcaStagingDto : StagingDtoBase
     public List<string>? TradingNames { get; set; }
     public string? AuthorisationStatus { get; set; }
     public string? FirmType { get; set; }
-    public List<string>? PermissionTypes { get; set; }
+    public List<string>? PermissionTypes { get; set; } 
 
     public override NormalizedDealerRecord ToNormalizedRecord()
     {

@@ -28,7 +28,7 @@ public abstract class StagingDtoBase
 /// <summary>Authority/trustworthiness rank of a source (1=highest, 7=lowest).</summary>
 public enum SourceAuthorityRank
 {
-    CompaniesHouse = 1,
+    CompaniesHouse = 1, 
     FcaRegister = 2,
     IcoRegister = 3,
     VatLookups = 4,

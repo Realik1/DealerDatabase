@@ -12,7 +12,7 @@ public class CompaniesHouseStagingDto : StagingDtoBase
     public string? CompanyName { get; set; }
     public string? CompanyStatus { get; set; }
     public string? Type { get; set; }
-    public string? DateOfCreation { get; set; }
+    public string? DateOfCreation { get; set; } 
     public string? DateOfDissolution { get; set; }
     public AddressDto? RegisteredOfficeAddress { get; set; }
     public List<string>? SicCodes { get; set; }

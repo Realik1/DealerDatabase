@@ -13,7 +13,7 @@ public class MarketCheckReader : IDataReader
     public string SourceName => "marketcheck";
 
     public async Task<IEnumerable<RawDealerRecord>> ReadAsync(string sourcePath, CancellationToken cancellationToken = default)
-    {
+    { 
         if (!File.Exists(sourcePath))
             return Enumerable.Empty<RawDealerRecord>();
 
