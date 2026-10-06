@@ -1,0 +1,6 @@
+* I went with the logic that companies house is the initial registered name of a company and if they changed branding without necessarily changing the registered name then this would mean the name could well be different. I went with multi pass hierarchical approach to matching records so that we could apply a confidence level to mismatched spellings and locations to give a best case for matching up details. Absolute details that couldn't differ like Companies house numbers, FCA, VAT, ICO and SAF were able to be like for like but fuzzy matching on names made sense to account for spelling errors in non-legal data scrapes.
+* the main assumption I made around the data is that each source of data would remain in the same format. I mapped the column values as they have been presented in the .csv files assuming that each time you pull from these sources the manner in which they're pulled will name them in the same way and if not it can be altered to be uniform in the future as this will allow for a more standardised grab of the data from the appropriate columns.
+* I would have made the web interface if I had more time and looked deeper in to the additional information that can be brought through from different sources that isn't standardised as I'm not sure how well this has turned out and ran out of time to properly check and test it.
+
+
+
