@@ -10,7 +10,7 @@ public class RecordMatcher
 {
     // Matching thresholds
     private const int ExactMatchConfidence = 100;
-    private const int RegistrationNumberMatchConfidence = 95;
+    private const int RegistrationNumberMatchConfidence = 95; 
     private const int HighSimilarityThreshold = 80;
     private const int MediumSimilarityThreshold = 60;
     private const int LowSimilarityThreshold = 40;
@@ -207,7 +207,7 @@ public class RecordMatcher
         var nameSimilarity = CalculateSimilarity(
             record1.NormalizedName ?? record1.Name,
             record2.NormalizedName ?? record2.Name);
-        score += (int)(nameSimilarity * 0.40);
+        score += (int)(nameSimilarity * 40);
         factors++;
 
         // Postcode match (40 points)

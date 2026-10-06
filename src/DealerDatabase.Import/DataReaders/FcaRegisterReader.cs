@@ -4,7 +4,7 @@ using System.Text.Json.Serialization;
 namespace DealerDatabase.Import.DataReaders;
 
 /// <summary>
-/// Reads FCA Financial Services Register firms from JSON format.
+/// Reads FCA Register firm records from JSON format.
 /// </summary>
 public class FcaRegisterReader : IDataReader
 {
@@ -15,30 +15,42 @@ public class FcaRegisterReader : IDataReader
         if (!File.Exists(sourcePath))
             return Enumerable.Empty<RawDealerRecord>();
 
-        var records = new List<RawDealerRecord>();
+        var resultRecords = new List<RawDealerRecord>();
 
         var jsonContent = await File.ReadAllTextAsync(sourcePath, cancellationToken);
         var options = new JsonSerializerOptions { PropertyNameCaseInsensitive = true };
 
         try
         {
-            var firmsList = JsonSerializer.Deserialize<List<FcaFirmRecord>>(jsonContent, options);
-            if (firmsList == null)
-                return records;
+            var response = JsonSerializer.Deserialize<FcaRegisterResponse>(jsonContent, options);
+            var firms = response?.Data ?? response?.Items;
 
-            foreach (var firm in firmsList)
+            if (firms == null)
+                return resultRecords;
+
+            foreach (var firm in firms)
             {
+                var frnString = firm.GetFrnString();
+                var firmName = firm.GetNameString();
+
+                // Skip records that have no name and no reference number
+                if (string.IsNullOrWhiteSpace(frnString))
+                    continue;
+
+                // Fallback name to the FRN if the register entry lacks a formal name
+                var resolvedName = !string.IsNullOrWhiteSpace(firmName) ? firmName : $"FCA Firm {frnString}";
+
                 var record = new RawDealerRecord
                 {
                     Source = SourceName,
-                    SourceId = firm.firm_reference_number ?? string.Empty,
-                    Name = firm.name ?? firm.trading_names?.FirstOrDefault() ?? string.Empty,
-                    LegalName = firm.name,
-                    FcaFirmRefNumber = firm.firm_reference_number,
+                    SourceId = frnString ?? string.Empty,
+                    Name = firmName ?? string.Empty,
+                    LegalName = firmName,
+                    FcaFirmRefNumber = frnString,
                     RawData = JsonSerializer.Serialize(firm)
                 };
 
-                records.Add(record);
+                resultRecords.Add(record);
             }
         }
         catch (JsonException ex)
@@ -46,17 +58,48 @@ public class FcaRegisterReader : IDataReader
             throw new InvalidOperationException($"Failed to parse FCA Register JSON: {ex.Message}", ex);
         }
 
-        return records;
+        return resultRecords;
+    }
+}
+
+public class FcaRegisterResponse
+{
+    [JsonPropertyName("data")]
+    public List<FcaFirmRecord>? Data { get; set; }
+
+    [JsonPropertyName("items")]
+    public List<FcaFirmRecord>? Items { get; set; }
+}
+
+public class FcaFirmRecord
+{
+    [JsonPropertyName("FRN")]
+    public JsonElement? Frn { get; set; }
+
+    [JsonPropertyName("reference_number")]
+    public JsonElement? ReferenceNumber { get; set; }
+
+    [JsonPropertyName("name")]
+    public JsonElement? Name { get; set; }
+
+    [JsonPropertyName("firm_name")]
+    public JsonElement? FirmName { get; set; }
+
+    public string? GetFrnString()
+    {
+        if (Frn.HasValue && Frn.Value.ValueKind != JsonValueKind.Null)
+            return Frn.Value.ToString();
+        if (ReferenceNumber.HasValue && ReferenceNumber.Value.ValueKind != JsonValueKind.Null)
+            return ReferenceNumber.Value.ToString();
+        return null;
     }
 
-    [JsonSourceGenerationOptions(PropertyNamingPolicy = JsonKnownNamingPolicy.SnakeCaseLower)]
-    private class FcaFirmRecord
+    public string? GetNameString()
     {
-        public string? firm_reference_number { get; set; }
-        public string? name { get; set; }
-        public List<string>? trading_names { get; set; }
-        public string? authorisation_status { get; set; }
-        public string? firm_type { get; set; }
-        public List<string>? permission_types { get; set; }
+        if (Name.HasValue && Name.Value.ValueKind != JsonValueKind.Null)
+            return Name.Value.ToString();
+        if (FirmName.HasValue && FirmName.Value.ValueKind != JsonValueKind.Null)
+            return FirmName.Value.ToString();
+        return null;
     }
 }

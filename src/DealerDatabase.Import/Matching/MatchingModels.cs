@@ -55,12 +55,17 @@ public class ConsolidatedRecord
     public string? AddressLine2 { get; set; }
     public string? Postcode { get; set; }
     public string? PhoneNumber { get; set; }
+    public string? EmailAddress { get; set; }
     public string? WebsiteDomain { get; set; }
     public string? CompaniesHouseNumber { get; set; }
     public string? FcaFirmRefNumber { get; set; }
+    public string? FcaStatus { get; set; }
     public string? VatNumber { get; set; }
+    public string? VatValidationStatus { get; set; }
     public string? IcoRegistrationNumber { get; set; }
+    public DateTime? IcoExpiryDate { get; set; }
     public string? SafMemberStatus { get; set; }
+    public DateTime? SafExpiryDate { get; set; }
     public DateTime? IncorporationDate { get; set; }
     public DateTime? DissolutionDate { get; set; }
     public bool HasConflicts { get; set; }

@@ -1,6 +1,7 @@
 using CsvHelper;
 using System.Globalization;
 using System.Text.Json;
+using CsvHelper.Configuration;
 
 namespace DealerDatabase.Import.DataReaders;
 
@@ -27,11 +28,13 @@ public class IcoRegisterReader : IDataReader
 
             while (await csv.ReadAsync())
             {
-                var registrationNumber = csv.GetField("Registration number")?.Trim() ?? string.Empty;
-                var organisationName = csv.GetField("Organisation name")?.Trim() ?? string.Empty;
-                var address = csv.GetField("Address")?.Trim();
-                var postcode = csv.GetField("Postcode")?.Trim();
-                var expiryDateStr = csv.GetField("Expiry date")?.Trim();
+                // Use GetFieldSafe to match the actual CSV header names (e.g., "Registration_number")
+                var registrationNumber = GetFieldSafe(csv, "Registration_number", "Registration number") ?? string.Empty;
+                var organisationName = GetFieldSafe(csv, "Organisation_name", "Organisation name") ?? string.Empty;
+                var addressLine1 = GetFieldSafe(csv, "Organisation_address_line_1", "Address");
+                var addressLine2 = GetFieldSafe(csv, "Organisation_address_line_2");
+                var postcode = GetFieldSafe(csv, "Organisation_postcode", "Postcode");
+                var expiryDateStr = GetFieldSafe(csv, "End_date_of_registration", "Expiry date");
 
                 if (string.IsNullOrEmpty(organisationName))
                     continue;
@@ -41,10 +44,11 @@ public class IcoRegisterReader : IDataReader
                     Source = SourceName,
                     SourceId = registrationNumber,
                     Name = organisationName,
-                    Address = address,
+                    Address = addressLine1,
+                    AddressLine2 = addressLine2,
                     Postcode = postcode,
                     IcoRegistrationNumber = registrationNumber,
-                    RawData = JsonSerializer.Serialize(new { registrationNumber, organisationName, address, postcode, expiryDateStr })
+                    RawData = SerializeRowAsJson(csv)
                 };
 
                 records.Add(record);
@@ -52,5 +56,44 @@ public class IcoRegisterReader : IDataReader
         }
 
         return records;
+    }
+
+    private static string? GetFieldSafe(CsvReader csv, params string[] fieldNames)
+    {
+        foreach (var fieldName in fieldNames)
+        {
+            try
+            {
+                var value = csv.GetField(fieldName);
+                if (!string.IsNullOrWhiteSpace(value))
+                    return value.Trim();
+            }
+            catch
+            {
+                // Field doesn't exist, try next
+            }
+        }
+        return null;
+    }
+
+    private static string SerializeRowAsJson(CsvReader csv)
+    {
+        var dict = new Dictionary<string, object?>();
+        if (csv.HeaderRecord != null)
+        {
+            foreach (var header in csv.HeaderRecord)
+            {
+                try
+                {
+                    var value = csv.GetField(header);
+                    dict[header] = value;
+                }
+                catch
+                {
+                    // Field doesn't exist
+                }
+            }
+        }
+        return JsonSerializer.Serialize(dict);
     }
 }

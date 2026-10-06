@@ -10,7 +10,7 @@ public class PassMatchResult
 {
     public int PassNumber { get; set; }
     public NormalizedDealerRecord CandidateRecord { get; set; } = null!;
-    public int ConfidenceScore { get; set; }
+    public int ConfidenceScore { get; set; } 
     public string Reason { get; set; } = string.Empty;
 }
 

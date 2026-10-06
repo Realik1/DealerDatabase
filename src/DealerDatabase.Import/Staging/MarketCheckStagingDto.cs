@@ -7,7 +7,7 @@ namespace DealerDatabase.Import.Staging;
 /// Staging DTO for MarketCheck CSV dealer records.
 /// Represents one row from marketcheck_dealers.csv
 /// </summary>
-public class MarketCheckStagingDto : StagingDtoBase
+public class MarketCheckStagingDto : StagingDtoBase 
 {
     public string? SellerName { get; set; }
     public string? SellerType { get; set; }

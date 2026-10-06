@@ -15,18 +15,20 @@ public class CompaniesHouseReader : IDataReader
         if (!File.Exists(sourcePath))
             return Enumerable.Empty<RawDealerRecord>();
 
-        var records = new List<RawDealerRecord>();
+        var resultRecords = new List<RawDealerRecord>();
 
         var jsonContent = await File.ReadAllTextAsync(sourcePath, cancellationToken);
         var options = new JsonSerializerOptions { PropertyNameCaseInsensitive = true };
 
         try
         {
-            var companiesList = JsonSerializer.Deserialize<List<CompaniesHouseRecord>>(jsonContent, options);
-            if (companiesList == null)
-                return records;
+            var response = JsonSerializer.Deserialize<CompaniesHouseResponse>(jsonContent, options);
+            var companies = response?.Items;
 
-            foreach (var company in companiesList)
+            if (companies == null)
+                return resultRecords;
+
+            foreach (var company in companies)
             {
                 var record = new RawDealerRecord
                 {
@@ -50,7 +52,7 @@ public class CompaniesHouseReader : IDataReader
                     record.Postcode = addr.postal_code;
                 }
 
-                records.Add(record);
+                resultRecords.Add(record);
             }
         }
         catch (JsonException ex)
@@ -58,7 +60,7 @@ public class CompaniesHouseReader : IDataReader
             throw new InvalidOperationException($"Failed to parse Companies House JSON: {ex.Message}", ex);
         }
 
-        return records;
+        return resultRecords;
     }
 
     private static DateTime? ParseDate(string? dateString)
@@ -71,38 +73,44 @@ public class CompaniesHouseReader : IDataReader
 
         return null;
     }
+}
 
-    [JsonSourceGenerationOptions(PropertyNamingPolicy = JsonKnownNamingPolicy.SnakeCaseLower)]
-    private class CompaniesHouseRecord
-    {
-        public string? company_number { get; set; }
-        public string? company_name { get; set; }
-        public string? company_status { get; set; }
-        public string? type { get; set; }
-        public string? date_of_creation { get; set; }
-        public string? date_of_dissolution { get; set; }
-        public Address? registered_office_address { get; set; }
-        public List<string>? sic_codes { get; set; }
-        public List<Officer>? officers { get; set; }
-    }
+public class CompaniesHouseResponse
+{
+    [JsonPropertyName("items")]
+    public List<CompaniesHouseRecord> Items { get; set; } = new();
+}
 
-    private class Address
-    {
-        public string? address_line_1 { get; set; }
-        public string? address_line_2 { get; set; }
-        public string? locality { get; set; }
-        public string? region { get; set; }
-        public string? postal_code { get; set; }
-        public string? country { get; set; }
-    }
+[JsonSourceGenerationOptions(PropertyNamingPolicy = JsonKnownNamingPolicy.SnakeCaseLower)]
+public class CompaniesHouseRecord
+{
+    public string? company_number { get; set; }
+    public string? company_name { get; set; }
+    public string? company_status { get; set; }
+    public string? type { get; set; }
+    public string? date_of_creation { get; set; }
+    public string? date_of_dissolution { get; set; }
+    public Address? registered_office_address { get; set; }
+    public List<string>? sic_codes { get; set; }
+    public List<Officer>? officers { get; set; }
+}
 
-    private class Officer
-    {
-        public string? name { get; set; }
-        public string? officer_role { get; set; }
-        public string? appointed_on { get; set; }
-        public string? resigned_on { get; set; }
-        public string? occupation { get; set; }
-        public string? nationality { get; set; }
-    }
+public class Address
+{
+    public string? address_line_1 { get; set; }
+    public string? address_line_2 { get; set; }
+    public string? locality { get; set; }
+    public string? region { get; set; }
+    public string? postal_code { get; set; }
+    public string? country { get; set; }
+}
+
+public class Officer
+{
+    public string? name { get; set; }
+    public string? officer_role { get; set; }
+    public string? appointed_on { get; set; }
+    public string? resigned_on { get; set; }
+    public string? occupation { get; set; }
+    public string? nationality { get; set; }
 }

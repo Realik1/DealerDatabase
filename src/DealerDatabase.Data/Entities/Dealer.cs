@@ -43,6 +43,21 @@ public class Dealer
     /// <summary>SAF membership status, if member.</summary>
     public string? SafMemberStatus { get; set; }
 
+    /// <summary>SAF membership expiry date, if applicable.</summary>
+    public DateTime? SafExpiryDate { get; set; }
+
+    /// <summary>ICO data protection registration expiry date, if applicable.</summary>
+    public DateTime? IcoExpiryDate { get; set; }
+
+    /// <summary>FCA status/classification (e.g., "Active", "Suspended", "Withdrawn").</summary>
+    public string? FcaStatus { get; set; }
+
+    /// <summary>VAT registration validation status (e.g., "Valid", "Pending", "Invalid").</summary>
+    public string? VatValidationStatus { get; set; }
+
+    /// <summary>Primary email address for the dealership.</summary>
+    public string? EmailAddress { get; set; }
+
     /// <summary>When the dealership was first incorporated or established.</summary>
     public DateTime? IncorporationDate { get; set; }
 
